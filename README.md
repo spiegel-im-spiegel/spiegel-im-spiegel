@@ -7,14 +7,12 @@
 
 日本語でおｋ
 
-### Web Sites
+### GitHub Status
 
-- Home: [Baldanders.info](https://baldanders.info/)
-- Blog: [text.Baldanders.info](https://text.baldanders.info/)
-- Photos: [photo.Baldanders.info](https://photo.baldanders.info/)
-- Slide: [slide.Baldanders.info](https://slide.baldanders.info/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiegel-im-spiegel&hide=html)
+![Spiegel's github stats](https://github-readme-stats.vercel.app/api?username=spiegel-im-spiegel&show_icons=true)
 
-### Portfolio
+### Active Repositories
 
 - [gpgpdump: OpenPGP packet visualizer](https://github.com/spiegel-im-spiegel/gpgpdump) ([Usage](https://text.baldanders.info/release/gpgpdump/)) [![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/spiegel-im-spiegel/gpgpdump/master/LICENSE) [![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/gpgpdump.svg)](https://github.com/spiegel-im-spiegel/gpgpdump/releases/latest)
 - [books-data: Search for Books Data](https://github.com/spiegel-im-spiegel/books-data) ([Usage](https://text.baldanders.info/release/books-data/)) [![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/spiegel-im-spiegel/books-data/master/LICENSE) [![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/books-data.svg)](https://github.com/spiegel-im-spiegel/books-data/releases/latest)
@@ -26,22 +24,17 @@
 - [gocli: Minimal Packages for Command-Line Interface](https://github.com/spiegel-im-spiegel/gocli) ([Usage](https://text.baldanders.info/release/gocli-package-for-golang/)) [![GitHub license](https://img.shields.io/badge/license-CC0-blue.svg)](https://raw.githubusercontent.com/spiegel-im-spiegel/gocli/master/LICENSE) [![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/gocli.svg)](https://github.com/spiegel-im-spiegel/gocli/releases/latest)
 - [mt: Mersenne Twister; Pseudo Random Number Generator, Implemented by Golang](https://github.com/spiegel-im-spiegel/mt) ([Usage](https://text.baldanders.info/release/mersenne-twister-by-golang/)) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/spiegel-im-spiegel/mt/master/LICENSE) [![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/mt.svg)](https://github.com/spiegel-im-spiegel/mt/releases/latest)
 
-### GitHub Status
+### Web Sites
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiegel-im-spiegel&hide=html)](https://github.com/spiegel-im-spiegel/github-readme-stats)
-[![spiegel's github stats](https://github-readme-stats.vercel.app/api?username=spiegel-im-spiegel)](https://github.com/spiegel-im-spiegel/github-readme-stats)
+- Home: [Baldanders.info](https://baldanders.info/)
+- Blog: [text.Baldanders.info](https://text.baldanders.info/)
+- Photos: [photo.Baldanders.info](https://photo.baldanders.info/), [Flickr](https://www.flickr.com/photos/spiegel/)
+- Slide: [slide.Baldanders.info](https://slide.baldanders.info/)
 
 <!--
-**spiegel-im-spiegel/spiegel-im-spiegel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Reference Pages
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- [How to create Github Profile-README | by Pratik Kumar | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/explore-new-github-readme-feature-7d5cc21bf02f?gi=2b13fe839146)
+- [alexandresanlim/Badges4-README.md-Profile: Improve your README.md profile with these amazing badges.](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+- [GitHub - anuraghazra/github-readme-stats: Dynamically generated stats for your github readmes](https://github.com/anuraghazra/github-readme-stats)
 -->
