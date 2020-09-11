@@ -10,7 +10,7 @@
 ### GitHub Status
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiegel-im-spiegel&hide=html)
-![Spiegel's github stats](https://github-readme-stats.vercel.app/api?username=spiegel-im-spiegel&show_icons=true)
+![Spiegel's github stats](https://github-readme-stats.vercel.app/api?username=spiegel-im-spiegel&show_icons=true&line_height=40)
 
 ### Active Repositories
 
