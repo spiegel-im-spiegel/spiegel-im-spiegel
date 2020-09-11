@@ -1,4 +1,4 @@
-## Spiegel
+## Spiegel's Portfolio
 
 ![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
@@ -12,6 +12,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiegel-im-spiegel&hide=html)
 ![Spiegel's github stats](https://github-readme-stats.vercel.app/api?username=spiegel-im-spiegel&show_icons=true&line_height=34)
 
+### Web Sites
+
+- Home: [Baldanders.info](https://baldanders.info/)
+- Blog: [text.Baldanders.info](https://text.baldanders.info/)
+- Photos: [photo.Baldanders.info](https://photo.baldanders.info/), [Flickr](https://www.flickr.com/photos/spiegel/)
+- Slide: [slide.Baldanders.info](https://slide.baldanders.info/)
+
 ### Active Repositories
 
 - [gpgpdump: OpenPGP packet visualizer](https://github.com/spiegel-im-spiegel/gpgpdump) ([Usage](https://text.baldanders.info/release/gpgpdump/)) [![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/gpgpdump.svg)](https://github.com/spiegel-im-spiegel/gpgpdump/releases/latest)
@@ -23,13 +30,6 @@
 - [errs: Error handling for Golang](https://github.com/spiegel-im-spiegel/errs) ([Usage](https://text.baldanders.info/release/errs-package-for-golang/)) [![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/errs.svg)](https://github.com/spiegel-im-spiegel/errs/releases/latest)
 - [gocli: Minimal Packages for Command-Line Interface](https://github.com/spiegel-im-spiegel/gocli) ([Usage](https://text.baldanders.info/release/gocli-package-for-golang/)) [![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/gocli.svg)](https://github.com/spiegel-im-spiegel/gocli/releases/latest)
 - [mt: Mersenne Twister; Pseudo Random Number Generator, Implemented by Golang](https://github.com/spiegel-im-spiegel/mt) ([Usage](https://text.baldanders.info/release/mersenne-twister-by-golang/))  [![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/mt.svg)](https://github.com/spiegel-im-spiegel/mt/releases/latest)
-
-### Web Sites
-
-- Home: [Baldanders.info](https://baldanders.info/)
-- Blog: [text.Baldanders.info](https://text.baldanders.info/)
-- Photos: [photo.Baldanders.info](https://photo.baldanders.info/), [Flickr](https://www.flickr.com/photos/spiegel/)
-- Slide: [slide.Baldanders.info](https://slide.baldanders.info/)
 
 <!--
 ### Reference Pages
