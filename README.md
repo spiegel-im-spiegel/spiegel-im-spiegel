@@ -2,8 +2,8 @@
 
 ### GitHub Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![spiegel's github stats](https://github-readme-stats.vercel.app/api?username=spiegel-im-spiegel)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiegel-im-spiegel&hide=html)](https://github.com/spiegel-im-spiegel/github-readme-stats)
+[![spiegel's github stats](https://github-readme-stats.vercel.app/api?username=spiegel-im-spiegel)](https://github.com/spiegel-im-spiegel/github-readme-stats)
 
 <!--
 **spiegel-im-spiegel/spiegel-im-spiegel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
