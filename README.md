@@ -9,9 +9,6 @@
 
 ### Active Repositories
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiegel-im-spiegel&hide=html)
-![Spiegel's github stats](https://github-readme-stats.vercel.app/api?username=spiegel-im-spiegel&show_icons=true&line_height=34)
-
 - [gpgpdump: OpenPGP packet visualizer](https://github.com/spiegel-im-spiegel/gpgpdump) ([Usage](https://text.baldanders.info/release/gpgpdump/)) [![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/gpgpdump.svg)](https://github.com/spiegel-im-spiegel/gpgpdump/releases/latest)
 - [books-data: Search for Books Data](https://github.com/spiegel-im-spiegel/books-data) ([Usage](https://text.baldanders.info/release/books-data/)) [![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/books-data.svg)](https://github.com/spiegel-im-spiegel/books-data/releases/latest)
 - [gnkf: Network Kanji Filter by Golang](https://github.com/spiegel-im-spiegel/gnkf) ([Usage](https://text.baldanders.info/release/gnkf/)) [![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/gnkf.svg)](https://github.com/spiegel-im-spiegel/gnkf/releases/latest)
@@ -21,6 +18,9 @@
 - [errs: Error handling for Golang](https://github.com/spiegel-im-spiegel/errs) ([Usage](https://text.baldanders.info/release/errs-package-for-golang/)) [![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/errs.svg)](https://github.com/spiegel-im-spiegel/errs/releases/latest)
 - [gocli: Minimal Packages for Command-Line Interface](https://github.com/spiegel-im-spiegel/gocli) ([Usage](https://text.baldanders.info/release/gocli-package-for-golang/)) [![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/gocli.svg)](https://github.com/spiegel-im-spiegel/gocli/releases/latest)
 - [mt: Mersenne Twister; Pseudo Random Number Generator, Implemented by Golang](https://github.com/spiegel-im-spiegel/mt) ([Usage](https://text.baldanders.info/release/mersenne-twister-by-golang/))  [![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/mt.svg)](https://github.com/spiegel-im-spiegel/mt/releases/latest)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiegel-im-spiegel&hide=html)
+![Spiegel's github stats](https://github-readme-stats.vercel.app/api?username=spiegel-im-spiegel&show_icons=true&line_height=34)
 
 ### Web Sites
 
