@@ -10,7 +10,8 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
-<img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/>
+<img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="30" height="30"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
@@ -48,16 +49,13 @@
 
 ### Contents
 
-- Home: [Baldanders.info](https://baldanders.info/)
-- Blog: [text.Baldanders.info](https://text.baldanders.info/)
-- Photos: [photo.Baldanders.info](https://photo.baldanders.info/), [Flickr](https://www.flickr.com/photos/spiegel/)
-- Slide: [slide.Baldanders.info](https://slide.baldanders.info/)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<!--
-### Reference Pages
-
-- [How to create Github Profile-README | by Pratik Kumar | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/explore-new-github-readme-feature-7d5cc21bf02f?gi=2b13fe839146)
-- [alexandresanlim/Badges4-README.md-Profile: Improve your README.md profile with these amazing badges.](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-- [anuraghazra/github-readme-stats: Dynamically generated stats for your github readmes](https://github.com/anuraghazra/github-readme-stats)
-- [GitHub Readme Stats を利用してGitHubプロフィールをカッコよくする - Qiita](https://qiita.com/zizi4n5/items/f8076cb25bbf64a9bc1c)
--->
+<ul style="list-style:none;">
+<li style="display:inline-block;"><a href="https://baldanders.info/">Home</a></li>
+<li style="display:inline-block;"><a href="https://text.baldanders.info/">Blog</a></li>
+<li style="display:inline-block;"><a href="https://slide.baldanders.info/">Slide</a></li>
+<li style="display:inline-block;"><a href="https://photo.baldanders.info/">Photos</a></li>
+<li style="display:inline-block;"><a href="https://www.flickr.com/photos/spiegel/">Flickr</a></li>
+</ul>
