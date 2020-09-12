@@ -52,10 +52,10 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<ul style="list-style:none;">
-<li style="display:inline-block;"><a href="https://baldanders.info/">Home</a></li>
-<li style="display:inline-block;"><a href="https://text.baldanders.info/">Blog</a></li>
-<li style="display:inline-block;"><a href="https://slide.baldanders.info/">Slide</a></li>
-<li style="display:inline-block;"><a href="https://photo.baldanders.info/">Photos</a></li>
-<li style="display:inline-block;"><a href="https://www.flickr.com/photos/spiegel/">Flickr</a></li>
-</ul>
+<p>
+<a href="https://baldanders.info/">Home</a>
+<a href="https://text.baldanders.info/">Blog</a>
+<a href="https://slide.baldanders.info/">Slide</a>
+<a href="https://photo.baldanders.info/">Photos</a>
+<a href="https://www.flickr.com/photos/spiegel/">Flickr</a>
+</p>
