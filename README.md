@@ -20,7 +20,7 @@
 
 <p>
 <a href="https://twitter.com/spiegel_2007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="spiegel_2007" height="20" width="20" /></a>
-日本語でおｋ ([OpenPGP public key](https://baldanders.info/pubkeys/spiegel.asc))
+日本語でおｋ (<a href="https://baldanders.info/pubkeys/spiegel.asc">OpenPGP public key</a>)
 </p>
 
 ### Active Repositories
