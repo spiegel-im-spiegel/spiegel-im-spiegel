@@ -58,9 +58,9 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [「Web 口振受付サービス」ってなんぞ？](https://text.baldanders.info/remark/2020/09/web-account-transfer/)
 - [FOSS とジョナサン](https://text.baldanders.info/remark/2020/09/foss-and-jonathan/)
 - [2020-09-13 のブックマーク](https://text.baldanders.info/bookmarks/2020/09/13-bookmarks/)
 - [GitHub プロファイルを（ちょっとだけ）カッコよくしてみる](https://text.baldanders.info/remark/2020/09/using-github-profile-readme/)
 - [最近のセキュリティ・インシデント](https://text.baldanders.info/remark/2020/09/recently-security-incidents/)
-- [Go 1.15.2 がリリースされた](https://text.baldanders.info/release/2020/09/go-1_15_2-is-released/)
 <!-- BLOG-POST-LIST:END -->
