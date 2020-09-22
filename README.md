@@ -55,6 +55,8 @@
 <a href="https://slide.baldanders.info/">Slide</a>
 <a href="https://photo.baldanders.info/">Photos</a>
 <a href="https://www.flickr.com/photos/spiegel/">Flickr</a>
+<a href="https://zenn.dev/spiegel">Zenn</a>
+(<a href="https://github.com/spiegel-im-spiegel/github-pages-env/projects/1">Kanban</a>)
 </p>
 
 <!-- BLOG-POST-LIST:START -->
