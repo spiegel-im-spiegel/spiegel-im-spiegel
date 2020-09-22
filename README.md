@@ -60,9 +60,9 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [ブログのネタをカンバン方式で管理する](https://text.baldanders.info/remark/2020/09/github-issues-milestones-and-projects/)
 - [個人番号と個人番号カード](https://text.baldanders.info/remark/2020/09/my-number-and-my-number-card/)
 - [2020-09-20 のブックマーク](https://text.baldanders.info/bookmarks/2020/09/20-bookmarks/)
 - [近ごろ流行りらしい “Zenn” のアカウントを作ってみた](https://text.baldanders.info/remark/2020/09/using-zenn-with-github/)
 - [NIST SP 800-207: “Zero Trust Architecture”](https://text.baldanders.info/remark/2020/09/nist-sp-800-207-zero-trust-architecture/)
-- [Java 15 がリリースされた](https://text.baldanders.info/release/2020/09/java-15-is-released/)
 <!-- BLOG-POST-LIST:END -->
