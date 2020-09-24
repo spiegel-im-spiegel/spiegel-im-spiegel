@@ -60,9 +60,9 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [整いました！](https://text.baldanders.info/remark/2020/09/assemble-a-living-pc/)
 - [放火魔の消防士](https://text.baldanders.info/remark/2020/09/firefighter-arsonist/)
 - [ブログのネタをカンバン方式で管理する](https://text.baldanders.info/remark/2020/09/github-issues-milestones-and-projects/)
 - [個人番号と個人番号カード](https://text.baldanders.info/remark/2020/09/my-number-and-my-number-card/)
 - [2020-09-20 のブックマーク](https://text.baldanders.info/bookmarks/2020/09/20-bookmarks/)
-- [近ごろ流行りらしい “Zenn” のアカウントを作ってみた](https://text.baldanders.info/remark/2020/09/using-zenn-with-github/)
 <!-- BLOG-POST-LIST:END -->
