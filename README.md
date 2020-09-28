@@ -68,7 +68,7 @@ $ gpg --fetch-keys https://baldanders.info/pubkeys/spiegel.asc
 <!-- BLOG-POST-LIST:START -->
 - [Authenticator と AAL](https://text.baldanders.info/remark/2020/09/authenticator-and-aal/)
 - [2020-09-27 のブックマーク](https://text.baldanders.info/bookmarks/2020/09/27-bookmarks/)
+- [Go 言語に関するブックマーク（退避分）](https://text.baldanders.info/bookmarks/golang/)
 - [次期 Go 言語で導入される総称型について予習する（その3）](https://text.baldanders.info/golang/generics-in-go-2-update-update/)
 - [整いました！](https://text.baldanders.info/remark/2020/09/assemble-a-living-pc/)
-- [放火魔の消防士](https://text.baldanders.info/remark/2020/09/firefighter-arsonist/)
 <!-- BLOG-POST-LIST:END -->
