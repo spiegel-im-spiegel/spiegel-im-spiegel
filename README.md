@@ -27,7 +27,7 @@
 ### [OpenPGP Public Key](https://baldanders.info/pubkeys/)
 
 ```
-$ gpg gpg --fetch-keys https://baldanders.info/pubkeys/spiegel.asc
+$ gpg --fetch-keys https://baldanders.info/pubkeys/spiegel.asc
 ```
 
 ### Active Repositories
