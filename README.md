@@ -66,9 +66,9 @@ $ gpg --fetch-keys https://baldanders.info/pubkeys/spiegel.asc
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2020年10月の暦](https://text.baldanders.info/remark/2020/09/ephemeris-202010/)
 - [golangci-lint を GitHub Actions で使う](https://text.baldanders.info/golang/using-golangci-lint-action/)
 - [Authenticator と AAL](https://text.baldanders.info/remark/2020/09/authenticator-and-aal/)
 - [2020-09-27 のブックマーク](https://text.baldanders.info/bookmarks/2020/09/27-bookmarks/)
 - [Go 言語に関するブックマーク（退避分）](https://text.baldanders.info/bookmarks/golang/)
-- [次期 Go 言語で導入される総称型について予習する（その3）](https://text.baldanders.info/golang/generics-in-go-2-update-update/)
 <!-- BLOG-POST-LIST:END -->
