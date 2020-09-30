@@ -66,9 +66,9 @@ $ gpg --fetch-keys https://baldanders.info/pubkeys/spiegel.asc
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Actions でクロス・コンパイル（GoReleaser 編）](https://text.baldanders.info/golang/cross-compiling-in-github-actions-with-goreleaser/)
 - [Go 依存パッケージの脆弱性検査](https://text.baldanders.info/golang/check-for-vulns-in-golang-dependencies/)
 - [2020年10月の暦](https://text.baldanders.info/remark/2020/09/ephemeris-202010/)
 - [golangci-lint を GitHub Actions で使う](https://text.baldanders.info/golang/using-golangci-lint-action/)
 - [Authenticator と AAL](https://text.baldanders.info/remark/2020/09/authenticator-and-aal/)
-- [2020-09-27 のブックマーク](https://text.baldanders.info/bookmarks/2020/09/27-bookmarks/)
 <!-- BLOG-POST-LIST:END -->
