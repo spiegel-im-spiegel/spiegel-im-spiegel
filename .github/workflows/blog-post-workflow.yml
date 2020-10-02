@@ -11,4 +11,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          committer_username: "Spiegel (blog-post-bot)"
+          committer_email: "spiegel.im.spiegel@gmail.com"
           feed_list: "https://text.baldanders.info/index.xml, https://baldanders.info/index.xml, https://zenn.dev/spiegel/feed"
