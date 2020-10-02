@@ -38,17 +38,20 @@ $ gpg --fetch-keys https://baldanders.info/pubkeys/spiegel.asc
 <br>
 [![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/gnkf.svg)](https://github.com/spiegel-im-spiegel/gnkf/releases/latest) [gnkf: Network Kanji Filter by Golang](https://github.com/spiegel-im-spiegel/gnkf) ([Usage](https://text.baldanders.info/release/gnkf/))
 <br>
+[![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/pa-api.svg)](https://github.com/spiegel-im-spiegel/pa-api/releases/latest) [pa-api: APIs for Amazon Product Advertising API v5 by Golang](https://github.com/spiegel-im-spiegel/pa-api) ([Usage](https://text.baldanders.info/release/pa-api-v5/))
+<br>
 [![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/aozora-api.svg)](https://github.com/spiegel-im-spiegel/aozora-api/releases/latest) [aozora-api: APIs for Aozora-bunko RESTful Service by Golang](https://github.com/spiegel-im-spiegel/aozora-api) ([Usage](https://text.baldanders.info/release/aozora-api-package-for-golang/))
 <br>
 [![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/aozora-api.svg)](https://github.com/spiegel-im-spiegel/aozora-api/releases/latest) [openbd-api: APIs for openBD by Golang](https://github.com/spiegel-im-spiegel/openbd-api) ([Usage](https://text.baldanders.info/release/openbd-api-package-for-golang/))
 <br>
-[![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/pa-api.svg)](https://github.com/spiegel-im-spiegel/pa-api/releases/latest) [pa-api: APIs for Amazon Product Advertising API v5 by Golang](https://github.com/spiegel-im-spiegel/pa-api) ([Usage](https://text.baldanders.info/release/pa-api-v5/))
+[![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/mt.svg)](https://github.com/spiegel-im-spiegel/mt/releases/latest) [mt: Mersenne Twister; Pseudo Random Number Generator, Implemented by Golang](https://github.com/spiegel-im-spiegel/mt) ([Usage](https://text.baldanders.info/release/mersenne-twister-by-golang/))
 <br>
-[![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/errs.svg)](https://github.com/spiegel-im-spiegel/errs/releases/latest) [errs: Error handling for Golang](https://github.com/spiegel-im-spiegel/errs) ([Usage](https://text.baldanders.info/release/errs-package-for-golang/))
+[![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/koyomi.svg)](https://github.com/spiegel-im-spiegel/koyomi/releases/latest) [koyomi: 日本のこよみ](https://github.com/spiegel-im-spiegel/koyomi)
 <br>
 [![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/gocli.svg)](https://github.com/spiegel-im-spiegel/gocli/releases/latest) [gocli: Minimal Packages for Command-Line Interface](https://github.com/spiegel-im-spiegel/gocli) ([Usage](https://text.baldanders.info/release/gocli-package-for-golang/))
 <br>
-[![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/mt.svg)](https://github.com/spiegel-im-spiegel/mt/releases/latest) [mt: Mersenne Twister; Pseudo Random Number Generator, Implemented by Golang](https://github.com/spiegel-im-spiegel/mt) ([Usage](https://text.baldanders.info/release/mersenne-twister-by-golang/))
+[![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/errs.svg)](https://github.com/spiegel-im-spiegel/errs/releases/latest) [errs: Error handling for Golang](https://github.com/spiegel-im-spiegel/errs) ([Usage](https://text.baldanders.info/release/errs-package-for-golang/))
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiegel-im-spiegel&hide=html)
 ![Spiegel's github stats](https://github-readme-stats.vercel.app/api?username=spiegel-im-spiegel&show_icons=true&line_height=34)
