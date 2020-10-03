@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://baldanders.info/pubkeys/spiegel.asc
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [フィードを取得する Go 言語パッケージ](https://zenn.dev/spiegel/articles/20201003-feed-with-golang)
 - [Go 製のツールとパッケージをまとめてアップデートした](https://text.baldanders.info/release/2020/10/released-tools-and-packages-by-golang/)
 - [Go のコードでも GitHub Code Scanning が使えるらしい](https://text.baldanders.info/remark/2020/10/github-code-scanning-with-golang/)
 - [国勢調査の思ひ出](https://text.baldanders.info/remark/2020/10/census/)
 - [GitHub Actions でクロス・コンパイル（GoReleaser 編）](https://text.baldanders.info/golang/cross-compiling-in-github-actions-with-goreleaser/)
-- [Go 依存パッケージの脆弱性検査](https://text.baldanders.info/golang/check-for-vulns-in-golang-dependencies/)
 <!-- BLOG-POST-LIST:END -->
