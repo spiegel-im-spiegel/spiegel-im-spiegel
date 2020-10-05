@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://baldanders.info/pubkeys/spiegel.asc
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2020-10-05 のブックマーク](https://text.baldanders.info/bookmarks/2020/10/05-bookmarks/)
 - [本当は怖い Blockchain](https://text.baldanders.info/remark/2020/10/blockchain-horror/)
 - [バイト列の同値性（『プログラミング言語 Go』読書会より）](https://text.baldanders.info/golang/equality-of-byte-arrays/)
 - [フィードを取得する Go 言語パッケージ](https://zenn.dev/spiegel/articles/20201003-feed-with-golang)
 - [Go 製のツールとパッケージをまとめてアップデートした](https://text.baldanders.info/release/2020/10/released-tools-and-packages-by-golang/)
-- [Go のコードでも GitHub Code Scanning が使えるらしい](https://text.baldanders.info/remark/2020/10/github-code-scanning-with-golang/)
 <!-- BLOG-POST-LIST:END -->
