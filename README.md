@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://baldanders.info/pubkeys/spiegel.asc
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [絵文字と異体字と Markdown](https://text.baldanders.info/remark/2020/10/emoji-variation-and-markdown/)
 - [えんやらやっと go-cvss パッケージ v0.4.0 をリリースした](https://text.baldanders.info/release/2020/10/go-cvss-package-v0_4_0-is-released/)
 - [AI はコピペ・プログラマを救うか](https://text.baldanders.info/remark/2020/10/programming-with-artificial-intelligence/)
 - [2020-10-05 のブックマーク](https://text.baldanders.info/bookmarks/2020/10/05-bookmarks/)
 - [本当は怖い Blockchain](https://text.baldanders.info/remark/2020/10/blockchain-horror/)
-- [バイト列の同値性（『プログラミング言語 Go』読書会より）](https://text.baldanders.info/golang/equality-of-byte-arrays/)
 <!-- BLOG-POST-LIST:END -->
