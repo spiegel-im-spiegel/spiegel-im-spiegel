@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://baldanders.info/pubkeys/spiegel.asc
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Go で JSON5 データを読み込む](https://zenn.dev/spiegel/articles/20201012-json5-with-golang)
 - [キャラクタの権利](https://text.baldanders.info/remark/2020/10/rights-of-narrative-characters/)
 - [2020-10-11 のブックマーク](https://text.baldanders.info/bookmarks/2020/10/11-bookmarks/)
 - [nil == nil でないとき（または Go プログラマは息をするように依存を注入する）](https://zenn.dev/spiegel/articles/20201010-ni-is-not-nil)
 - [絵文字と異体字と Markdown](https://text.baldanders.info/remark/2020/10/emoji-variation-and-markdown/)
-- [えんやらやっと go-cvss パッケージ v0.4.0 をリリースした](https://text.baldanders.info/release/2020/10/go-cvss-package-v0_4_0-is-released/)
 <!-- BLOG-POST-LIST:END -->
