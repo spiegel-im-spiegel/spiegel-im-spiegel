@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://baldanders.info/pubkeys/spiegel.asc
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [個人番号カードの電子証明書を更新した](https://text.baldanders.info/remark/2020/10/update-my-number-card/)
 - [Go で JSON5 データを読み込む](https://zenn.dev/spiegel/articles/20201012-json5-with-golang)
 - [キャラクタの権利](https://text.baldanders.info/remark/2020/10/rights-of-narrative-characters/)
 - [2020-10-11 のブックマーク](https://text.baldanders.info/bookmarks/2020/10/11-bookmarks/)
 - [nil == nil でないとき（または Go プログラマは息をするように依存を注入する）](https://zenn.dev/spiegel/articles/20201010-ni-is-not-nil)
-- [絵文字と異体字と Markdown](https://text.baldanders.info/remark/2020/10/emoji-variation-and-markdown/)
 <!-- BLOG-POST-LIST:END -->
