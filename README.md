@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://baldanders.info/pubkeys/spiegel.asc
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [ちょこっと SEO](https://text.baldanders.info/remark/2020/10/seo/)
 - [Go 1.15.3 がリリースされた](https://text.baldanders.info/release/2020/10/go-1_15_3-is-released/)
 - [GNKF: NKF ぽいなにか の v0.2.0 をリリースした](https://text.baldanders.info/release/2020/10/gnkf-v0_2_0-is-released/)
 - [GitHub に登録した OpenPGP 公開鍵を取り出す](https://zenn.dev/spiegel/articles/20201014-openpgp-pubkey-in-github)
 - [個人番号カードの電子証明書を更新した](https://text.baldanders.info/remark/2020/10/update-my-number-card/)
-- [Go で JSON5 データを読み込む](https://zenn.dev/spiegel/articles/20201012-json5-with-golang)
 <!-- BLOG-POST-LIST:END -->
