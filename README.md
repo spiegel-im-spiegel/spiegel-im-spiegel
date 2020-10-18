@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://baldanders.info/pubkeys/spiegel.asc
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cobra でテストしやすい CLI を構成する](https://zenn.dev/spiegel/articles/20201018-cli-with-cobra-and-golang)
 - [Steven Levy 原著『暗号化』のデジタル化を希望する！](https://text.baldanders.info/remark/2020/10/crypto-by-steven-levy/)
 - [2020-10-18 のブックマーク](https://text.baldanders.info/bookmarks/2020/10/18-bookmarks/)
 - [ベテルギウスはあと10万年はたたかえる（笑）](https://text.baldanders.info/remark/2020/10/betelgeuse/)
 - [ランダムな文字列を生成する](https://text.baldanders.info/golang/random-string/)
-- [ちょこっと SEO](https://text.baldanders.info/remark/2020/10/seo/)
 <!-- BLOG-POST-LIST:END -->
