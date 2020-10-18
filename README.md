@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://baldanders.info/pubkeys/spiegel.asc
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Steven Levy 原著『暗号化』のデジタル化を希望する！](https://text.baldanders.info/remark/2020/10/crypto-by-steven-levy/)
+- [2020-10-18 のブックマーク](https://text.baldanders.info/bookmarks/2020/10/18-bookmarks/)
 - [ベテルギウスはあと10万年はたたかえる（笑）](https://text.baldanders.info/remark/2020/10/betelgeuse/)
 - [ランダムな文字列を生成する](https://text.baldanders.info/golang/random-string/)
 - [ちょこっと SEO](https://text.baldanders.info/remark/2020/10/seo/)
-- [Go 1.15.3 がリリースされた](https://text.baldanders.info/release/2020/10/go-1_15_3-is-released/)
-- [GNKF: NKF ぽいなにか の v0.2.0 をリリースした](https://text.baldanders.info/release/2020/10/gnkf-v0_2_0-is-released/)
 <!-- BLOG-POST-LIST:END -->
