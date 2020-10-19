@@ -70,8 +70,8 @@ $ gpg --fetch-keys https://baldanders.info/pubkeys/spiegel.asc
 
 <!-- BLOG-POST-LIST:START -->
 - [Cobra でテストしやすい CLI を構成する](https://zenn.dev/spiegel/articles/20201018-cli-with-cobra-and-golang)
-- [Steven Levy 原著『暗号化』のデジタル化を希望する！](https://text.baldanders.info/remark/2020/10/crypto-by-steven-levy/)
-- [2020-10-18 のブックマーク](https://text.baldanders.info/bookmarks/2020/10/18-bookmarks/)
-- [ベテルギウスはあと10万年はたたかえる（笑）](https://text.baldanders.info/remark/2020/10/betelgeuse/)
-- [ランダムな文字列を生成する](https://text.baldanders.info/golang/random-string/)
+- [GitHub に登録した OpenPGP 公開鍵を取り出す](https://zenn.dev/spiegel/articles/20201014-openpgp-pubkey-in-github)
+- [Go で JSON5 データを読み込む](https://zenn.dev/spiegel/articles/20201012-json5-with-golang)
+- [nil == nil でないとき（または Go プログラマは息をするように依存を注入する）](https://zenn.dev/spiegel/articles/20201010-ni-is-not-nil)
+- [フィードを取得する Go 言語パッケージ](https://zenn.dev/spiegel/articles/20201003-feed-with-golang)
 <!-- BLOG-POST-LIST:END -->
