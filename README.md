@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://baldanders.info/pubkeys/spiegel.asc
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2020-10-25 のブックマーク](https://text.baldanders.info/bookmarks/2020/10/25-bookmarks/)
+- [ストップ!! Cortana 君！](https://text.baldanders.info/remark/2020/10/stop-cortana-kun/)
 - [OpenJDK 15.0.1 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2020/10/openjdk-15_0_1-is-released/)
 - [Cobra でテストしやすい CLI を構成する](https://zenn.dev/spiegel/articles/20201018-cli-with-cobra-and-golang)
 - [Steven Levy 原著『暗号化』のデジタル化を希望する！](https://text.baldanders.info/remark/2020/10/crypto-by-steven-levy/)
-- [2020-10-18 のブックマーク](https://text.baldanders.info/bookmarks/2020/10/18-bookmarks/)
-- [ベテルギウスはあと10万年はたたかえる（笑）](https://text.baldanders.info/remark/2020/10/betelgeuse/)
 <!-- BLOG-POST-LIST:END -->
