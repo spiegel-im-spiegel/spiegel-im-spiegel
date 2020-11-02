@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://baldanders.info/pubkeys/spiegel.asc
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [GnuPG の HOME はどこにある？](https://text.baldanders.info/openpgp/gnupg-home-in-windows/)
 - [Go パッケージ／モジュールの依存関係可視化ツールを作ってみた](https://text.baldanders.info/release/2020/11/depm-v0_1_0-is-released/)
 - [スクリーン・キャプチャのキホン](https://text.baldanders.info/remark/2020/10/screen-captors/)
 - [Windows Terminal × NYAGOS × Scoop ＝ ♥](https://text.baldanders.info/remark/2020/10/windows-terminal-and-nyagos-and-scoop/)
 - [さようなら SHA-1](https://zenn.dev/spiegel/articles/20201025-sayonara-sha1)
-- [Git v2.29 がリリースされた](https://text.baldanders.info/release/2020/10/git-2_29-is-released/)
 <!-- BLOG-POST-LIST:END -->
