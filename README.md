@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://baldanders.info/pubkeys/spiegel.asc
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Go でサブプロセスを起動する際は LookPath に気をつけろ！](https://zenn.dev/spiegel/articles/20201107-lookpath-by-golang)
 - [PA-APIv5 クライアント・パッケージ v0.8.0 をリリースした](https://text.baldanders.info/release/2020/11/pa-api-v0_8_0-is-released/)
 - [Go 1.15.4 がリリースされた](https://text.baldanders.info/release/2020/11/go-1_15_4-is-released/)
 - [Git for Windows 2.29.2 (2) のリリース【セキュリテイ・アップデート】](https://text.baldanders.info/release/2020/11/git-for-windows-2_29_2-2-is-released/)
 - [2020年11月の暦](https://text.baldanders.info/remark/2020/11/ephemeris/)
-- [2020-11-03 のブックマーク](https://text.baldanders.info/bookmarks/2020/11/03-bookmarks/)
 <!-- BLOG-POST-LIST:END -->
