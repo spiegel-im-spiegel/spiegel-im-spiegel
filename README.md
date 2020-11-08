@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://baldanders.info/pubkeys/spiegel.asc
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2020-11-08 のブックマーク](https://text.baldanders.info/bookmarks/2020/11/08-bookmarks/)
 - [Go パッケージ／モジュールの依存関係可視化ツール Depm v0.3.0 をリリースした](https://text.baldanders.info/release/2020/11/depm-v0_3_0-is-released/)
 - [Depm: Go 言語用モジュール依存関係可視化ツール](https://text.baldanders.info/release/dependency-graph-for-golang-modules/)
 - [Go でサブプロセスを起動する際は LookPath に気をつけろ！](https://zenn.dev/spiegel/articles/20201107-lookpath-by-golang)
 - [PA-APIv5 クライアント・パッケージ v0.8.0 をリリースした](https://text.baldanders.info/release/2020/11/pa-api-v0_8_0-is-released/)
-- [Go 1.15.4 がリリースされた](https://text.baldanders.info/release/2020/11/go-1_15_4-is-released/)
 <!-- BLOG-POST-LIST:END -->
