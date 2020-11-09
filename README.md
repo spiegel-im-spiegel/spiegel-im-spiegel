@@ -38,7 +38,7 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 
 [![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/gnkf.svg)](https://github.com/spiegel-im-spiegel/gnkf/releases/latest) [gnkf: Network Kanji Filter by Golang](https://github.com/spiegel-im-spiegel/gnkf) ([Usage](https://text.baldanders.info/release/gnkf/))
 
-[![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/depm.svg)](https://github.com/spiegel-im-spiegel/depm/releases/latest) [spiegel-im-spiegel/depm: Visualize depndency packages and modules](https://github.com/spiegel-im-spiegel/depm) ([Usage](https://text.baldanders.info/release/dependency-graph-for-golang-modules/))
+[![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/depm.svg)](https://github.com/spiegel-im-spiegel/depm/releases/latest) [depm: Visualize depndency packages and modules](https://github.com/spiegel-im-spiegel/depm) ([Usage](https://text.baldanders.info/release/dependency-graph-for-golang-modules/))
 
 #### Go Packages
 
