@@ -70,9 +70,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Go 1.15.5 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2020/11/go-1_15_5-is-released/)
 - [そうだ！ Zenn の記事や本にバッヂを贈ろう](https://text.baldanders.info/remark/2020/11/zenn-badges/)
 - [Go パッケージのクラス図を PlantUML で描く](https://zenn.dev/spiegel/articles/20201111-golang-class-diagrams-by-plantuml)
 - [ATOM エディタも gopls に対応していた](https://zenn.dev/spiegel/articles/20201110-atom-ide-gopls)
 - [2020-11-08 のブックマーク](https://text.baldanders.info/bookmarks/2020/11/08-bookmarks/)
-- [Go パッケージ／モジュールの依存関係可視化ツール Depm v0.3.0 をリリースした](https://text.baldanders.info/release/2020/11/depm-v0_3_0-is-released/)
 <!-- BLOG-POST-LIST:END -->
