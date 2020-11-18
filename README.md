@@ -70,9 +70,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [GnuPG 2.2.24 がリリースされた](https://text.baldanders.info/release/2020/11/gnupg-2_2_24-is-released/)
 - [Go における「並行処理」の抽象化](https://zenn.dev/spiegel/articles/20201117-concurrency-in-go)
 - [2020年米国大統領選挙はセキュアだったか？](https://text.baldanders.info/remark/2020/11/was-the-2020-election-secure/)
 - [2020-11-15 のブックマーク](https://text.baldanders.info/bookmarks/2020/11/15-bookmarks/)
 - [Go 1.15.5 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2020/11/go-1_15_5-is-released/)
-- [そうだ！ Zenn の記事や本にバッヂを贈ろう](https://text.baldanders.info/remark/2020/11/zenn-badges/)
 <!-- BLOG-POST-LIST:END -->
