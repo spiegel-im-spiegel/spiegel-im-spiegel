@@ -70,9 +70,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [GnuPG 2.2.25 がリリースされた](https://text.baldanders.info/release/2020/11/gnupg-2_2_25-is-released/)
 - [Ubuntu 20.10 のアップグレードに失敗していた](https://text.baldanders.info/remark/2020/11/upgrade-ubuntu-20_10/)
 - [2020-11-22 のブックマーク](https://text.baldanders.info/bookmarks/2020/11/22-bookmarks/)
 - [gpgpdump v0.10.0 をリリースした](https://text.baldanders.info/release/2020/11/gpgpdump-v0_10_0-is-released/)
 - [GnuPG 2.2.24 がリリースされた](https://text.baldanders.info/release/2020/11/gnupg-2_2_24-is-released/)
-- [Go における「並行処理」の抽象化](https://zenn.dev/spiegel/articles/20201117-concurrency-in-go)
 <!-- BLOG-POST-LIST:END -->
