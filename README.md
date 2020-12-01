@@ -70,9 +70,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [ブログは spam ではない（多分）](https://text.baldanders.info/remark/2020/12/blogs-are-not-spams/)
 - [Interface 型の使いどころ【Go】](https://zenn.dev/spiegel/articles/20201129-interface-types-in-golang)
 - [2020-11-29 のブックマーク](https://text.baldanders.info/bookmarks/2020/11/29-bookmarks/)
 - [アレシボ電波望遠鏡の喪失](https://text.baldanders.info/remark/2020/11/loss-of-arecibo-observatory-radio-elescope/)
 - [GNKF: NKF ぽいなにか の v0.3.0 をリリースした](https://text.baldanders.info/release/2020/11/gnkf-v0_3_0-is-released/)
-- [「理解」は常にベータ版（『数学を学ぶあなたへ』を読む）](https://text.baldanders.info/remark/2020/11/comprehension/)
 <!-- BLOG-POST-LIST:END -->
