@@ -70,9 +70,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [国立天文台から最新の暦情報を取ってくる【広告記事】](https://zenn.dev/spiegel/articles/20201205-koyomi)
 - [2021年の主な暦](https://text.baldanders.info/remark/2020/12/ephemeris-2021/)
 - [Go 1.15.6 がリリースされた](https://text.baldanders.info/release/2020/12/go-1_15_6-is-released/)
 - [ブログは spam ではない（多分）](https://text.baldanders.info/remark/2020/12/blogs-are-not-spams/)
 - [Interface 型の使いどころ【Go】](https://zenn.dev/spiegel/articles/20201129-interface-types-in-golang)
-- [2020-11-29 のブックマーク](https://text.baldanders.info/bookmarks/2020/11/29-bookmarks/)
 <!-- BLOG-POST-LIST:END -->
