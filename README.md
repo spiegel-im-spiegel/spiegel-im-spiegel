@@ -70,9 +70,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Go のエラーハンドリング](https://zenn.dev/spiegel/books/error-handling-in-golang)
 - [ようやく Disqus を捨てれるよ](https://text.baldanders.info/remark/2020/12/github-discussions/)
 - [io.Copy を上限付きで実行する](https://text.baldanders.info/golang/copying-with-upper-limit/)
 - [2020-12-06 のブックマーク](https://text.baldanders.info/bookmarks/2020/12/06-bookmarks/)
 - [国立天文台から最新の暦情報を取ってくる【広告記事】](https://zenn.dev/spiegel/articles/20201205-koyomi)
-- [2021年の主な暦](https://text.baldanders.info/remark/2020/12/ephemeris-2021/)
 <!-- BLOG-POST-LIST:END -->
