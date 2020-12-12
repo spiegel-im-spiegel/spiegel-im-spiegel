@@ -70,9 +70,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [技術的負債とハッカー](https://text.baldanders.info/remark/2020/12/technical-debt-and-hacker/)
 - [#golang のエラー・ハンドリングについて Zenn 本を書いてしまった](https://text.baldanders.info/remark/2020/12/error-handling-in-golang/)
 - [Go のエラーハンドリング](https://zenn.dev/spiegel/books/error-handling-in-golang)
 - [ようやく Disqus を捨てれるよ](https://text.baldanders.info/remark/2020/12/github-discussions/)
 - [io.Copy を上限付きで実行する](https://text.baldanders.info/golang/copying-with-upper-limit/)
-- [2020-12-06 のブックマーク](https://text.baldanders.info/bookmarks/2020/12/06-bookmarks/)
 <!-- BLOG-POST-LIST:END -->
