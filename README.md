@@ -70,9 +70,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2020-12-20 のブックマーク](https://text.baldanders.info/bookmarks/2020/12/20-bookmarks/)
 - [github.com/cli/safeexec パッケージを使った外部コマンドの安全な起動](https://text.baldanders.info/golang/safeexec-packge/)
 - [gpgpdump v0.10.1 のリリース【もしかしたらセキュリティ・アップデート】](https://text.baldanders.info/release/2020/12/gpgpdump-v0_10_1-is-released/)
 - [golang.org/x/crypto/ssh パッケージのセキュリティ・アップデート](https://text.baldanders.info/release/2020/12/updated-golang-x-crypto-module/)
 - [2020-12-13 のブックマーク](https://text.baldanders.info/bookmarks/2020/12/13-bookmarks/)
-- [技術的負債とハッカー](https://text.baldanders.info/remark/2020/12/technical-debt-and-hacker/)
 <!-- BLOG-POST-LIST:END -->
