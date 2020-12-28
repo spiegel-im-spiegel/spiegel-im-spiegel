@@ -70,9 +70,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [「無人化システム」とメンタル・モデル](https://text.baldanders.info/remark/2020/12/mental-model/)
 - [2020-12-27 のブックマーク](https://text.baldanders.info/bookmarks/2020/12/27-bookmarks/)
 - [ポインタが指し示す意味を考える](https://text.baldanders.info/golang/value-pointer-semantic/)
 - [GnuPG 2.2.26 がリリースされた](https://text.baldanders.info/release/2020/12/gnupg-2_2_26-is-released/)
 - [クリップボードのテキストを取り出す](https://zenn.dev/spiegel/articles/20201220-clipboard)
-- [Ubuntu に Docker を入れる](https://text.baldanders.info/remark/2020/12/installing-docker-in-ubuntu/)
 <!-- BLOG-POST-LIST:END -->
