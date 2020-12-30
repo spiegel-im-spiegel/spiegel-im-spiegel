@@ -70,9 +70,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [宇宙は何色？](https://text.baldanders.info/remark/2020/12/cosmic-latte/)
 - [ルールを解釈で捻じ曲げる](https://text.baldanders.info/remark/2020/12/rules-and-interpretations/)
 - [「無人化システム」とメンタル・モデル](https://text.baldanders.info/remark/2020/12/mental-model/)
 - [2020-12-27 のブックマーク](https://text.baldanders.info/bookmarks/2020/12/27-bookmarks/)
 - [ポインタが指し示す意味を考える](https://text.baldanders.info/golang/value-pointer-semantic/)
-- [GnuPG 2.2.26 がリリースされた](https://text.baldanders.info/release/2020/12/gnupg-2_2_26-is-released/)
 <!-- BLOG-POST-LIST:END -->
