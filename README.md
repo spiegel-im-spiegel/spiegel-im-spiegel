@@ -70,9 +70,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [簡易 CUI プロンプトを組んでみる](https://zenn.dev/spiegel/articles/20210104-prompt)
 - [spiegel-im-spiegel/ml v0.3.0 をリリースした](https://text.baldanders.info/release/2021/01/makelink-0_3_0-is-released/)
 - [Ubuntu で最新版 GnuPG をビルドする](https://text.baldanders.info/openpgp/build-gnupg-in-ubuntu/)
 - [宇宙は何色？](https://text.baldanders.info/remark/2020/12/cosmic-latte/)
 - [ルールを解釈で捻じ曲げる](https://text.baldanders.info/remark/2020/12/rules-and-interpretations/)
-- [「無人化システム」とメンタル・モデル](https://text.baldanders.info/remark/2020/12/mental-model/)
 <!-- BLOG-POST-LIST:END -->
