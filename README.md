@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [SSH の認証鍵を GunPG で作成・管理する](https://text.baldanders.info/openpgp/ssh-key-management-with-gnupg/)
 - [2021年の祝日・休日に関する注意喚起](https://text.baldanders.info/remark/2021/01/holiday-in-2021/)
 - [簡易 CUI プロンプトを組んでみる](https://zenn.dev/spiegel/articles/20210104-prompt)
 - [spiegel-im-spiegel/ml v0.3.0 をリリースした](https://text.baldanders.info/release/2021/01/makelink-0_3_0-is-released/)
 - [Ubuntu で最新版 GnuPG をビルドする](https://text.baldanders.info/openpgp/build-gnupg-in-ubuntu/)
-- [宇宙は何色？](https://text.baldanders.info/remark/2020/12/cosmic-latte/)
 <!-- BLOG-POST-LIST:END -->
