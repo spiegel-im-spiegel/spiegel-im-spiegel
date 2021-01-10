@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2021-01-10 のブックマーク](https://text.baldanders.info/bookmarks/2021/01/10-bookmarks/)
 - [gpg-agent の設定： GnuPG in Ubuntu](https://text.baldanders.info/openpgp/gpg-agent-in-ubuntu/)
 - [Ubuntu で OpenSSH の鍵管理を gpg-agent に委譲する【たぶん決定版】](https://zenn.dev/spiegel/articles/20210109-gpg-agent)
 - [公開鍵基盤の復習](https://zenn.dev/spiegel/articles/20210107-pki)
 - [SSH の認証鍵を GunPG で作成・管理する](https://text.baldanders.info/openpgp/ssh-key-management-with-gnupg/)
-- [2021年の祝日・休日に関する注意喚起](https://text.baldanders.info/remark/2021/01/holiday-in-2021/)
 <!-- BLOG-POST-LIST:END -->
