@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [spiegel-im-spiegel/ml v0.4.1 をリリースした](https://text.baldanders.info/release/2021/01/makelink-0_4_1-is-released/)
 - [URI からデータを取ってくるだけの簡単なお仕事](https://zenn.dev/spiegel/articles/20210113-fetch)
 - [GnuPG 2.2.27 がリリースされた](https://text.baldanders.info/release/2021/01/gnupg-2_2_27-is-released/)
 - [OpenSSH 完全に理解した（笑）](https://text.baldanders.info/remark/2021/01/openssh-mystery/)
 - [2021-01-10 のブックマーク](https://text.baldanders.info/bookmarks/2021/01/10-bookmarks/)
-- [gpg-agent の設定： GnuPG in Ubuntu](https://text.baldanders.info/openpgp/gpg-agent-in-ubuntu/)
 <!-- BLOG-POST-LIST:END -->
