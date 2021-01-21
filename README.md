@@ -53,7 +53,7 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 
 ### Stats in GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiegel-im-spiegel&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiegel-im-spiegel&hide=html&line_height=34)
 ![Spiegel's github stats](https://github-readme-stats.vercel.app/api?username=spiegel-im-spiegel&show_icons=true&line_height=34)
 
 ### Contents
