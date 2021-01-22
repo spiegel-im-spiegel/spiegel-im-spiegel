@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Unicode 文字種の判別](https://text.baldanders.info/golang/unicode-rangetables/)
 - [OpenJDK 15.0.2 がリリースされた](https://text.baldanders.info/release/2021/01/openjdk-15_0_2-is-released/)
 - [Go 1.15.7 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/01/go-1_15_7-is-released/)
 - [やっかいな日本語](https://zenn.dev/spiegel/articles/20210118-characters)
 - [spiegel-im-spiegel/ml v0.4.1 をリリースした](https://text.baldanders.info/release/2021/01/makelink-0_4_1-is-released/)
-- [URI からデータを取ってくるだけの簡単なお仕事](https://zenn.dev/spiegel/articles/20210113-fetch)
 <!-- BLOG-POST-LIST:END -->
