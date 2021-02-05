@@ -70,8 +70,8 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 
 <!-- BLOG-POST-LIST:START -->
 - [立春も動き出す](https://text.baldanders.info/remark/2021/01/the-beginning-of-spring/)
+- [http.Get に URI を変数のまま入れると叱られる](https://zenn.dev/spiegel/articles/20210125-http-get)
 - [gpgpdump v0.12.0 をリリースした](https://text.baldanders.info/release/2021/01/gpgpdump-v0_12_0-is-released/)
 - [Unicode 文字種の判別](https://text.baldanders.info/golang/unicode-rangetables/)
 - [OpenJDK 15.0.2 がリリースされた](https://text.baldanders.info/release/2021/01/openjdk-15_0_2-is-released/)
-- [Go 1.15.7 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/01/go-1_15_7-is-released/)
 <!-- BLOG-POST-LIST:END -->
