@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2022年の暦](https://text.baldanders.info/remark/2021/02/ephemeris-in-2022/)
 - [LibreOffice 7.1 へのアップグレード](https://text.baldanders.info/release/2021/02/upgrade-libreoffice-7_1/)
 - [2021-02-07 のブックマーク](https://text.baldanders.info/bookmarks/2021/02/07-bookmarks/)
 - [Go 1.15.8 がリリースされた](https://text.baldanders.info/release/2021/02/go-1_15_8-is-released/)
 - [立春も動き出す](https://text.baldanders.info/remark/2021/01/the-beginning-of-spring/)
-- [http.Get に URI を変数のまま入れると叱られる](https://zenn.dev/spiegel/articles/20210125-http-get)
 <!-- BLOG-POST-LIST:END -->
