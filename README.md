@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [DSA は NIST 電子署名標準から外れるようだ](https://text.baldanders.info/remark/2021/02/dsa-deprecation/)
 - [Go 1.16 がリリースされた](https://text.baldanders.info/release/2021/02/go-1_16-is-released/)
 - [日本版 Google COVID-19 Forecast データを取得する Go パッケージを作ってみた](https://zenn.dev/spiegel/articles/20210214-cov19jpn)
 - [手遊びで日本版 Google COVID-19 Forecast データを取得するツールを作ってみた](https://text.baldanders.info/release/2021/02/cov19jpn/)
 - [Libgcrypt 1.9 系へのアップグレードはちょっと待ちなはれ](https://text.baldanders.info/release/2021/02/libgcrypt-1_9-series/)
-- [2022年の暦](https://text.baldanders.info/remark/2021/02/ephemeris-in-2022/)
 <!-- BLOG-POST-LIST:END -->
