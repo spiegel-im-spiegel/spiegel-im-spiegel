@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [io/ioutil の非推奨化について](https://text.baldanders.info/golang/deprecation-of-ioutil/)
 - [2021-02-21 のブックマーク](https://text.baldanders.info/bookmarks/2021/02/21-bookmarks/)
 - [time.Ticker で遊ぶ【Go 1.16 バージョン】](https://text.baldanders.info/golang/ticker-2/)
 - [DSA は NIST 電子署名標準から外れるようだ](https://text.baldanders.info/remark/2021/02/dsa-deprecation/)
 - [Go 1.16 がリリースされた](https://text.baldanders.info/release/2021/02/go-1_16-is-released/)
-- [日本版 Google COVID-19 Forecast データを取得する Go パッケージを作ってみた](https://zenn.dev/spiegel/articles/20210214-cov19jpn)
 <!-- BLOG-POST-LIST:END -->
