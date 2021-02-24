@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [紙芝居用の簡易サーバを書く【Go 1.16 版】](https://text.baldanders.info/golang/embeded-filesystem/)
 - [gpgpdump v0.12.1 をリリースした](https://text.baldanders.info/release/2021/02/gpgpdump-v0_12_1-is-released/)
 - [Go のモジュール管理【バージョン 1.16 改訂版】](https://zenn.dev/spiegel/articles/20210223-go-module-aware-mode)
 - [Go 1.16 からのモジュール管理](https://text.baldanders.info/golang/manage-modules/)
 - [io/ioutil の非推奨化について](https://text.baldanders.info/golang/deprecation-of-ioutil/)
-- [2021-02-21 のブックマーク](https://text.baldanders.info/bookmarks/2021/02/21-bookmarks/)
 <!-- BLOG-POST-LIST:END -->
