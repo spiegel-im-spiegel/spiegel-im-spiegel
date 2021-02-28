@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [GNKF: NKF ぽいなにか の v0.4.0 をリリースした](https://text.baldanders.info/release/2021/02/gnkf-v0_4_0-is-released/)
 - [Markdown と VS Code](https://text.baldanders.info/remark/2021/02/markdown-with-vscode/)
 - [2021-02-28 のブックマーク](https://text.baldanders.info/bookmarks/2021/02/28-bookmarks/)
 - [Go と VS Code](https://text.baldanders.info/remark/2021/02/golang-with-vscode/)
 - [パソコンに Visual Studio Code を導入する（再チャレンジ）](https://text.baldanders.info/remark/2021/02/installing-vscode-again/)
-- [紙芝居用の簡易サーバを書く【Go 1.16 版】](https://text.baldanders.info/golang/embeded-filesystem/)
 <!-- BLOG-POST-LIST:END -->
