@@ -72,6 +72,6 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 - [Baldanders.info サイトにおける OpenPGP 鍵管理の変更](https://text.baldanders.info/remark/2021/03/changing-publickey-management/)
 - [RSA は砕けない（たぶん？）](https://text.baldanders.info/remark/2021/03/rsa-is-unbreakable/)
 - [特殊形式による式評価について](https://text.baldanders.info/golang/special-forms/)
-- [CSV データを読み込むパッケージを書いてみた](https://zenn.dev/spiegel/articles/20210302-reading-csv-data)
 - [GNKF: NKF ぽいなにか の v0.4.0 をリリースした](https://text.baldanders.info/release/2021/02/gnkf-v0_4_0-is-released/)
+- [Markdown と VS Code](https://text.baldanders.info/remark/2021/02/markdown-with-vscode/)
 <!-- BLOG-POST-LIST:END -->
