@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Git v2.30.2 のリリース【セキュリテイ・アップデート】](https://text.baldanders.info/release/2021/03/git-2_30_2-is-released/)
 - [鬼畜上司と社畜部下（Go のチャネルであそぶ）](https://zenn.dev/spiegel/articles/20210309-message-passing)
 - [context.Context を掴みっぱなしにしてはいけない](https://zenn.dev/spiegel/articles/20210307-broadcasting-cancel)
 - [Baldanders.info サイトにおける OpenPGP 鍵管理の変更](https://text.baldanders.info/remark/2021/03/changing-publickey-management/)
 - [RSA は砕けない（たぶん？）](https://text.baldanders.info/remark/2021/03/rsa-is-unbreakable/)
-- [特殊形式による式評価について](https://text.baldanders.info/golang/special-forms/)
 <!-- BLOG-POST-LIST:END -->
