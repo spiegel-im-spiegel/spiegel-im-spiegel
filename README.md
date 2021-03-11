@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenSSH 8.5 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/03/openssh-8_5-is-released/)
 - [Go 1.16.1 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/03/go-1_16_1-is-released/)
 - [Git v2.30.2 のリリース【セキュリテイ・アップデート】](https://text.baldanders.info/release/2021/03/git-2_30_2-is-released/)
 - [鬼畜上司と社畜部下（Go のチャネルであそぶ）](https://zenn.dev/spiegel/articles/20210309-message-passing)
 - [context.Context を掴みっぱなしにしてはいけない](https://zenn.dev/spiegel/articles/20210307-broadcasting-cancel)
-- [Baldanders.info サイトにおける OpenPGP 鍵管理の変更](https://text.baldanders.info/remark/2021/03/changing-publickey-management/)
 <!-- BLOG-POST-LIST:END -->
