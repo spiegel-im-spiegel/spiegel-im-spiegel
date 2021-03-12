@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Go 1.16.2 がリリースされた](https://text.baldanders.info/release/2021/03/go-1_16_2-is-released/)
 - [TinyGo で WebAssembly](https://text.baldanders.info/golang/webassembly-with-tinygo/)
 - [OpenSSH 8.5 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/03/openssh-8_5-is-released/)
 - [Go 1.16.1 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/03/go-1_16_1-is-released/)
 - [Git v2.30.2 のリリース【セキュリテイ・アップデート】](https://text.baldanders.info/release/2021/03/git-2_30_2-is-released/)
-- [鬼畜上司と社畜部下（Go のチャネルであそぶ）](https://zenn.dev/spiegel/articles/20210309-message-passing)
 <!-- BLOG-POST-LIST:END -->
