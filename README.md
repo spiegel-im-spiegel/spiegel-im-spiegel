@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [gonum.org/v1/plot パッケージの破壊的変更](https://zenn.dev/spiegel/articles/20210314-breaking-change-of-gonumorg-v1-plot)
 - [『再発見の発想法』は非エンジニアこそ読んで欲しい](https://text.baldanders.info/remark/2021/03/the-essence-of-programming/)
 - [Go 1.16.2 がリリースされた](https://text.baldanders.info/release/2021/03/go-1_16_2-is-released/)
 - [TinyGo で WebAssembly](https://text.baldanders.info/golang/webassembly-with-tinygo/)
 - [OpenSSH 8.5 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/03/openssh-8_5-is-released/)
-- [Go 1.16.1 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/03/go-1_16_1-is-released/)
 <!-- BLOG-POST-LIST:END -->
