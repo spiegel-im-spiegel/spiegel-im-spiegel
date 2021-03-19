@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Java のサポート期限ってどうなってるんだっけ？](https://text.baldanders.info/release/2021/03/java-support-roadmap/)
 - [Go を褒め殺ししてみる](https://text.baldanders.info/remark/2021/03/awesome-golang/)
 - [Java 16 がリリースされた](https://text.baldanders.info/release/2021/03/java-16-is-released/)
 - [配列とスライス](https://zenn.dev/spiegel/articles/20210315-array-and-slice)
 - [gonum.org/v1/plot パッケージの破壊的変更](https://zenn.dev/spiegel/articles/20210314-breaking-change-of-gonumorg-v1-plot)
-- [『再発見の発想法』は非エンジニアこそ読んで欲しい](https://text.baldanders.info/remark/2021/03/the-essence-of-programming/)
 <!-- BLOG-POST-LIST:END -->
