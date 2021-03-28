@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [「ウイルスの好物は心のスキ」などと言った首長がいるそうで](https://text.baldanders.info/remark/2021/03/why-japanese-people/)
 - [「著作権」は何を制限しているのか](https://zenn.dev/spiegel/articles/20210327-copyright)
 - [OpenSSL 1.1.1k がリリースされた【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/03/openssl-111k-is-released/)
 - [Hugo Markdown でブロック要素にクラス属性を付与する](https://text.baldanders.info/remark/2021/03/add-attribute-in-hugo-markdown/)
 - [Markdown 用の絵文字コードの一覧を作ってみる](https://zenn.dev/spiegel/articles/20210322-emoji-shortcode-for-markdown)
-- [TinyGo で WASI 【失敗編】](https://text.baldanders.info/golang/wasi-with-tinygo/)
 <!-- BLOG-POST-LIST:END -->
