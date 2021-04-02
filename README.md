@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [「情報交換用に推奨される絵文字のリスト」を作ってみた](https://text.baldanders.info/remark/2021/04/emoji-list/)
+- [絵文字と Markdown Shortcodes](https://text.baldanders.info/emoji-shortcodes/)
+- [情報交換用に推奨される絵文字のリスト](https://text.baldanders.info/emoji-list/)
 - [おそるべき絵文字](https://text.baldanders.info/remark/2021/03/terrible-emoji/)
 - [Google vs Oracle の訴訟の行方 3](https://text.baldanders.info/remark/2021/03/google-vs-oracle-3/)
-- [2021-03-28 のブックマーク](https://text.baldanders.info/bookmarks/2021/03/28-bookmarks/)
-- [「ウイルスの好物は心のスキ」などと言った首長がいるそうで](https://text.baldanders.info/remark/2021/03/why-japanese-people/)
-- [「著作権」は何を制限しているのか](https://zenn.dev/spiegel/articles/20210327-copyright)
 <!-- BLOG-POST-LIST:END -->
