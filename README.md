@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [gpgpdump v0.12.1 をリリースした](https://text.baldanders.info/release/2021/04/gpgpdump-v0_12_2-is-released/)
 - [Go 1.16.3 がリリースされた](https://text.baldanders.info/release/2021/04/go-1_16_3-is-released/)
 - [「情報交換用に推奨される絵文字のリスト」を作ってみた](https://text.baldanders.info/remark/2021/04/emoji-list/)
 - [絵文字と Markdown Shortcodes](https://text.baldanders.info/emoji-shortcodes/)
 - [情報交換用に推奨される絵文字のリスト](https://text.baldanders.info/emoji-list/)
-- [おそるべき絵文字](https://text.baldanders.info/remark/2021/03/terrible-emoji/)
 <!-- BLOG-POST-LIST:END -->
