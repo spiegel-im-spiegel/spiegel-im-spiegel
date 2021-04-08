@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Unicode 文字列を「文字」単位に分離する](https://zenn.dev/spiegel/articles/20210408-unicode-characters)
 - [資本主義の走狗としての AI 技術](https://text.baldanders.info/remark/2021/04/ai-as-a-tool-by-capitalism/)
 - [goccy/go-json パッケージを試す](https://zenn.dev/spiegel/articles/20210404-another-json-package)
 - [2021-04-04 のブックマーク](https://text.baldanders.info/bookmarks/2021/04/04-bookmarks/)
 - [gpgpdump v0.12.1 をリリースした](https://text.baldanders.info/release/2021/04/gpgpdump-v0_12_2-is-released/)
+- [Go 1.16.3 がリリースされた](https://text.baldanders.info/release/2021/04/go-1_16_3-is-released/)
 <!-- BLOG-POST-LIST:END -->
