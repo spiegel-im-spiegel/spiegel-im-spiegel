@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google vs Oracle の訴訟の行方（最終章）](https://text.baldanders.info/remark/2021/04/google-vs-oracle-final/)
 - [2021-04-11 のブックマーク](https://text.baldanders.info/bookmarks/2021/04/11-bookmarks/)
 - [Unicode 文字列を「文字」単位に分離する](https://zenn.dev/spiegel/articles/20210408-unicode-characters)
 - [資本主義の走狗としての AI 技術](https://text.baldanders.info/remark/2021/04/ai-as-a-tool-by-capitalism/)
 - [goccy/go-json パッケージを試す](https://zenn.dev/spiegel/articles/20210404-another-json-package)
-- [2021-04-04 のブックマーク](https://text.baldanders.info/bookmarks/2021/04/04-bookmarks/)
 <!-- BLOG-POST-LIST:END -->
