@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Make の代わりに Task を使ってみる](https://zenn.dev/spiegel/articles/20210418-task)
 - [GnuPG 2.3.0 がリリースされた](https://text.baldanders.info/release/2021/04/gnupg-2_3_0-is-released/)
 - [Google vs Oracle の訴訟の行方（最終章）](https://text.baldanders.info/remark/2021/04/google-vs-oracle-final/)
 - [2021-04-11 のブックマーク](https://text.baldanders.info/bookmarks/2021/04/11-bookmarks/)
 - [Unicode 文字列を「文字」単位に分離する](https://zenn.dev/spiegel/articles/20210408-unicode-characters)
+- [資本主義の走狗としての AI 技術](https://text.baldanders.info/remark/2021/04/ai-as-a-tool-by-capitalism/)
 <!-- BLOG-POST-LIST:END -->
