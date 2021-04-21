@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [GnuPG 2.3.1 がリリースされた](https://text.baldanders.info/release/2021/04/gnupg-2_3_1-is-released/)
 - [OpenJDK 16.0.1 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/04/openjdk-16_0_1-is-released/)
 - [2021-04-18 のブックマーク](https://text.baldanders.info/bookmarks/2021/04/18-bookmarks/)
 - [Make の代わりに Task を使ってみる](https://zenn.dev/spiegel/articles/20210418-task)
 - [GnuPG 2.3.0 がリリースされた](https://text.baldanders.info/release/2021/04/gnupg-2_3_0-is-released/)
-- [Google vs Oracle の訴訟の行方（最終章）](https://text.baldanders.info/remark/2021/04/google-vs-oracle-final/)
 <!-- BLOG-POST-LIST:END -->
