@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [MISRA-C の思ひ出（または「守られないルールはルール自体に問題がある」）](https://text.baldanders.info/remark/2021/04/making-rule/)
 - [FinTech の曲がり角](https://text.baldanders.info/remark/2021/04/cryptocurrency-with-signal/)
 - [いまさら英語の教科書を買ってみる](https://text.baldanders.info/remark/2021/04/english-textbook/)
 - [GnuPG 2.3.1 がリリースされた](https://text.baldanders.info/release/2021/04/gnupg-2_3_1-is-released/)
 - [OpenJDK 16.0.1 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/04/openjdk-16_0_1-is-released/)
-- [2021-04-18 のブックマーク](https://text.baldanders.info/bookmarks/2021/04/18-bookmarks/)
 <!-- BLOG-POST-LIST:END -->
