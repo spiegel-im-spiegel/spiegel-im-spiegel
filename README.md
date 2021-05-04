@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2021-05-04 のブックマーク](https://text.baldanders.info/bookmarks/2021/05/04-bookmarks/)
 - [Null の始末は「誰」がするのか](https://zenn.dev/spiegel/articles/20210501-null-safety)
 - [2021-04-25 のブックマーク](https://text.baldanders.info/bookmarks/2021/04/25-bookmarks/)
 - [MISRA-C の思ひ出（または「守られないルールはルール自体に問題がある」）](https://text.baldanders.info/remark/2021/04/making-rule/)
 - [FinTech の曲がり角](https://text.baldanders.info/remark/2021/04/cryptocurrency-with-signal/)
-- [いまさら英語の教科書を買ってみる](https://text.baldanders.info/remark/2021/04/english-textbook/)
 <!-- BLOG-POST-LIST:END -->
