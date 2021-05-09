@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Go 1.16.4 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/05/go-1_16_4-is-released/)
+- [2021-05-09 のブックマーク](https://text.baldanders.info/bookmarks/2021/05/09-bookmarks/)
 - [非公開 Facebook Page を晒される](https://text.baldanders.info/remark/2021/05/facebook-page/)
 - [2021-05-04 のブックマーク](https://text.baldanders.info/bookmarks/2021/05/04-bookmarks/)
 - [Null の始末は「誰」がするのか](https://zenn.dev/spiegel/articles/20210501-null-safety)
-- [2021-04-25 のブックマーク](https://text.baldanders.info/bookmarks/2021/04/25-bookmarks/)
-- [MISRA-C の思ひ出（または「守られないルールはルール自体に問題がある」）](https://text.baldanders.info/remark/2021/04/making-rule/)
 <!-- BLOG-POST-LIST:END -->
