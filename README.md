@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [AI がハッキングを始める日](https://text.baldanders.info/remark/2021/05/when-ais-start-hacking/)
 - [call と start](https://text.baldanders.info/remark/2021/05/call-and-start-in-windows/)
 - [Go 1.16.4 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/05/go-1_16_4-is-released/)
 - [2021-05-09 のブックマーク](https://text.baldanders.info/bookmarks/2021/05/09-bookmarks/)
 - [非公開 Facebook Page を晒される](https://text.baldanders.info/remark/2021/05/facebook-page/)
-- [2021-05-04 のブックマーク](https://text.baldanders.info/bookmarks/2021/05/04-bookmarks/)
 <!-- BLOG-POST-LIST:END -->
