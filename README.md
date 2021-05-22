@@ -69,9 +69,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [golang.org/x/net/html パッケージの脆弱性報告](https://text.baldanders.info/release/2021/05/vulnerability-in-go-external-package/)
 - [Excel → CSV 変換ツールを作ってみた](https://text.baldanders.info/release/2021/05/xls2csv/)
 - [Go で簡単 Excel → CSV 変換](https://zenn.dev/spiegel/articles/20210516-excel-to-csv)
 - [AI がハッキングを始める日](https://text.baldanders.info/remark/2021/05/when-ais-start-hacking/)
 - [call と start](https://text.baldanders.info/remark/2021/05/call-and-start-in-windows/)
-- [Go 1.16.4 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/05/go-1_16_4-is-released/)
 <!-- BLOG-POST-LIST:END -->
