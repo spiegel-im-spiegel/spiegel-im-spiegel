@@ -39,6 +39,8 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 
 [![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/depm.svg)](https://github.com/spiegel-im-spiegel/depm/releases/latest) [depm: Visualize depndency packages and modules](https://github.com/spiegel-im-spiegel/depm) ([Usage](https://text.baldanders.info/release/dependency-graph-for-golang-modules/))
 
+[![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/cov19jpn.svg)](https://github.com/spiegel-im-spiegel/cov19jpn/releases/latest) [cov19jpn: COVID-2019 in Japan; Importing Google COVID-19 Public Forecasts](https://github.com/spiegel-im-spiegel/cov19jpn)
+
 #### Go Packages
 
 [![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/pa-api.svg)](https://github.com/spiegel-im-spiegel/pa-api/releases/latest) [pa-api: APIs for Amazon Product Advertising API v5 by Golang](https://github.com/spiegel-im-spiegel/pa-api) ([Usage](https://text.baldanders.info/release/pa-api-v5/))
@@ -46,6 +48,10 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 [![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/aozora-api.svg)](https://github.com/spiegel-im-spiegel/aozora-api/releases/latest) [aozora-api: APIs for Aozora-bunko RESTful Service by Golang](https://github.com/spiegel-im-spiegel/aozora-api) ([Usage](https://text.baldanders.info/release/aozora-api-package-for-golang/))
 
 [![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/mt.svg)](https://github.com/spiegel-im-spiegel/mt/releases/latest) [mt: Mersenne Twister; Pseudo Random Number Generator, Implemented by Golang](https://github.com/spiegel-im-spiegel/mt) ([Usage](https://text.baldanders.info/release/mersenne-twister-by-golang/))
+
+[![GitHub release](http://img.shields.io/github/release/spiegel-im-spiegel/logf.svg)](https://github.com/spiegel-im-spiegel/logf/releases/latest) [logf: Simple leveled logging package by Golang](https://github.com/spiegel-im-spiegel/logf)
+
+[![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/fetch.svg)](https://github.com/spiegel-im-spiegel/fetch/releases/latest) [fetch: Fetch Data from URL](https://github.com/spiegel-im-spiegel/fetch)
 
 [![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/gocli.svg)](https://github.com/spiegel-im-spiegel/gocli/releases/latest) [gocli: Minimal Packages for Command-Line Interface](https://github.com/spiegel-im-spiegel/gocli) ([Usage](https://text.baldanders.info/release/gocli-package-for-golang/))
 
