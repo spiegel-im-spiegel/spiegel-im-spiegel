@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Go による Token Bucket 実装](https://text.baldanders.info/golang/token-bucket/)
 - [2021-05-30 のブックマーク](https://text.baldanders.info/bookmarks/2021/05/30-bookmarks/)
 - [CAVOC Web API で遊ぶ](https://text.baldanders.info/remark/2021/05/cavoc-api-client/)
 - [2021-05-23 のブックマーク](https://text.baldanders.info/bookmarks/2021/05/23-bookmarks/)
 - [GNKF: NKF ぽいなにか の v0.5.0 をリリースした](https://text.baldanders.info/release/2021/05/gnkf-v0_5_0-is-released/)
-- [golang.org/x/net/html パッケージの脆弱性報告](https://text.baldanders.info/release/2021/05/vulnerability-in-go-external-package/)
 <!-- BLOG-POST-LIST:END -->
