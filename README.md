@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [PDF 版『Goならわかるシステムプログラミング』を買うた](https://text.baldanders.info/remark/2021/06/system-programming-with-go-pdf/)
 - [Creative Commons 20周年だったよ #CCTurns20](https://text.baldanders.info/remark/2021/06/creative-commons-is-turning-20/)
 - [Go 1.16.5 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/06/go-1_16_5-is-released/)
 - [Go による Token Bucket 実装](https://text.baldanders.info/golang/token-bucket/)
 - [2021-05-30 のブックマーク](https://text.baldanders.info/bookmarks/2021/05/30-bookmarks/)
-- [CAVOC Web API で遊ぶ](https://text.baldanders.info/remark/2021/05/cavoc-api-client/)
 <!-- BLOG-POST-LIST:END -->
