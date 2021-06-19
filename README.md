@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Go と日本語](https://text.baldanders.info/golang/go-with-japanese/)
 - [徒然ブログ](https://text.baldanders.info/remark/2021/06/weblog/)
 - [自宅マシンを買うた（これで私も人並みに...）](https://text.baldanders.info/remark/2021/06/new-machine-here/)
 - [GnuPG 2.2.28 (LTS) がリリースされた](https://text.baldanders.info/release/2021/06/gnupg-2_2_28-lts-is-released/)
 - [2021-06-13 のブックマーク](https://text.baldanders.info/bookmarks/2021/06/13-bookmarks/)
-- [PGP は30周年だった](https://text.baldanders.info/remark/2021/06/pgp-30th/)
 <!-- BLOG-POST-LIST:END -->
