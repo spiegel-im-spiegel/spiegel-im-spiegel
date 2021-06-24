@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Prime Day 2021 の戦利品](https://text.baldanders.info/remark/2021/06/aftershokz-aeropex/)
 - [遅まきながら FragAttacks 脆弱性に関する覚え書き](https://text.baldanders.info/remark/2021/06/wifi-fragattacks-vulnerability/)
 - [2021-06-20 のブックマーク](https://text.baldanders.info/bookmarks/2021/06/20-bookmarks/)
 - [Go と日本語](https://text.baldanders.info/golang/go-with-japanese/)
 - [徒然ブログ](https://text.baldanders.info/remark/2021/06/weblog/)
-- [自宅マシンを買うた（これで私も人並みに...）](https://text.baldanders.info/remark/2021/06/new-machine-here/)
 <!-- BLOG-POST-LIST:END -->
