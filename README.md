@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Go で簡単 Excel → CSV 変換](https://zenn.dev/spiegel/articles/20210516-excel-to-csv)
-- [Null の始末は「誰」がするのか](https://zenn.dev/spiegel/articles/20210501-null-safety)
-- [Make の代わりに Task を使ってみる](https://zenn.dev/spiegel/articles/20210418-task)
-- [Unicode 文字列を「文字」単位に分離する](https://zenn.dev/spiegel/articles/20210408-unicode-characters)
-- [goccy/go-json パッケージを試す](https://zenn.dev/spiegel/articles/20210404-another-json-package)
+- [2021-06-27 のブックマーク](https://text.baldanders.info/bookmarks/2021/06/27-bookmarks/)
+- [Windows 10 が最後って言ったぢゃん！](https://text.baldanders.info/remark/2021/06/why-windows11/)
+- [Amazon Prime Day 2021 の戦利品](https://text.baldanders.info/remark/2021/06/aftershokz-aeropex/)
+- [遅まきながら FragAttacks 脆弱性に関する覚え書き](https://text.baldanders.info/remark/2021/06/wifi-fragattacks-vulnerability/)
+- [2021-06-20 のブックマーク](https://text.baldanders.info/bookmarks/2021/06/20-bookmarks/)
 <!-- BLOG-POST-LIST:END -->
