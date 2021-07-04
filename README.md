@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2021-07-04 のブックマーク](https://text.baldanders.info/bookmarks/2021/07/04-bookmarks/)
 - [2021-06-27 のブックマーク](https://text.baldanders.info/bookmarks/2021/06/27-bookmarks/)
 - [Windows 10 が最後って言ったぢゃん！](https://text.baldanders.info/remark/2021/06/why-windows11/)
 - [Amazon Prime Day 2021 の戦利品](https://text.baldanders.info/remark/2021/06/aftershokz-aeropex/)
 - [遅まきながら FragAttacks 脆弱性に関する覚え書き](https://text.baldanders.info/remark/2021/06/wifi-fragattacks-vulnerability/)
-- [2021-06-20 のブックマーク](https://text.baldanders.info/bookmarks/2021/06/20-bookmarks/)
 <!-- BLOG-POST-LIST:END -->
