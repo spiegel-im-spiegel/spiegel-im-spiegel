@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [GnuPG 2.2.29 (LTS) がリリースされた](https://text.baldanders.info/release/2021/07/gnupg-2_2_29-lts-is-released/)
 - [バイナリ・データ・ビュア zetamatta/binview の Linux 用バイナリ登場](https://text.baldanders.info/remark/2021/07/binview-for-linux/)
 - [喫煙シーンはレーティングを引き上げる？](https://text.baldanders.info/remark/2021/07/rating/)
 - [2021-07-04 のブックマーク](https://text.baldanders.info/bookmarks/2021/07/04-bookmarks/)
 - [2021-06-27 のブックマーク](https://text.baldanders.info/bookmarks/2021/06/27-bookmarks/)
-- [Windows 10 が最後って言ったぢゃん！](https://text.baldanders.info/remark/2021/06/why-windows11/)
 <!-- BLOG-POST-LIST:END -->
