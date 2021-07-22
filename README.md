@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenJDK 16.0.2 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/07/openjdk-16_0_2-is-released/)
 - [PA-APIv5 クライアント・パッケージ v0.9.1 をリリースした](https://text.baldanders.info/release/2021/07/pa-api-v0_9_1-is-released/)
 - [spiegel-im-spiegel/errs パッケージ v1.0.4 をリリースした](https://text.baldanders.info/release/2021/07/errs-package-v1_0_4-is-released/)
 - [手持ちの #golang 製ツールをアップデート](https://text.baldanders.info/release/2021/07/update-tools/)
 - [Go 1.16.6 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/07/go-1_16_6-is-released/)
-- [「私は git push -f しました！」](https://text.baldanders.info/remark/2021/07/git-push-force-t-shirt/)
 <!-- BLOG-POST-LIST:END -->
