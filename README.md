@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [『数学ガールの物理ノート／ニュートン力学』を読む — 仕事と日々... じゃなくて](https://text.baldanders.info/remark/2021/07/mathgirl-physics-note/)
 - [2021-07-22 のブックマーク](https://text.baldanders.info/bookmarks/2021/07/22-bookmarks/)
 - [OpenJDK 16.0.2 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/07/openjdk-16_0_2-is-released/)
 - [PA-APIv5 クライアント・パッケージ v0.9.1 をリリースした](https://text.baldanders.info/release/2021/07/pa-api-v0_9_1-is-released/)
 - [spiegel-im-spiegel/errs パッケージ v1.0.4 をリリースした](https://text.baldanders.info/release/2021/07/errs-package-v1_0_4-is-released/)
-- [手持ちの #golang 製ツールをアップデート](https://text.baldanders.info/release/2021/07/update-tools/)
 <!-- BLOG-POST-LIST:END -->
