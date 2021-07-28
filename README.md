@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [土用の丑の日なので...](https://zenn.dev/spiegel/articles/20210728-zodiac-day)
 - [技術的負債と FOSS](https://text.baldanders.info/remark/2021/07/technical-debt-and-foss/)
 - [見世物小屋](https://text.baldanders.info/remark/2021/07/freak-show/)
 - [『数学ガールの物理ノート／ニュートン力学』を読む — 仕事と日々... じゃなくて](https://text.baldanders.info/remark/2021/07/mathgirl-physics-note/)
 - [2021-07-22 のブックマーク](https://text.baldanders.info/bookmarks/2021/07/22-bookmarks/)
+- [OpenJDK 16.0.2 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/07/openjdk-16_0_2-is-released/)
 <!-- BLOG-POST-LIST:END -->
