@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [なぜ 2021-08-08 日曜日が「山の日」なのか？](https://text.baldanders.info/remark/2021/08/august-mountain-day/)
 - [日本語は公開できない #golang](https://zenn.dev/spiegel/articles/20210807-japanese-identifier)
 - [Go 1.16.7 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/08/go-1_16_7-is-released/)
 - [AI が特許権を得る日](https://text.baldanders.info/remark/2021/08/patent-by-ai/)
 - [十干十二支を数え上げるパッケージを作ってみた](https://text.baldanders.info/release/2021/07/japanese-zodiac/)
-- [土用の丑の日なので...](https://zenn.dev/spiegel/articles/20210728-zodiac-day)
 <!-- BLOG-POST-LIST:END -->
