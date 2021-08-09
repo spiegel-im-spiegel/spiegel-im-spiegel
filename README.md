@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [また散財してしまった...](https://text.baldanders.info/remark/2021/08/web-meeting/)
 - [github.com/pelletier/go-toml で遊ぶ](https://zenn.dev/spiegel/articles/20210808-go-toml)
 - [2021-08-08 のブックマーク](https://text.baldanders.info/bookmarks/2021/08/08-bookmarks/)
 - [なぜ 2021-08-08 日曜日が「山の日」なのか？](https://text.baldanders.info/remark/2021/08/august-mountain-day/)
 - [日本語は公開できない #golang](https://zenn.dev/spiegel/articles/20210807-japanese-identifier)
-- [Go 1.16.7 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/08/go-1_16_7-is-released/)
 <!-- BLOG-POST-LIST:END -->
