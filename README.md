@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [予防接種へ行ってきた（1回目）](https://text.baldanders.info/remark/2021/08/vaccines-are-go/)
+- [uint(1) - uint(2) の評価 または型付けなし定数について](https://zenn.dev/spiegel/articles/20210813-untyped-constant)
 - [また散財してしまった...](https://text.baldanders.info/remark/2021/08/web-meeting/)
 - [github.com/pelletier/go-toml で遊ぶ](https://zenn.dev/spiegel/articles/20210808-go-toml)
 - [2021-08-08 のブックマーク](https://text.baldanders.info/bookmarks/2021/08/08-bookmarks/)
-- [なぜ 2021-08-08 日曜日が「山の日」なのか？](https://text.baldanders.info/remark/2021/08/august-mountain-day/)
-- [日本語は公開できない #golang](https://zenn.dev/spiegel/articles/20210807-japanese-identifier)
 <!-- BLOG-POST-LIST:END -->
