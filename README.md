@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [#golang は大規模環境向けか？](https://zenn.dev/spiegel/articles/20210816-golang)
 - [2021-08-15 のブックマーク](https://text.baldanders.info/bookmarks/2021/08/15-bookmarks/)
 - [クエリ型の JSON パーサ](https://zenn.dev/spiegel/articles/20210815-json-query-package)
 - [予防接種へ行ってきた（1回目）](https://text.baldanders.info/remark/2021/08/vaccines-are-go/)
 - [uint(1) - uint(2) の評価 または型付けなし定数について](https://zenn.dev/spiegel/articles/20210813-untyped-constant)
+- [また散財してしまった...](https://text.baldanders.info/remark/2021/08/web-meeting/)
 <!-- BLOG-POST-LIST:END -->
