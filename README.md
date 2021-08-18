@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Java と VS Code](https://text.baldanders.info/remark/2021/08/java-with-vscode/)
 - [Go 1.17 がリリースされた](https://text.baldanders.info/release/2021/08/go-1_17-is-released/)
 - [#golang は大規模環境向けか？](https://zenn.dev/spiegel/articles/20210816-golang)
 - [2021-08-15 のブックマーク](https://text.baldanders.info/bookmarks/2021/08/15-bookmarks/)
 - [クエリ型の JSON パーサ](https://zenn.dev/spiegel/articles/20210815-json-query-package)
-- [予防接種へ行ってきた（1回目）](https://text.baldanders.info/remark/2021/08/vaccines-are-go/)
 <!-- BLOG-POST-LIST:END -->
