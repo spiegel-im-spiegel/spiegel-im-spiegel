@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Eclipse の SSH アクセスで失敗した話](https://text.baldanders.info/remark/2021/08/ssh-access-by-eclipse-fails/)
 - [松江市における SARS-CoV-2 感染者マップを描いてみた](https://text.baldanders.info/remark/2021/08/infections-map-in-matsue/)
 - [2021-08-29 のブックマーク](https://text.baldanders.info/bookmarks/2021/08/29-bookmarks/)
 - [GnuPG 2.2.30 (LTS) もリリースされた](https://text.baldanders.info/release/2021/08/gnupg-2_2_30-lts-is-released/)
 - [GnuPG 2.3.2 がリリースされた](https://text.baldanders.info/release/2021/08/gnupg-2_3_2-is-released/)
-- [GNKF: NKF ぽいなにか の v0.6.0 をリリースした](https://text.baldanders.info/release/2021/08/gnkf-v0_6_0-is-released/)
 <!-- BLOG-POST-LIST:END -->
