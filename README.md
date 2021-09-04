@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2021-09-04 のブックマーク](https://text.baldanders.info/bookmarks/2021/09/04-bookmarks/)
+- [iota 出現時の値はゼロとは限らない](https://zenn.dev/spiegel/articles/20210904-value-of-iota)
 - [「小さな薄い財布」買うた](https://text.baldanders.info/remark/2021/09/hitoe-fold-aria-foschia/)
 - [Eclipse の SSH アクセスで失敗した話](https://text.baldanders.info/remark/2021/08/ssh-access-by-eclipse-fails/)
 - [松江市における SARS-CoV-2 感染者マップを描いてみた](https://text.baldanders.info/remark/2021/08/infections-map-in-matsue/)
-- [2021-08-29 のブックマーク](https://text.baldanders.info/bookmarks/2021/08/29-bookmarks/)
-- [GnuPG 2.2.30 (LTS) もリリースされた](https://text.baldanders.info/release/2021/08/gnupg-2_2_30-lts-is-released/)
 <!-- BLOG-POST-LIST:END -->
