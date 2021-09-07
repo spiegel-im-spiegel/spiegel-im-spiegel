@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [予防接種へ行ってきた（第2話）](https://text.baldanders.info/remark/2021/09/vaccines-are-go-2nd/)
 - [改訂第8版『LaTeX2ε美文書作成入門』を眺める](https://text.baldanders.info/remark/2021/09/latex-primer/)
 - [失敗体験という技術](https://text.baldanders.info/remark/2021/09/trial-and-error/)
 - [定数生成器 iota についてちゃんと書く](https://text.baldanders.info/golang/iota-constant-generator/)
 - [2021-09-04 のブックマーク](https://text.baldanders.info/bookmarks/2021/09/04-bookmarks/)
-- [iota 出現時の値はゼロとは限らない](https://zenn.dev/spiegel/articles/20210904-value-of-iota)
 <!-- BLOG-POST-LIST:END -->
