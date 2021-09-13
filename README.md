@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Krypton で git commit/tag に電子署名できるらしい](https://zenn.dev/spiegel/articles/20210913-openpgp-sign-with-krypton)
 - [2021-09-12 のブックマーク](https://text.baldanders.info/bookmarks/2021/09/12-bookmarks/)
 - [gpgpdump v0.12.5 をリリースした](https://text.baldanders.info/release/2021/09/gpgpdump-v0_12_5-is-released/)
 - [仮名・ローマ字変換する Go パッケージを作ってみた](https://text.baldanders.info/golang/kana-roman-conversion/)
 - [Go 1.17.1 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/09/go-1_17_1-is-released/)
-- [改めて TeX Live を Ubuntu に（APT を使わずに）導入する](https://text.baldanders.info/remark/2021/09/install-texlive-in-ubuntu-again/)
 <!-- BLOG-POST-LIST:END -->
