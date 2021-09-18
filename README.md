@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [GNKF: NKF ぽいなにか の v0.6.3 をリリースした](https://text.baldanders.info/release/2021/09/gnkf-v0_6_3-is-released/)
 - [Unicode のカタカナを調べる](https://text.baldanders.info/golang/unicode-katakana/)
 - [コンパイル言語だからといってバイナリ提供しなくていいんだよ，Goならね](https://zenn.dev/spiegel/articles/20210918-using-golang)
 - [GnuPG 2.2.31 (LTS) がリリースされた](https://text.baldanders.info/release/2021/09/gnupg-2_2_31-lts-is-released/)
 - [Java 17 LTS がリリースされた](https://text.baldanders.info/release/2021/09/java-17-is-released/)
-- [Krypton で git commit/tag に電子署名できるらしい](https://zenn.dev/spiegel/articles/20210913-openpgp-sign-with-krypton)
 <!-- BLOG-POST-LIST:END -->
