@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2021-09-26 のブックマーク](https://text.baldanders.info/bookmarks/2021/09/26-bookmarks/)
 - [2021-09-19 のブックマーク](https://text.baldanders.info/bookmarks/2021/09/19-bookmarks/)
 - [O'Reilly 本をまとめ買いした](https://text.baldanders.info/remark/2021/09/buying-oreilly-books/)
 - [GNKF: NKF ぽいなにか の v0.6.3 をリリースした](https://text.baldanders.info/release/2021/09/gnkf-v0_6_3-is-released/)
 - [Unicode のカタカナを調べる](https://text.baldanders.info/golang/unicode-katakana/)
-- [コンパイル言語だからといってバイナリ提供しなくていいんだよ，Goならね](https://zenn.dev/spiegel/articles/20210918-using-golang)
 <!-- BLOG-POST-LIST:END -->
