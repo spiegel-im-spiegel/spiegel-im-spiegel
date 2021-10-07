@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [GnuPG 2.2.32 (LTS) がリリースされた](https://text.baldanders.info/release/2021/10/gnupg-2_2_32-lts-is-released/)
 - [リテラル値のポインタ](https://zenn.dev/spiegel/articles/20211004-pointer-to-literal-value)
 - [Excel も CSV みたいに扱いたい](https://zenn.dev/spiegel/articles/20211003-excel-as-a-csv)
 - [Firge フォントを使って LuaLaTeX でコードを書く](https://text.baldanders.info/remark/2021/09/lualatex-with-firge-font/)
 - [「エコーチェンバーの中にいる可能性が高い」](https://text.baldanders.info/remark/2021/09/echo-chamber/)
-- [PostgreSQL と ORM と Logging と](https://zenn.dev/spiegel/books/a-study-in-postgresql)
 <!-- BLOG-POST-LIST:END -->
