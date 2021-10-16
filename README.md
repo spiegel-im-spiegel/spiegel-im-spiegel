@@ -75,7 +75,7 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [crypt/rand を math/rand として使う](https://zenn.dev/spiegel/articles/20211016-crypt-rand-as-a-math-rand)
+- [GnuPG 2.3.3 がリリースされた](https://text.baldanders.info/release/2021/10/gnupg-2_3_3-is-released/)
 - [「顔」に関する用語集](https://text.baldanders.info/remark/2021/10/glossary-about-face/)
 - [Go 1.17.1 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/10/go-1_17_2-is-released/)
 - [2021-10-08 のブックマーク](https://text.baldanders.info/bookmarks/2021/10/08-bookmarks/)
