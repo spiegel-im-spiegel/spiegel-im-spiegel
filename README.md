@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu 21.10 へのアップグレード（本番）](https://text.baldanders.info/remark/2021/11/upgrade-ubuntu-21_10-part-2/)
 - [れいわ時代の「多文化主義的エポケー」](https://text.baldanders.info/remark/2021/11/the-exclusive-society/)
 - [2021-10-31 のブックマーク](https://text.baldanders.info/bookmarks/2021/10/31-bookmarks/)
 - [Synology NAS に Tailscale を設定する](https://text.baldanders.info/remark/2021/10/tailscale-with-synology-nas/)
 - [秋 NAS は俺に喰わせろ！](https://text.baldanders.info/remark/2021/10/nas/)
-- [人の靭性](https://text.baldanders.info/remark/2021/10/toughness-of-system/)
 <!-- BLOG-POST-LIST:END -->
