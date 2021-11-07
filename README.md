@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [それはワンタイム・パスワードの問題ではない](https://text.baldanders.info/remark/2021/11/out-of-band-devices/)
+- [PlantUML で JSON データを簡単視覚化](https://zenn.dev/spiegel/articles/20211107-visualize-json-by-plantuml)
 - [Go 1.17.3 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/11/go-1_17_3-is-released/)
 - [2021-11-07 のブックマーク](https://text.baldanders.info/bookmarks/2021/11/07-bookmarks/)
 - [ピクミンとメタなあれ](https://text.baldanders.info/remark/2021/11/pikmin-bloom/)
-- [Ubuntu 21.10 へのアップグレード（本番）](https://text.baldanders.info/remark/2021/11/upgrade-ubuntu-21_10-part-2/)
-- [れいわ時代の「多文化主義的エポケー」](https://text.baldanders.info/remark/2021/11/the-exclusive-society/)
 <!-- BLOG-POST-LIST:END -->
