@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [gpgpdump v0.13.0 をリリースした](https://text.baldanders.info/release/2021/11/gpgpdump-v0_13_0-is-released/)
 - [それはワンタイム・パスワードの問題ではない](https://text.baldanders.info/remark/2021/11/out-of-band-devices/)
 - [PlantUML で JSON データを簡単視覚化](https://zenn.dev/spiegel/articles/20211107-visualize-json-by-plantuml)
 - [Go 1.17.3 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/11/go-1_17_3-is-released/)
 - [2021-11-07 のブックマーク](https://text.baldanders.info/bookmarks/2021/11/07-bookmarks/)
-- [ピクミンとメタなあれ](https://text.baldanders.info/remark/2021/11/pikmin-bloom/)
 <!-- BLOG-POST-LIST:END -->
