@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2021-11-21 のブックマーク](https://text.baldanders.info/bookmarks/2021/11/21-bookmarks/)
 - [英雄は裁かれない，アイドルはう◯ちをしない，医者は常に正しい](https://text.baldanders.info/remark/2021/11/hero-syndrome/)
 - [Interface 型をあらかじめ宣言しなくてもよい](https://zenn.dev/spiegel/articles/20211120-interface-types)
 - [安全なデジタルライフのために](https://text.baldanders.info/remark/2021/11/securing-our-digital-life/)
 - [2021-11-14 のブックマーク](https://text.baldanders.info/bookmarks/2021/11/14-bookmarks/)
-- [gpgpdump v0.13.0 をリリースした](https://text.baldanders.info/release/2021/11/gpgpdump-v0_13_0-is-released/)
 <!-- BLOG-POST-LIST:END -->
