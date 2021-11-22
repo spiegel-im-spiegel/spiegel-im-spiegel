@@ -75,7 +75,7 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [2021年の主な暦象](https://text.baldanders.info/remark/2021/11/ephemeris-2022/)
+- [2022年の主な暦象](https://text.baldanders.info/remark/2021/11/ephemeris-2022/)
 - [2021-11-21 のブックマーク](https://text.baldanders.info/bookmarks/2021/11/21-bookmarks/)
 - [英雄は裁かれない，アイドルはう◯ちをしない，医者は常に正しい](https://text.baldanders.info/remark/2021/11/hero-syndrome/)
 - [Interface 型をあらかじめ宣言しなくてもよい](https://zenn.dev/spiegel/articles/20211120-interface-types)
