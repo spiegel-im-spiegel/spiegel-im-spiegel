@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2021-11-28 のブックマーク](https://text.baldanders.info/bookmarks/2021/11/28-bookmarks/)
 - [それは「暗号」ではない！](https://text.baldanders.info/remark/2021/11/crypto-is-not-cryptocurrency/)
 - [勤労感謝の日は「大野安之」特盛りでした](https://text.baldanders.info/remark/2021/11/thats-izumiko-okawari/)
 - [2022年の主な暦象](https://text.baldanders.info/remark/2021/11/ephemeris-2022/)
 - [2021-11-21 のブックマーク](https://text.baldanders.info/bookmarks/2021/11/21-bookmarks/)
-- [英雄は裁かれない，アイドルはう◯ちをしない，医者は常に正しい](https://text.baldanders.info/remark/2021/11/hero-syndrome/)
 <!-- BLOG-POST-LIST:END -->
