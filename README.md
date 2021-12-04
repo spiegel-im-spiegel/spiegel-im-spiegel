@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [GnuPG 2.2.33 &lpar;LTS&rpar; がリリースされた](https://text.baldanders.info/release/2021/12/gnupg-2_2_33-lts-is-released/)
 - [Go 1.17.4 のリリースと ssh パッケージのセキュリティ・アップデート](https://text.baldanders.info/release/2021/12/go-1_17_4-is-released/)
 - [2021-11-28 のブックマーク](https://text.baldanders.info/bookmarks/2021/11/28-bookmarks/)
 - [それは「暗号」ではない！](https://text.baldanders.info/remark/2021/11/crypto-is-not-cryptocurrency/)
 - [勤労感謝の日は「大野安之」特盛りでした](https://text.baldanders.info/remark/2021/11/thats-izumiko-okawari/)
-- [2022年の主な暦象](https://text.baldanders.info/remark/2021/11/ephemeris-2022/)
 <!-- BLOG-POST-LIST:END -->
