@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Kindle Paperwhite を新調した](https://text.baldanders.info/remark/2021/12/new-kindle-paperwhite/)
 - [Scoop 版 GnuPG 2.3 系の gpg-agent が動かない？](https://text.baldanders.info/remark/2021/12/gpg-agent-for-windows/)
 - [Azure Virtual Desktop で遊ぶ](https://text.baldanders.info/remark/2021/12/azure-virtual-desktop-2/)
 - [ようやく Azure Virtual Desktop を導入できた](https://text.baldanders.info/remark/2021/12/azure-virtual-desktop/)
 - [2021-12-05 のブックマーク](https://text.baldanders.info/bookmarks/2021/12/05-bookmarks/)
-- [Firefox で Zoom 参加できなくなった](https://text.baldanders.info/remark/2021/12/zoom/)
 <!-- BLOG-POST-LIST:END -->
