@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [pgpdump 0.34 がリリースされた](https://text.baldanders.info/release/2021/12/pgpdump-v0.34-is-released/)
 - [Go 1.17.5 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/12/go-1_17_5-is-released/)
 - [Java 製 Logger “Log4j” の脆弱性について](https://text.baldanders.info/remark/2021/12/log4j-vulnerability/)
 - [Kindle Paperwhite を新調した](https://text.baldanders.info/remark/2021/12/new-kindle-paperwhite/)
 - [Scoop 版 GnuPG 2.3 系の gpg-agent が動かない？](https://text.baldanders.info/remark/2021/12/gpg-agent-for-windows/)
-- [Azure Virtual Desktop で遊ぶ](https://text.baldanders.info/remark/2021/12/azure-virtual-desktop-2/)
 <!-- BLOG-POST-LIST:END -->
