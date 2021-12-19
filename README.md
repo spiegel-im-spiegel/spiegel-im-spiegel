@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2021-12-19 のブックマーク](https://text.baldanders.info/bookmarks/2021/12/19-bookmarks/)
 - [オープンソースは砕けない](https://text.baldanders.info/remark/2021/12/open-source-is-unbreakable/)
 - [『bit』誌の電子復刻と TechMag](https://text.baldanders.info/remark/2021/12/more-bits/)
 - [2021-12-12 のブックマーク](https://text.baldanders.info/bookmarks/2021/12/12-bookmarks/)
 - [pgpdump 0.34 がリリースされた](https://text.baldanders.info/release/2021/12/pgpdump-v0.34-is-released/)
-- [Go 1.17.5 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2021/12/go-1_17_5-is-released/)
 <!-- BLOG-POST-LIST:END -->
