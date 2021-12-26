@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2021-12-26 のブックマーク](https://text.baldanders.info/bookmarks/2021/12/26-bookmarks/)
+- [『数学ガールの秘密ノート／学ぶための対話』を読み返す — 「理解」の数式展開](https://text.baldanders.info/remark/2021/12/mathgirl-note-comprehension/)
 - [GnuPG 2.3.4 および Gpg4win 4 のリリース](https://text.baldanders.info/release/2021/12/gnupg-2_3_4-and-gpg4win-4-are-released/)
 - [Zenn のダッシュボードに統計情報が表示されるようになるらしい](https://zenn.dev/spiegel/articles/20211225-zenn-analytics)
 - [GnuPG 030周年（笑）と寄付の話](https://text.baldanders.info/remark/2021/12/gnupg-030-years-anniversary/)
-- [2021-12-19 のブックマーク](https://text.baldanders.info/bookmarks/2021/12/19-bookmarks/)
-- [オープンソースは砕けない](https://text.baldanders.info/remark/2021/12/open-source-is-unbreakable/)
 <!-- BLOG-POST-LIST:END -->
