@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [CC Licenses を悪用した新手の著作権トロルについて](https://text.baldanders.info/remark/2022/01/new-copyright-trolls/)
 - [2022年は寅年らしいので](https://text.baldanders.info/remark/2022/01/tiger/)
 - [GnuPG の商業的成功と GnuPG VS-Desktop](https://text.baldanders.info/remark/2022/01/gnupg-vs-desktop/)
 - [力なき者のノブレス・オブリージュと力あるものの無関心](https://text.baldanders.info/remark/2022/01/noblesse-oblige/)
 - [【妄想】地球に知的生命体はいるか【与太話】](https://text.baldanders.info/remark/2021/12/the-search-from-extraterrestrial-intelligence/)
-- [2021-12-26 のブックマーク](https://text.baldanders.info/bookmarks/2021/12/26-bookmarks/)
 <!-- BLOG-POST-LIST:END -->
