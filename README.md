@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Shokz OpenComm は Windows と相性が悪い？](https://text.baldanders.info/remark/2022/01/shokz-opencomm-with-windows/)
 - [Go 1.17.6 のリリース](https://text.baldanders.info/release/2022/01/go-1_17_6-is-released/)
 - [CC Licenses を悪用した新手の著作権トロルについて](https://text.baldanders.info/remark/2022/01/new-copyright-trolls/)
 - [2022年は寅年らしいので](https://text.baldanders.info/remark/2022/01/tiger/)
 - [GnuPG の商業的成功と GnuPG VS-Desktop](https://text.baldanders.info/remark/2022/01/gnupg-vs-desktop/)
-- [力なき者のノブレス・オブリージュと力あるものの無関心](https://text.baldanders.info/remark/2022/01/noblesse-oblige/)
 <!-- BLOG-POST-LIST:END -->
