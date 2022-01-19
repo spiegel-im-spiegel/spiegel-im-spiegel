@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenJDK 17.0.2 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2022/01/openjdk-17_0_2-is-released/)
 - [Shokz OpenComm は Windows と相性が悪い？](https://text.baldanders.info/remark/2022/01/shokz-opencomm-with-windows/)
 - [Go 1.17.6 のリリース](https://text.baldanders.info/release/2022/01/go-1_17_6-is-released/)
 - [CC Licenses を悪用した新手の著作権トロルについて](https://text.baldanders.info/remark/2022/01/new-copyright-trolls/)
 - [2022年は寅年らしいので](https://text.baldanders.info/remark/2022/01/tiger/)
-- [GnuPG の商業的成功と GnuPG VS-Desktop](https://text.baldanders.info/remark/2022/01/gnupg-vs-desktop/)
 <!-- BLOG-POST-LIST:END -->
