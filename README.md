@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [GnuPG 2.2.34 &lpar;LTS&rpar; がリリースされた](https://text.baldanders.info/release/2022/02/gnupg-2_2_34-lts-is-released/)
 - [2022-02-19 のブックマーク](https://text.baldanders.info/bookmarks/2022/02/19-bookmarks/)
 - [量子コンピュータで256ビット楕円曲線暗号は破れるか](https://text.baldanders.info/remark/2022/02/breaking-256-bit-elliptic-curve-encryption-with-a-quantum-computer/)
 - [Kindle Paperwhite を交換してもらった話](https://text.baldanders.info/remark/2022/02/replace-kindle-paperwhite/)
 - [「トロルにエサを与えないでください」](https://text.baldanders.info/remark/2022/02/do-not-feed-the-trolls/)
-- [Go 1.17.7 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2022/02/go-1_17_7-is-released/)
 <!-- BLOG-POST-LIST:END -->
