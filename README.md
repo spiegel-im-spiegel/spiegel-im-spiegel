@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [マジで恥ずかしいミス](https://text.baldanders.info/remark/2022/03/really-embarrassing-mistake/)
 - [Go 1.17.8 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2022/03/go-1_17_8-is-released/)
 - [2022-02-27 のブックマーク](https://text.baldanders.info/bookmarks/2022/02/27-bookmarks/)
 - [引っ越し 2022](https://text.baldanders.info/remark/2022/02/moving-2022/)
 - [Font Awesome 6 を導入した](https://text.baldanders.info/remark/2022/02/font-awesome-6-are-go/)
-- [記憶喪失の国](https://text.baldanders.info/remark/2022/02/the-nation-of-amnesia/)
 <!-- BLOG-POST-LIST:END -->
