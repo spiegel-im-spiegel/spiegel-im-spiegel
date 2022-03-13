@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2022-03-13 のブックマーク](https://text.baldanders.info/bookmarks/2022/03/13-bookmarks/)
 - [リモート会議用 Web カメラを買い替えた](https://text.baldanders.info/remark/2022/03/web-camera/)
 - [Hugo で Markdeep な記述ができるようになった](https://text.baldanders.info/remark/2022/03/markdeep-with-hugo/)
 - [2022-03-06 のブックマーク](https://text.baldanders.info/bookmarks/2022/03/06-bookmarks/)
 - [マジで恥ずかしいミス](https://text.baldanders.info/remark/2022/03/really-embarrassing-mistake/)
-- [Go 1.17.8 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2022/03/go-1_17_8-is-released/)
 <!-- BLOG-POST-LIST:END -->
