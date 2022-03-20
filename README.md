@@ -75,9 +75,9 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2022-03-20 のブックマーク](https://text.baldanders.info/bookmarks/2022/03/20-bookmarks/)
 - [Go パッケージの移行状況](https://text.baldanders.info/release/2022/03/status-of-migrations/)
 - [Go 1.18 と Generics と Linter](https://text.baldanders.info/remark/2022/03/linter-troubles-in-go-1_18/)
 - [golang.org/x/crypto/ssh パッケージをアップデートしましょう【セキュリティ・アップデート】](https://text.baldanders.info/remark/2022/03/update-ssh-package/)
 - [Go 1.18 がリリースされた](https://text.baldanders.info/release/2022/03/go-1_18-is-released/)
-- [379年前のアルゴリズムを使って RSA 暗号鍵を破った話](https://text.baldanders.info/remark/2022/03/using-379-year-old-algorithm-to-crack-crypto-keys/)
 <!-- BLOG-POST-LIST:END -->
