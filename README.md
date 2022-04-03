@@ -31,36 +31,34 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 
 ### Active Repositories
 
-#### Applications
+The active Go packages have migrated to [goark](https://github.com/goark) repositories.
 
-[![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/gpgpdump.svg)](https://github.com/spiegel-im-spiegel/gpgpdump/releases/latest) [gpgpdump: OpenPGP packet visualizer](https://github.com/spiegel-im-spiegel/gpgpdump) ([Usage](https://text.baldanders.info/release/gpgpdump/))
-
-[![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/gnkf.svg)](https://github.com/spiegel-im-spiegel/gnkf/releases/latest) [gnkf: Network Kanji Filter by Golang](https://github.com/spiegel-im-spiegel/gnkf) ([Usage](https://text.baldanders.info/release/gnkf/))
-
-[![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/depm.svg)](https://github.com/spiegel-im-spiegel/depm/releases/latest) [depm: Visualize depndency packages and modules](https://github.com/spiegel-im-spiegel/depm) ([Usage](https://text.baldanders.info/release/dependency-graph-for-golang-modules/))
-
-[![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/cov19jpn.svg)](https://github.com/spiegel-im-spiegel/cov19jpn/releases/latest) [cov19jpn: COVID-2019 in Japan; Importing Google COVID-19 Public Forecasts](https://github.com/spiegel-im-spiegel/cov19jpn)
-
-#### Go Packages
-
-[![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/pa-api.svg)](https://github.com/spiegel-im-spiegel/pa-api/releases/latest) [pa-api: APIs for Amazon Product Advertising API v5 by Golang](https://github.com/spiegel-im-spiegel/pa-api) ([Usage](https://text.baldanders.info/release/pa-api-v5/))
-
-[![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/aozora-api.svg)](https://github.com/spiegel-im-spiegel/aozora-api/releases/latest) [aozora-api: APIs for Aozora-bunko RESTful Service by Golang](https://github.com/spiegel-im-spiegel/aozora-api) ([Usage](https://text.baldanders.info/release/aozora-api-package-for-golang/))
-
-[![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/mt.svg)](https://github.com/spiegel-im-spiegel/mt/releases/latest) [mt: Mersenne Twister; Pseudo Random Number Generator, Implemented by Golang](https://github.com/spiegel-im-spiegel/mt) ([Usage](https://text.baldanders.info/release/mersenne-twister-by-golang/))
-
-[![GitHub release](http://img.shields.io/github/release/spiegel-im-spiegel/logf.svg)](https://github.com/spiegel-im-spiegel/logf/releases/latest) [logf: Simple leveled logging package by Golang](https://github.com/spiegel-im-spiegel/logf)
-
-[![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/fetch.svg)](https://github.com/spiegel-im-spiegel/fetch/releases/latest) [fetch: Fetch Data from URL](https://github.com/spiegel-im-spiegel/fetch)
-
-[![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/gocli.svg)](https://github.com/spiegel-im-spiegel/gocli/releases/latest) [gocli: Minimal Packages for Command-Line Interface](https://github.com/spiegel-im-spiegel/gocli) ([Usage](https://text.baldanders.info/release/gocli-package-for-golang/))
-
-[![GitHub release](https://img.shields.io/github/release/spiegel-im-spiegel/errs.svg)](https://github.com/spiegel-im-spiegel/errs/releases/latest) [errs: Error handling for Golang](https://github.com/spiegel-im-spiegel/errs) ([Usage](https://text.baldanders.info/release/errs-package-for-golang/))
+| Go Package |  Bin  | Blog (Jpn) |
+| ------- | :---: | :---: |
+| [gpgpdump: OpenPGP packet visualizer](https://github.com/goark/gpgpdump) | :white_check_mark: | [:white_check_mark:](https://text.baldanders.info/release/gpgpdump.md/) |
+| [depm: Visualize depndency packages and modules](https://github.com/goark/depm) | :white_check_mark: | [:white_check_mark:](https://text.baldanders.info/release/dependency-graph-for-golang-modules.md/) |
+| [books-data: Search for Books Data](https://github.com/goark/books-data) | :white_check_mark: | [:white_check_mark:](https://text.baldanders.info/release/books-data.md/) |
+| [gnkf: Network Kanji Filter by Golang](https://github.com/goark/gnkf) | :white_check_mark: | [:white_check_mark:](https://text.baldanders.info/release/gnkf.md/) |
+| [gimei-cli: 姓名・住所データ生成ツール](https://github.com/goark/gimei-cli) | :white_check_mark: |  |
+| [cov19jpn: COVID-2019 in Japan; Importing Google COVID-19 Public Forecasts](https://github.com/goark/cov19jpn) | :white_check_mark: |  |
+| [ml: Make Link with Markdown Format](https://github.com/goark/ml) | :white_check_mark: | |
+| [pa-api: APIs for Amazon Product Advertising API v5 by Golang](https://github.com/goark/pa-api) | | [:white_check_mark:](https://text.baldanders.info/release/pa-api-v5.md/) |
+| [aozora-api: APIs for Aozora-bunko RESTful Service by Golang](https://github.com/goark/aozora) | | [:white_check_mark:](https://text.baldanders.info/release/aozora-api-package-for-golang.md/) |
+| [openbd-api: APIs for openBD by Golang](https://github.com/goark/openbd-api) | | [:white_check_mark:](https://text.baldanders.info/release/openbd-api-package-for-golang.md/) |
+| [errs: Error handling for Golang](https://github.com/goark/errs) | | [:white_check_mark:](https://text.baldanders.info/release/errs-package-for-golang.md/) |
+| [gocli: Minimal Packages for Command-Line Interface](https://github.com/goark/gocli) | | [:white_check_mark:](https://text.baldanders.info/release/gocli-package-for-golang.md/) |
+| [mt: Mersenne Twister; Pseudo Random Number Generator, Implemented by Golang](https://github.com/goark/mt) | | [:white_check_mark:](https://text.baldanders.info/release/mersenne-twister-by-golang.md/) |
+| [krconv: Convert kana-character to roman-alphabet](https://github.com/goark/krconv) | |  |
+| [kkconv: Hiragana-Katakana Conversion](https://github.com/goark/kkconv) | |  |
+| [go-cvss: Common Vulnerability Scoring System (CVSS)](https://github.com/goark/go-cvss) | |  |
+| [cov19data: Importing WHO COVID-2019 Cases Global Data](https://github.com/goark/cov19data) | |  |
+| [csvdata: Reading CSV Data](https://github.com/goark/csvdata) | |  |
+| [fetch: Fetch Data from URL](https://github.com/goark/fetch) | |  |
+| [koyomi: 日本のこよみ](https://github.com/goark/koyomi) | | |
 
 ### Stats in GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiegel-im-spiegel&hide=html&line_height=34)
-![Spiegel's github stats](https://github-readme-stats.vercel.app/api?username=spiegel-im-spiegel&show_icons=true&line_height=34)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiegel-im-spiegel&hide=html)
 
 ### Contents
 
