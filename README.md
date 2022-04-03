@@ -31,7 +31,7 @@ $ gpg --fetch-keys https://github.com/spiegel-im-spiegel.gpg
 
 ### Active Repositories
 
-The active Go packages have migrated to [goark](https://github.com/goark) repositories.
+These active Go packages have migrated to [goark](https://github.com/goark) repositories.
 
 | Go Package |  Bin  | Blog (Jpn) |
 | ------- | :---: | :---: |
