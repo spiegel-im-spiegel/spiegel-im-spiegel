@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure App Service に VS Code でデプロイできなかった話](https://text.baldanders.info/remark/2022/04/cannot-deploy-with-vscode/)
 - [Go はどのようにしてサプライチェーン攻撃を低減しているか](https://zenn.dev/spiegel/articles/20220402-how-go-mitigates-supply-chain-attacks)
 - [spring-beans パッケージの RCE 脆弱性について](https://text.baldanders.info/remark/2022/04/spring4shell/)
 - [2022-03-27 のブックマーク](https://text.baldanders.info/bookmarks/2022/03/27-bookmarks/)
 - [OpenPGP 公開鍵の期限を延長した](https://text.baldanders.info/remark/2022/03/update-expiration/)
-- [Java 18 がリリースされた](https://text.baldanders.info/release/2022/03/java-18-is-released/)
 <!-- BLOG-POST-LIST:END -->
