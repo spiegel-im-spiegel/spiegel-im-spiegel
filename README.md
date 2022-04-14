@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [pgpdump 0.35 がリリースされていた](https://text.baldanders.info/release/2022/04/pgpdump-v0.35-was-released/)
 - [Go 1.18.1 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2022/04/go-1_18_1-is-released/)
 - [Go のラベル](https://zenn.dev/spiegel/articles/20220410-labeling)
 - [2022-04-10 のブックマーク](https://text.baldanders.info/bookmarks/2022/04/10-bookmarks/)
 - [Mermaid.js の Git コミット図が正式版になった](https://text.baldanders.info/remark/2022/04/git-graph-with-mermaid/)
-- [Azure App Service に VS Code でデプロイできなかった話](https://text.baldanders.info/remark/2022/04/cannot-deploy-with-vscode/)
 <!-- BLOG-POST-LIST:END -->
