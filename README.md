@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenJDK のセキュリティ・アップデート](https://text.baldanders.info/release/2022/04/openjdks-has-been-updated/)
 - [第五の季節：土用](https://text.baldanders.info/remark/2022/04/doyo-period/)
 - [折りたたみキーボードを新調した](https://text.baldanders.info/remark/2022/04/portable-keyboard/)
 - [pgpdump 0.35 がリリースされていた](https://text.baldanders.info/release/2022/04/pgpdump-v0.35-was-released/)
 - [Go 1.18.1 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2022/04/go-1_18_1-is-released/)
-- [Go のラベル](https://zenn.dev/spiegel/articles/20220410-labeling)
 <!-- BLOG-POST-LIST:END -->
