@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2022-04-24 のブックマーク](https://text.baldanders.info/bookmarks/2022/04/24-bookmarks/)
 - [やっと Codespaces が使える](https://text.baldanders.info/remark/2022/04/codespaces/)
 - [GnuPG 2.3.5 のリリース](https://text.baldanders.info/release/2022/04/gnupg-2_3_5-is-released/)
 - [OpenJDK のセキュリティ・アップデート](https://text.baldanders.info/release/2022/04/openjdks-has-been-updated/)
 - [第五の季節：土用](https://text.baldanders.info/remark/2022/04/doyo-period/)
-- [折りたたみキーボードを新調した](https://text.baldanders.info/remark/2022/04/portable-keyboard/)
 <!-- BLOG-POST-LIST:END -->
