@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Japan 終了後の後始末](https://text.baldanders.info/remark/2022/05/garbage-collection/)
 - [ユリウス日が2,460,000日を超える日](https://text.baldanders.info/remark/2022/05/julian-day-number/)
 - [CI 用の GitHub Actions が諸々アップデートされていた](https://text.baldanders.info/golang/update-github-actions/)
 - [2022-04-24 のブックマーク](https://text.baldanders.info/bookmarks/2022/04/24-bookmarks/)
 - [やっと Codespaces が使える](https://text.baldanders.info/remark/2022/04/codespaces/)
-- [GnuPG 2.3.5 のリリース](https://text.baldanders.info/release/2022/04/gnupg-2_3_5-is-released/)
 <!-- BLOG-POST-LIST:END -->
