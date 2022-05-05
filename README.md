@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [波乗りプログラマ](https://text.baldanders.info/remark/2022/05/programmer-the-surfer/)
 - [TechCrunch Japan 終了後の後始末](https://text.baldanders.info/remark/2022/05/garbage-collection/)
 - [ユリウス日が2,460,000日を超える日](https://text.baldanders.info/remark/2022/05/julian-day-number/)
 - [CI 用の GitHub Actions が諸々アップデートされていた](https://text.baldanders.info/golang/update-github-actions/)
 - [2022-04-24 のブックマーク](https://text.baldanders.info/bookmarks/2022/04/24-bookmarks/)
-- [やっと Codespaces が使える](https://text.baldanders.info/remark/2022/04/codespaces/)
 <!-- BLOG-POST-LIST:END -->
