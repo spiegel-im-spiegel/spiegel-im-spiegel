@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [apt-key が非推奨になったので](https://zenn.dev/spiegel/articles/20220508-apt-key-is-deprecated)
 - [ついに apt-key コマンドに「非推奨」のワーニングが](https://text.baldanders.info/remark/2022/05/apt-key-is-deprecated/)
 - [Ubuntu 22.04 LTS へのアップグレード](https://text.baldanders.info/remark/2022/05/upgrade-ubuntu-22_04-lts/)
 - [波乗りプログラマ](https://text.baldanders.info/remark/2022/05/programmer-the-surfer/)
 - [TechCrunch Japan 終了後の後始末](https://text.baldanders.info/remark/2022/05/garbage-collection/)
-- [ユリウス日が2,460,000日を超える日](https://text.baldanders.info/remark/2022/05/julian-day-number/)
 <!-- BLOG-POST-LIST:END -->
