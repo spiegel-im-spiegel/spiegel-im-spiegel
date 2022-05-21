@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [『ユニコーン企業のひみつ』読書会](https://text.baldanders.info/remark/2022/05/competing-with-unicorns/)
 - [『数学ガールの秘密ノート/丸い三角関数』を読む【再掲載】](https://text.baldanders.info/remark/2022/05/mathgirl-note-circular-functions/)
 - [apt-key が非推奨になったので](https://zenn.dev/spiegel/articles/20220508-apt-key-is-deprecated)
 - [ついに apt-key コマンドに「非推奨」のワーニングが](https://text.baldanders.info/remark/2022/05/apt-key-is-deprecated/)
 - [Ubuntu 22.04 LTS へのアップグレード](https://text.baldanders.info/remark/2022/05/upgrade-ubuntu-22_04-lts/)
-- [波乗りプログラマ](https://text.baldanders.info/remark/2022/05/programmer-the-surfer/)
 <!-- BLOG-POST-LIST:END -->
