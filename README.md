@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [『ユニコーン企業のひみつ』読書会（2）](https://text.baldanders.info/remark/2022/06/competing-with-unicorns-2/)
 - [Atom の落日](https://text.baldanders.info/remark/2022/06/sunsetting-atom/)
 - [Web3 ってゆーな！](https://text.baldanders.info/remark/2022/06/this-is-not-web/)
 - [2022-05-22 のブックマーク](https://text.baldanders.info/bookmarks/2022/05/22-bookmarks/)
-- [『ユニコーン企業のひみつ』読書会](https://text.baldanders.info/remark/2022/05/competing-with-unicorns/)
-- [『数学ガールの秘密ノート/丸い三角関数』を読む【再掲載】](https://text.baldanders.info/remark/2022/05/mathgirl-note-circular-functions/)
+- [『ユニコーン企業のひみつ』読書会（1）](https://text.baldanders.info/remark/2022/05/competing-with-unicorns/)
 <!-- BLOG-POST-LIST:END -->
