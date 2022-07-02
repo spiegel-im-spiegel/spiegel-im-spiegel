@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Copilot は貢献者から貢献を奪うか？](https://text.baldanders.info/remark/2022/07/code-launderring/)
 - [立体顔パンツ](https://text.baldanders.info/remark/2022/07/3d-face-briefs/)
 - [Google Fonts から Bunny Fonts に乗り換える](https://text.baldanders.info/remark/2022/06/migrate-to-bunny-fonts-from-google-fonts/)
 - [「USB メモリ」を「USB」って略すな！](https://text.baldanders.info/remark/2022/06/usb-memory-is-not-usb/)
 - [『ユニコーン企業のひみつ』読書会（2）](https://text.baldanders.info/remark/2022/06/competing-with-unicorns-2/)
-- [Atom の落日](https://text.baldanders.info/remark/2022/06/sunsetting-atom/)
 <!-- BLOG-POST-LIST:END -->
