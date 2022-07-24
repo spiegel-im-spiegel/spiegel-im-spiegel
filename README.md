@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [strings.Title 関数は非推奨になった](https://text.baldanders.info/golang/deprecated-strings-title/)
 - [goark/pa-api パッケージで GetBrowseNodes オペレーションに対応した](https://text.baldanders.info/golang/getbrowsenodes-with-paapiv5/)
 - [ネックスピーカー買うた](https://text.baldanders.info/remark/2022/07/neck-speaker/)
 - [2022年に出た（出る） Go 言語関連の本](https://text.baldanders.info/remark/2022/07/books-for-golang/)
 - [Go 1.18.4 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2022/07/go-1_18_2-is-released/)
-- [「ブログはやはり『死に続けている』」](https://text.baldanders.info/remark/2022/07/slow-motion-car-crash/)
 <!-- BLOG-POST-LIST:END -->
