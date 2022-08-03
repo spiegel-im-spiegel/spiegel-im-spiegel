@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Go 1.19 がリリースされた](https://text.baldanders.info/release/2022/08/go-1_19-is-released/)
 - [Go 1.18.5 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2022/08/go-1_18_5-is-released/)
 - [クラウドストレージのアカウント情報がクラウドストレージにある罠](https://text.baldanders.info/remark/2022/07/midsummer-horror/)
 - [Blockchain/Bitcoin は何だったのか](https://text.baldanders.info/remark/2022/07/blockchain/)
 - [strings.Title 関数は非推奨になった](https://text.baldanders.info/golang/deprecated-strings-title/)
-- [goark/pa-api パッケージで GetBrowseNodes オペレーションに対応した](https://text.baldanders.info/golang/getbrowsenodes-with-paapiv5/)
 <!-- BLOG-POST-LIST:END -->
