@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [悪意のコードを含む多数の分岐リポジトリが見つかった話](https://text.baldanders.info/remark/2022/08/malicious-code-in-many-forked-repositories/)
 - [Go 1.19 で os/exec パッケージの挙動が変わった話](https://text.baldanders.info/golang/exec-package-in-go119/)
 - [Go 1.19 がリリースされた](https://text.baldanders.info/release/2022/08/go-1_19-is-released/)
 - [Go 1.18.5 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2022/08/go-1_18_5-is-released/)
 - [クラウドストレージのアカウント情報がクラウドストレージにある罠](https://text.baldanders.info/remark/2022/07/midsummer-horror/)
-- [Blockchain/Bitcoin は何だったのか](https://text.baldanders.info/remark/2022/07/blockchain/)
 <!-- BLOG-POST-LIST:END -->
