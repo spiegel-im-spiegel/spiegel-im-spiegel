@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Go 公式の脆弱性管理システム](https://zenn.dev/spiegel/articles/20220811-go-vulnerability-management)
 - [2022-08-11 のブックマーク](https://text.baldanders.info/bookmarks/2022/08/11-bookmarks/)
 - [オープンソース製品とソフトウェア部品表](https://text.baldanders.info/remark/2022/08/software-bills-of-materials/)
 - [ライセンスファイルからライセンスを推定する](https://zenn.dev/spiegel/articles/20220806-licenseclassifier)
 - [悪意のコードを含む多数の分岐リポジトリが見つかった話](https://text.baldanders.info/remark/2022/08/malicious-code-in-many-forked-repositories/)
-- [Go 1.19 で os/exec パッケージの挙動が変わった話](https://text.baldanders.info/golang/exec-package-in-go119/)
 <!-- BLOG-POST-LIST:END -->
