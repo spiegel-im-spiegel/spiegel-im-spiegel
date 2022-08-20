@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2022-08-20 のブックマーク](https://text.baldanders.info/bookmarks/2022/08/20-bookmarks/)
 - [fs.FS を使ってディレクトリ・ファイルを参照する](https://text.baldanders.info/golang/abstract-filesystem/)
 - [アクセス制御状態の4分類](https://text.baldanders.info/remark/2022/08/taxonomy-of-access-control/)
 - [キーボード掃除機 買うた](https://text.baldanders.info/remark/2022/08/keyboard-cleaner/)
 - [GnuPG 2.3.7 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2022/07/gnupg-2_3_7-is-released/)
-- [OpenJDK のセキュリティ・アップデート（2022-07）](https://text.baldanders.info/release/2022/07/openjdks-has-been-updated/)
 <!-- BLOG-POST-LIST:END -->
