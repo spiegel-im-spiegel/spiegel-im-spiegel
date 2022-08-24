@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [SNS を巡る愛憎](https://text.baldanders.info/remark/2022/08/facebook/)
-- [名誉毀損とリンク](https://text.baldanders.info/remark/2022/08/defamation-and-hyperlinks/)
-- [2022-08-20 のブックマーク](https://text.baldanders.info/bookmarks/2022/08/20-bookmarks/)
-- [fs.FS を使ってディレクトリ・ファイルを参照する](https://text.baldanders.info/golang/abstract-filesystem/)
-- [アクセス制御状態の4分類](https://text.baldanders.info/remark/2022/08/taxonomy-of-access-control/)
+- [Go 公式の脆弱性管理システム](https://zenn.dev/spiegel/articles/20220811-go-vulnerability-management)
+- [ライセンスファイルからライセンスを推定する](https://zenn.dev/spiegel/articles/20220806-licenseclassifier)
+- [apt-key が非推奨になったので](https://zenn.dev/spiegel/articles/20220508-apt-key-is-deprecated)
+- [Go のラベル](https://zenn.dev/spiegel/articles/20220410-labeling)
+- [Go はどのようにしてサプライチェーン攻撃を低減しているか](https://zenn.dev/spiegel/articles/20220402-how-go-mitigates-supply-chain-attacks)
 <!-- BLOG-POST-LIST:END -->
