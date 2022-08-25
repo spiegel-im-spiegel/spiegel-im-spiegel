@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [インターネット・キルスイッチ](https://text.baldanders.info/remark/2022/08/kill-switch/)
 - [DRM 制限されているメディアから銭を巻き上げようとする文化庁](https://text.baldanders.info/remark/2022/08/bad-copyright/)
 - [SNS を巡る愛憎](https://text.baldanders.info/remark/2022/08/facebook/)
 - [名誉毀損とリンク](https://text.baldanders.info/remark/2022/08/defamation-and-hyperlinks/)
 - [2022-08-20 のブックマーク](https://text.baldanders.info/bookmarks/2022/08/20-bookmarks/)
-- [fs.FS を使ってディレクトリ・ファイルを参照する](https://text.baldanders.info/golang/abstract-filesystem/)
 <!-- BLOG-POST-LIST:END -->
