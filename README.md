@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [上中下旬を検算する](https://zenn.dev/spiegel/articles/20220901-period)
 - [「機械学習技術の民主化」](https://text.baldanders.info/remark/2022/08/ai-drawing/)
 - [2022-08-28 のブックマーク](https://text.baldanders.info/bookmarks/2022/08/28-bookmarks/)
 - [インターネット・キルスイッチ](https://text.baldanders.info/remark/2022/08/kill-switch/)
 - [DRM 制限されているメディアから銭を巻き上げようとする文化庁](https://text.baldanders.info/remark/2022/08/bad-copyright/)
-- [SNS を巡る愛憎](https://text.baldanders.info/remark/2022/08/facebook/)
 <!-- BLOG-POST-LIST:END -->
