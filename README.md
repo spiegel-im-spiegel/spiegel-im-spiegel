@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2022-09-04 のブックマーク](https://text.baldanders.info/bookmarks/2022/09/04-bookmarks/)
 - [リテラル定数](https://zenn.dev/spiegel/articles/20220904-literal-constants)
 - [モリサワ BIZ UD 明朝/ゴシック Web フォント](https://text.baldanders.info/remark/2022/09/morisawa-biz-ud-fonts/)
 - [SETI と私](https://text.baldanders.info/remark/2022/09/seti/)
 - [上中下旬を検算する](https://zenn.dev/spiegel/articles/20220901-period)
-- [「機械学習技術の民主化」](https://text.baldanders.info/remark/2022/08/ai-drawing/)
 <!-- BLOG-POST-LIST:END -->
