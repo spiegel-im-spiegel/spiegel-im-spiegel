@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [単一リポジトリで Workspace モードを試してみる](https://zenn.dev/spiegel/articles/20220912-workspace-mode)
 - [チャリンコ買うた](https://text.baldanders.info/remark/2022/09/x-road-bike/)
 - [SSH 越しに DB サーバにアクセスする](https://text.baldanders.info/release/2022/09/sql-over-ssh/)
 - [命のリスク・トレードオフ](https://text.baldanders.info/remark/2022/09/risk-management/)
 - [Go 1.19.1 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2022/09/go-1_19_1-is-released/)
-- [2022-09-04 のブックマーク](https://text.baldanders.info/bookmarks/2022/09/04-bookmarks/)
 <!-- BLOG-POST-LIST:END -->
