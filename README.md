@@ -55,6 +55,7 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 | [csvdata: Reading CSV Data](https://github.com/goark/csvdata) | |  |
 | [fetch: Fetch Data from URL](https://github.com/goark/fetch) | |  |
 | [koyomi: 日本のこよみ](https://github.com/goark/koyomi) | | |
+| [sshql: Go SQL drivers over SSH](https://github.com/goark/sshql) | | |
 
 ### Stats in GitHub
 
