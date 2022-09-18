@@ -74,9 +74,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [結局 Google Fonts に巻き戻した。そしてモリサワ BIZ UD フォント採用へ](https://text.baldanders.info/remark/2022/09/rollback-web-fonts/)
 - [2022-09-18 のブックマーク](https://text.baldanders.info/bookmarks/2022/09/18-bookmarks/)
 - [はじめての空気圧チェック](https://text.baldanders.info/remark/2022/09/pound-force-per-square-inch/)
 - [図書館に行きたくなる本？](https://text.baldanders.info/remark/2022/09/library/)
 - [単一リポジトリで Workspace モードを試してみる](https://zenn.dev/spiegel/articles/20220912-workspace-mode)
-- [チャリンコ買うた](https://text.baldanders.info/remark/2022/09/x-road-bike/)
 <!-- BLOG-POST-LIST:END -->
