@@ -74,9 +74,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [駐輪場をたずねて三千里（ってほどでもない）](https://text.baldanders.info/remark/2022/09/bike-parking/)
 - [SSH, MySQL, Zerolog, そして Kra](https://text.baldanders.info/golang/ssh-mysql-zerolog-and-kra/)
 - [Java 19 がリリースされた](https://text.baldanders.info/release/2022/09/java-19-is-released/)
 - [CC と NFT に関する FAQ を翻訳してみた](https://text.baldanders.info/remark/2022/09/nfts-and-cc/)
 - [NFT と CC Licenses](https://text.baldanders.info/cc-licenses/06-nfts-and-cc/)
-- [結局 Google Fonts に巻き戻した。そしてモリサワ BIZ UD フォント採用へ](https://text.baldanders.info/remark/2022/09/rollback-web-fonts/)
 <!-- BLOG-POST-LIST:END -->
