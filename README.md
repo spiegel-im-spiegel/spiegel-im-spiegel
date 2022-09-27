@@ -40,7 +40,6 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 | [books-data: Search for Books Data](https://github.com/goark/books-data) | [:white_check_mark:](https://github.com/goark/books-data/releases) | [:white_check_mark:](https://text.baldanders.info/release/books-data.md/) |
 | [gnkf: Network Kanji Filter by Golang](https://github.com/goark/gnkf) | [:white_check_mark:](https://github.com/goark/gnkf/releases) | [:white_check_mark:](https://text.baldanders.info/release/gnkf.md/) |
 | [gimei-cli: 姓名・住所データ生成ツール](https://github.com/goark/gimei-cli) | [:white_check_mark:](https://github.com/goark/gimei-cli/releases) |  |
-| [cov19jpn: COVID-2019 in Japan; Importing Google COVID-19 Public Forecasts](https://github.com/goark/cov19jpn) | [:white_check_mark:](https://github.com/goark/cov19jpn/releases) |  |
 | [ml: Make Link with Markdown Format](https://github.com/goark/ml) | [:white_check_mark:](https://github.com/goark/ml/releases) | |
 | [pa-api: APIs for Amazon Product Advertising API v5 by Golang](https://github.com/goark/pa-api) | | [:white_check_mark:](https://text.baldanders.info/release/pa-api-v5.md/) |
 | [aozora-api: APIs for Aozora-bunko RESTful Service by Golang](https://github.com/goark/aozora) | | [:white_check_mark:](https://text.baldanders.info/release/aozora-api-package-for-golang.md/) |
