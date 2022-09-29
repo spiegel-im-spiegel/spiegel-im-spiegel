@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Go で簡単なメール送信](https://zenn.dev/spiegel/articles/20220929-sendmail-with-golang)
 - [チェーンお掃除を試してみる](https://text.baldanders.info/remark/2022/09/cleaning-the-chain/)
 - [2022-09-25 のブックマーク](https://text.baldanders.info/bookmarks/2022/09/25-bookmarks/)
 - [APT で upgrade/dist-upgrade できなかったとき](https://text.baldanders.info/remark/2022/09/cannot-upgrade-with-apt/)
 - [駐輪場をたずねて三千里（ってほどでもない）](https://text.baldanders.info/remark/2022/09/bike-parking/)
-- [SSH, MySQL, Zerolog, そして Kra](https://text.baldanders.info/golang/ssh-mysql-zerolog-and-kra/)
 <!-- BLOG-POST-LIST:END -->
