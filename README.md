@@ -47,6 +47,7 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 | [errs: Error handling for Golang](https://github.com/goark/errs) | | [:white_check_mark:](https://text.baldanders.info/release/errs-package-for-golang.md/) |
 | [gocli: Minimal Packages for Command-Line Interface](https://github.com/goark/gocli) | | [:white_check_mark:](https://text.baldanders.info/release/gocli-package-for-golang.md/) |
 | [mt: Mersenne Twister; Pseudo Random Number Generator, Implemented by Golang](https://github.com/goark/mt) | | [:white_check_mark:](https://text.baldanders.info/release/mersenne-twister-by-golang.md/) |
+| [sshql: Go SQL drivers over SSH](https://github.com/goark/sshql) | | [:white_check_mark:](https://text.baldanders.info/release/sshql/) |
 | [krconv: Convert kana-character to roman-alphabet](https://github.com/goark/krconv) | |  |
 | [kkconv: Hiragana-Katakana Conversion](https://github.com/goark/kkconv) | |  |
 | [go-cvss: Common Vulnerability Scoring System (CVSS)](https://github.com/goark/go-cvss) | |  |
@@ -54,7 +55,6 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 | [csvdata: Reading CSV Data](https://github.com/goark/csvdata) | |  |
 | [fetch: Fetch Data from URL](https://github.com/goark/fetch) | |  |
 | [koyomi: 日本のこよみ](https://github.com/goark/koyomi) | | |
-| [sshql: Go SQL drivers over SSH](https://github.com/goark/sshql) | | |
 
 ### Stats in GitHub
 
