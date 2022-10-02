@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google 画像検索の CC Licenses 絞り込み機能は壊れている？](https://text.baldanders.info/remark/2022/10/google-broke-image-search-creative-commons/)
 - [2022-10-02 のブックマーク](https://text.baldanders.info/bookmarks/2022/10/02-bookmarks/)
 - [インターネット・イレギュラーズ（笑）](https://text.baldanders.info/remark/2022/10/internet-irregulars/)
 - [サイクリング &amp; お散歩カメラ](https://text.baldanders.info/remark/2022/10/suitouro/)
 - [sshql — SSH 越しに RDBMS にアクセスする](https://text.baldanders.info/release/sshql/)
-- [Go で簡単なメール送信](https://zenn.dev/spiegel/articles/20220929-sendmail-with-golang)
 <!-- BLOG-POST-LIST:END -->
