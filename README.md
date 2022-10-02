@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [「小さな数学者たちの対話の場」を読む](https://text.baldanders.info/remark/2022/10/library-2/)
 - [Google 画像検索の CC Licenses 絞り込み機能は壊れている？](https://text.baldanders.info/remark/2022/10/google-broke-image-search-creative-commons/)
 - [2022-10-02 のブックマーク](https://text.baldanders.info/bookmarks/2022/10/02-bookmarks/)
 - [インターネット・イレギュラーズ（笑）](https://text.baldanders.info/remark/2022/10/internet-irregulars/)
 - [サイクリング &amp; お散歩カメラ](https://text.baldanders.info/remark/2022/10/suitouro/)
-- [sshql — SSH 越しに RDBMS にアクセスする](https://text.baldanders.info/release/sshql/)
 <!-- BLOG-POST-LIST:END -->
