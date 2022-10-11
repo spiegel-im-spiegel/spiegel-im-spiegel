@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [「退屈な Go」あらため『初めての Go 言語』はよい本](https://text.baldanders.info/remark/2022/10/learning-go/)
 - [2022-10-10 のブックマーク](https://text.baldanders.info/bookmarks/2022/10/10-bookmarks/)
 - [遅走り，早歩き](https://text.baldanders.info/remark/2022/10/messenger-bag/)
 - [標準 flag パッケージを pflag パッケージに置き換える](https://zenn.dev/spiegel/articles/20221008-customize-flag-package)
 - [Go 1.19.2 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2022/10/go-1_19_2-is-released/)
-- [「小さな数学者たちの対話の場」を読む](https://text.baldanders.info/remark/2022/10/library-2/)
 <!-- BLOG-POST-LIST:END -->
