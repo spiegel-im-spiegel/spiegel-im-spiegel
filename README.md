@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Android 版 Signal が SMS 対応を取りやめる話](https://text.baldanders.info/remark/2022/10/signal-will-remove-support-for-sms-text-messages-on-android/)
 - [2022-10-16 のブックマーク](https://text.baldanders.info/bookmarks/2022/10/16-bookmarks/)
 - [鼕行列を見物しに行った](https://text.baldanders.info/remark/2022/10/dogyoretsu/)
 - [「識別、認証、許可」](https://text.baldanders.info/remark/2022/10/identification-authentication-authorization/)
 - [golang.org/x/text/language のセキュリティ・アップデート](https://text.baldanders.info/release/2022/10/text-v0_3_8-is-released/)
-- [「退屈な Go」あらため『初めての Go 言語』はよい本](https://text.baldanders.info/remark/2022/10/learning-go/)
 <!-- BLOG-POST-LIST:END -->
