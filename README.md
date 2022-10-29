@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Decorator Pattern で BOM を除去する](https://zenn.dev/spiegel/articles/20221029-remove-bom)
 - [メガドライブミニ2買うた](https://text.baldanders.info/remark/2022/10/megadrive-mini-2/)
 - [AI は「創作者様」を引きずり下ろすか — 『人権と文化コモンズ』を流し読む](https://text.baldanders.info/remark/2022/10/cultural-commons/)
 - [紙芝居用の簡易 Web サーバを Go 言語で書く【叱られ編】](https://text.baldanders.info/golang/simple-web-server-with-golang-3/)
 - [Android 版 Signal が SMS 対応を取りやめる話](https://text.baldanders.info/remark/2022/10/signal-will-remove-support-for-sms-text-messages-on-android/)
-- [2022-10-16 のブックマーク](https://text.baldanders.info/bookmarks/2022/10/16-bookmarks/)
 <!-- BLOG-POST-LIST:END -->
