@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2022-10-30 のブックマーク](https://text.baldanders.info/bookmarks/2022/10/30-bookmarks/)
 - [Linux 版 Pinta は Snap でインストールしろ！](https://text.baldanders.info/remark/2022/10/pinta-by-snap/)
 - [Ubuntu 22.10 へのアップグレード](https://text.baldanders.info/remark/2022/10/upgrade-ubuntu-22_10/)
 - [Decorator Pattern で BOM を除去する](https://zenn.dev/spiegel/articles/20221029-remove-bom)
 - [メガドライブミニ2買うた](https://text.baldanders.info/remark/2022/10/megadrive-mini-2/)
-- [AI は「創作者様」を引きずり下ろすか — 『人権と文化コモンズ』を流し読む](https://text.baldanders.info/remark/2022/10/cultural-commons/)
 <!-- BLOG-POST-LIST:END -->
