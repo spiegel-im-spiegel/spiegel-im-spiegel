@@ -74,9 +74,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [ブロックテックパーカを買うた](https://text.baldanders.info/remark/2022/11/blocktech-parka/)
 - [自転車損害保険](https://text.baldanders.info/remark/2022/11/accident-insurance-for-bike/)
 - [2022-11-06 のブックマーク](https://text.baldanders.info/bookmarks/2022/11/06-bookmarks/)
 - [BOM を除去する io.ReadCloser Decorator を作ってみた](https://text.baldanders.info/golang/decorator-for-stripping-bom/)
 - [OpenJDK のセキュリティ・アップデート（2022-10）](https://text.baldanders.info/release/2022/10/openjdks-has-been-updated/)
-- [GnuPG 2.3.8 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2022/11/gnupg-2_3_8-is-released/)
 <!-- BLOG-POST-LIST:END -->
