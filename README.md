@@ -74,9 +74,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [公式の構造化 Logger &lpar;になるかもしれない&rpar; slog パッケージ](https://text.baldanders.info/golang/maybe-official-structured-logger-package/)
 - [いまさら「安全なメッセージング・アプリ」](https://text.baldanders.info/remark/2022/11/secure-messaging-apps/)
 - [広告メディアとしての Twitter](https://text.baldanders.info/remark/2022/11/twitter-as-the-advertising-media/)
 - [ブロックテックパーカを買うた](https://text.baldanders.info/remark/2022/11/blocktech-parka/)
 - [自転車損害保険](https://text.baldanders.info/remark/2022/11/accident-insurance-for-bike/)
-- [2022-11-06 のブックマーク](https://text.baldanders.info/bookmarks/2022/11/06-bookmarks/)
 <!-- BLOG-POST-LIST:END -->
