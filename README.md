@@ -74,9 +74,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [もうちょこっと Mastodon](https://text.baldanders.info/remark/2022/11/some-little-more-mastodon/)
 - [八重垣神社チャレンジ](https://text.baldanders.info/remark/2022/11/challenge-for-the-yaegaki-shrine/)
 - [Mastodon の復活](https://text.baldanders.info/remark/2022/11/the-return-of-mastodon/)
 - [踊る血糖値](https://text.baldanders.info/remark/2022/11/dancing-blood-sugar/)
 - [公式の構造化 Logger &lpar;になるかもしれない&rpar; slog パッケージ](https://text.baldanders.info/golang/maybe-official-structured-logger-package/)
-- [いまさら「安全なメッセージング・アプリ」](https://text.baldanders.info/remark/2022/11/secure-messaging-apps/)
 <!-- BLOG-POST-LIST:END -->
