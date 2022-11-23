@@ -74,9 +74,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [いまさら『Clean Architecture』の感想文](https://text.baldanders.info/remark/2022/11/clean-architecture/)
 - [“Gopher at Mastodon”](https://text.baldanders.info/remark/2022/11/gopher-at-mastodon/)
 - [もうちょこっと Mastodon](https://text.baldanders.info/remark/2022/11/some-little-more-mastodon/)
 - [八重垣神社チャレンジ](https://text.baldanders.info/remark/2022/11/challenge-for-the-yaegaki-shrine/)
 - [Mastodon の復活](https://text.baldanders.info/remark/2022/11/the-return-of-mastodon/)
-- [踊る血糖値](https://text.baldanders.info/remark/2022/11/dancing-blood-sugar/)
 <!-- BLOG-POST-LIST:END -->
