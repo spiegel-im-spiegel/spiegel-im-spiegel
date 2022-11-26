@@ -74,9 +74,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Prismo はじめました，他](https://text.baldanders.info/remark/2022/11/prismo-fedibird/)
 - [2022-11-26 のブックマーク](https://text.baldanders.info/bookmarks/2022/11/26-bookmarks/)
 - [「プラットフォームとフェデレーションとの競争」](https://text.baldanders.info/remark/2022/11/new-spark-of-competition-between-platforms-and-federations/)
 - [Flickr 短縮 URL](https://text.baldanders.info/golang/flickr-short-url/)
 - [いまさら『Clean Architecture』の感想文](https://text.baldanders.info/remark/2022/11/clean-architecture/)
-- [“Gopher at Mastodon”](https://text.baldanders.info/remark/2022/11/gopher-at-mastodon/)
 <!-- BLOG-POST-LIST:END -->
