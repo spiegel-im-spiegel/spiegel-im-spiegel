@@ -74,9 +74,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2023年の主な暦象](https://text.baldanders.info/remark/2022/12/ephemeris-2023/)
 - [デバッグする AI](https://text.baldanders.info/remark/2022/12/debugging-with-ai/)
 - [The Flickr Foundation 100年の計](https://text.baldanders.info/remark/2022/11/the-flickr-foundation/)
 - [GopenPGP](https://text.baldanders.info/openpgp/gopenpgp/)
 - [Prismo はじめました，他](https://text.baldanders.info/remark/2022/11/prismo-fedibird/)
-- [2022-11-26 のブックマーク](https://text.baldanders.info/bookmarks/2022/11/26-bookmarks/)
 <!-- BLOG-POST-LIST:END -->
