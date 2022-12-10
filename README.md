@@ -74,9 +74,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [正義は公正とは相容れない](https://text.baldanders.info/remark/2022/12/justice-is-not-fairness/)
 - [5年後に Mastodon に出戻る（Advent Calendar）](https://text.baldanders.info/remark/2022/12/09-break-up-with-twitter/)
 - [松江に出戻り5度目の冬（Advent Calendar）](https://text.baldanders.info/remark/2022/12/09-san-in/)
 - [Go 1.19.4 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2022/12/go-1_19_4-is-released/)
 - [人間だと思った？ 残念！ ボットちゃんでした](https://text.baldanders.info/remark/2022/12/fake-by-ai/)
-- [Black Friday の戦利品](https://text.baldanders.info/remark/2022/12/autumn-color-in-matsue-castle/)
 <!-- BLOG-POST-LIST:END -->
