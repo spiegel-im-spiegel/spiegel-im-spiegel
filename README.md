@@ -74,9 +74,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [GnuPG 2.4.0 のリリース【セキュリティ・アップデートを含む】](https://text.baldanders.info/release/2022/12/gnupg-2_4_0-is-released/)
 - [2022-12-25 のブックマーク](https://text.baldanders.info/bookmarks/2022/12/25-bookmarks/)
 - [ハライタだと思った？ 残念！ 心筋梗塞でした](https://text.baldanders.info/remark/2022/12/heart-attack/)
 - [2022-12-11 のブックマーク](https://text.baldanders.info/bookmarks/2022/12/11-bookmarks/)
 - [Your Best Shot 2022 on Flickr](https://text.baldanders.info/remark/2022/12/your-best-shot-2022-on-flickr/)
-- [正義は公正とは相容れない](https://text.baldanders.info/remark/2022/12/justice-is-not-fairness/)
 <!-- BLOG-POST-LIST:END -->
