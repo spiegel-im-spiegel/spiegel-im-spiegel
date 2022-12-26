@@ -74,9 +74,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [ぼちぼち Mastodon への移住を進めようかと](https://text.baldanders.info/remark/2022/12/move-to-mastodon/)
 - [曖昧なブレス](https://zenn.dev/spiegel/articles/20221225-ambiguous-braces)
 - [GnuPG 2.4.0 のリリース【セキュリティ・アップデートを含む】](https://text.baldanders.info/release/2022/12/gnupg-2_4_0-is-released/)
 - [2022-12-25 のブックマーク](https://text.baldanders.info/bookmarks/2022/12/25-bookmarks/)
 - [ハライタだと思った？ 残念！ 心筋梗塞でした](https://text.baldanders.info/remark/2022/12/heart-attack/)
-- [2022-12-11 のブックマーク](https://text.baldanders.info/bookmarks/2022/12/11-bookmarks/)
 <!-- BLOG-POST-LIST:END -->
