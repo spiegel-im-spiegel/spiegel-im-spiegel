@@ -74,9 +74,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [米国 FBI は広告ブロッカーを推奨している？](https://text.baldanders.info/remark/2022/12/ad-blocker/)
 - [Fediverse 関連のブックマーク](https://text.baldanders.info/bookmarks/fediverse/)
 - [在宅勤務の準備](https://text.baldanders.info/remark/2022/12/working-from-home/)
 - [心拍数を監視する](https://text.baldanders.info/remark/2022/12/monitoring-heart-rate/)
 - [ぼちぼち Mastodon への移住を進めようかと](https://text.baldanders.info/remark/2022/12/move-to-mastodon/)
-- [曖昧なブレス](https://zenn.dev/spiegel/articles/20221225-ambiguous-braces)
 <!-- BLOG-POST-LIST:END -->
