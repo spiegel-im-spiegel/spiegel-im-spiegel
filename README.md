@@ -74,9 +74,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [“Text to Math Converter” に Unicode の業の深さを見る](https://text.baldanders.info/remark/2023/01/text-to-math-converter/)
 - [Pikmin Bloom と FitBit との連携](https://text.baldanders.info/remark/2022/12/the-return-of-pikmin-bloom/)
 - [2022-12-31 のブックマーク](https://text.baldanders.info/bookmarks/2022/12/31-bookmarks/)
 - [gpgpdump v0.15.0 をリリースした](https://text.baldanders.info/release/2022/12/gpgpdump-v0_15_0-is-released/)
 - [米国 FBI は広告ブロッカーを推奨している？](https://text.baldanders.info/remark/2022/12/ad-blocker/)
-- [Fediverse 関連のブックマーク](https://text.baldanders.info/bookmarks/fediverse/)
 <!-- BLOG-POST-LIST:END -->
