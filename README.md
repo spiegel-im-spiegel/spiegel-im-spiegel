@@ -74,9 +74,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [オレオレ Scoop Bucket を作ってみた](https://text.baldanders.info/release/2023/01/my-scoop-bucket/)
 - [2023-01-08 のブックマーク](https://text.baldanders.info/bookmarks/2023/01/08-bookmarks/)
 - [フィットネスバイク買うた](https://text.baldanders.info/remark/2023/01/stationary-bike/)
 - [嘔吐するインターネット](https://text.baldanders.info/remark/2023/01/internet-bulimia/)
 - [Twitter は堕ちた英雄か](https://text.baldanders.info/remark/2023/01/twitter-fall-down/)
-- [今年は卯年らしい](https://text.baldanders.info/remark/2023/01/zodiac/)
 <!-- BLOG-POST-LIST:END -->
