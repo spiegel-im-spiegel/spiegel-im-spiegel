@@ -74,9 +74,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [今年の恵方を取得する](https://text.baldanders.info/golang/favourable-direction/)
 - [Go 1.19.5 のリリース](https://text.baldanders.info/release/2023/01/go-1_19_5-is-released/)
 - [FRIXION ボールペンを新調した](https://text.baldanders.info/remark/2023/01/frixion-ball-pen-2/)
 - [オレオレ Scoop Bucket を作ってみた](https://text.baldanders.info/release/2023/01/my-scoop-bucket/)
 - [2023-01-08 のブックマーク](https://text.baldanders.info/bookmarks/2023/01/08-bookmarks/)
-- [フィットネスバイク買うた](https://text.baldanders.info/remark/2023/01/stationary-bike/)
 <!-- BLOG-POST-LIST:END -->
