@@ -74,9 +74,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [【Go 1.20 の予習】複数 error を返す Unwrap メソッドについて](https://text.baldanders.info/golang/wrapping-multiple-errors/)
 - [OpenJDK のセキュリティ・アップデート（2023-01）](https://text.baldanders.info/release/2023/01/openjdks-has-been-updated/)
 - [2023-01-22 のブックマーク](https://text.baldanders.info/bookmarks/2023/01/22-bookmarks/)
 - [引きこもる Twitter](https://text.baldanders.info/remark/2023/01/twitter-is-anti-social/)
 - [「本を読む」職業というものはない](https://text.baldanders.info/remark/2023/01/reading-books/)
-- [心筋シンチ キメてきたぜ！](https://text.baldanders.info/remark/2023/01/stress-myocardial-scintigraphy/)
 <!-- BLOG-POST-LIST:END -->
