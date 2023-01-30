@@ -18,7 +18,7 @@
 <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/></a>
 <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/></a>
 
-<p>Fediverse: <a rel="me" href="https://fedibird.com/@spiegel">@spiegel@fedibird.com</a></p>
+<p>Fediverse: <a rel="me nofollow" href="https://fedibird.com/@spiegel">@spiegel@fedibird.com</a></p>
 <p>日本語でおｋ</p>
 
 ### [OpenPGP Public Key](https://baldanders.info/pubkeys/)
