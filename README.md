@@ -18,10 +18,8 @@
 <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/></a>
 <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/></a>
 
-<p>
-<a href="https://twitter.com/spiegel_2007"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="spiegel_2007" height="20" width="20" /></a>
-日本語でおｋ
-</p>
+<p>Fediverse: <a rel="me" href="https://fedibird.com/@spiegel">@spiegel@fedibird.com</a></p>
+<p>日本語でおｋ</p>
 
 ### [OpenPGP Public Key](https://baldanders.info/pubkeys/)
 
