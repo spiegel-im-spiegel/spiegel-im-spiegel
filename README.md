@@ -72,9 +72,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2024年の暦](https://text.baldanders.info/remark/2023/02/ephemeris-in-2024/)
 - [go-cvss パッケージ v1.5.0 をリリースした](https://text.baldanders.info/release/2023/01/go-cvss-package-v1_5_0-is-released/)
 - [松江城 冬景色](https://text.baldanders.info/remark/2023/01/castle-in-winter/)
 - [go-cvss パッケージ v1.4.2 をリリースした](https://text.baldanders.info/release/2023/01/go-cvss-package-v1_4_2-is-released/)
 - [【Go 1.20 の予習】複数 error を返す Unwrap メソッドについて](https://text.baldanders.info/golang/wrapping-multiple-errors/)
-- [OpenJDK のセキュリティ・アップデート（2023-01）](https://text.baldanders.info/release/2023/01/openjdks-has-been-updated/)
 <!-- BLOG-POST-LIST:END -->
