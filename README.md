@@ -72,9 +72,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter のいないセカイ](https://text.baldanders.info/remark/2023/02/without-twitter/)
 - [Go 1.20 がリリースされた](https://text.baldanders.info/release/2023/02/go-1_20-is-released/)
 - [Mastodon と GitHub との連携](https://text.baldanders.info/remark/2023/02/mastodon-and-github/)
 - [2024年の暦](https://text.baldanders.info/remark/2023/02/ephemeris-in-2024/)
 - [go-cvss パッケージ v1.5.0 をリリースした](https://text.baldanders.info/release/2023/01/go-cvss-package-v1_5_0-is-released/)
-- [松江城 冬景色](https://text.baldanders.info/remark/2023/01/castle-in-winter/)
 <!-- BLOG-POST-LIST:END -->
