@@ -72,9 +72,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2023-02-06 のブックマーク](https://text.baldanders.info/bookmarks/2023/02/06-bookmarks/)
 - [Nostr に旗を立てろ！](https://text.baldanders.info/remark/2023/02/plant-your-flag-mark-your-nostr-territory/)
 - [NIST FIPS 186-5 および SP 800-186 正式版がリリースされた](https://text.baldanders.info/remark/2023/02/nist-fips-186-5/)
 - [Twitter のいないセカイ](https://text.baldanders.info/remark/2023/02/without-twitter/)
 - [Go 1.20 がリリースされた](https://text.baldanders.info/release/2023/02/go-1_20-is-released/)
-- [Mastodon と GitHub との連携](https://text.baldanders.info/remark/2023/02/mastodon-and-github/)
 <!-- BLOG-POST-LIST:END -->
