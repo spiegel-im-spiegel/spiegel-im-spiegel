@@ -72,9 +72,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [心臓リハビリ＠がんばらない](https://text.baldanders.info/remark/2023/02/stationary-bike-2/)
 - [goark/errs パッケージ v1.2.1 をリリースした](https://text.baldanders.info/release/2023/02/errs-package-v1_2_1-is-released/)
 - [2023-02-06 のブックマーク](https://text.baldanders.info/bookmarks/2023/02/06-bookmarks/)
 - [Nostr に旗を立てろ！](https://text.baldanders.info/remark/2023/02/plant-your-flag-mark-your-nostr-territory/)
 - [NIST FIPS 186-5 および SP 800-186 正式版がリリースされた](https://text.baldanders.info/remark/2023/02/nist-fips-186-5/)
-- [Twitter のいないセカイ](https://text.baldanders.info/remark/2023/02/without-twitter/)
 <!-- BLOG-POST-LIST:END -->
