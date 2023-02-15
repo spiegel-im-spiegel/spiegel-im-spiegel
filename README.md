@@ -72,9 +72,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Go 1.20.1 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2023/02/go-1_20_1-is-released/)
 - [CustomGPT.ai で遊んでみる](https://text.baldanders.info/remark/2023/02/customgpt/)
 - [『ピープルウエア』を借りて流し読む](https://text.baldanders.info/remark/2023/02/peopleware/)
 - [お散歩カメラ 2023-02-12](https://text.baldanders.info/remark/2023/02/osanpo-camera/)
 - [心臓リハビリ＠がんばらない](https://text.baldanders.info/remark/2023/02/stationary-bike-2/)
-- [goark/errs パッケージ v1.2.1 をリリースした](https://text.baldanders.info/release/2023/02/errs-package-v1_2_1-is-released/)
 <!-- BLOG-POST-LIST:END -->
