@@ -39,6 +39,7 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 | [gnkf: Network Kanji Filter by Golang](https://github.com/goark/gnkf) | [:white_check_mark:](https://github.com/goark/gnkf/releases) | [:white_check_mark:](https://text.baldanders.info/release/gnkf/) |
 | [gimei-cli: 姓名・住所データ生成ツール](https://github.com/goark/gimei-cli) | [:white_check_mark:](https://github.com/goark/gimei-cli/releases) |  |
 | [ml: Make Link with Markdown Format](https://github.com/goark/ml) | [:white_check_mark:](https://github.com/goark/ml/releases) | |
+| [goark/apod: CLI Tool for  Astronomy Picture of the Day with NASA API](https://github.com/goark/apod) | [:white_check_mark:](https://github.com/goark/apod/releases) | |
 | [pa-api: APIs for Amazon Product Advertising API v5 by Golang](https://github.com/goark/pa-api) | | [:white_check_mark:](https://text.baldanders.info/release/pa-api-v5/) |
 | [aozora-api: APIs for Aozora-bunko RESTful Service by Golang](https://github.com/goark/aozora) | | [:white_check_mark:](https://text.baldanders.info/release/aozora-api-package-for-golang/) |
 | [openbd-api: APIs for openBD by Golang](https://github.com/goark/openbd-api) | | [:white_check_mark:](https://text.baldanders.info/release/openbd-api-package-for-golang/) |
