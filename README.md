@@ -72,9 +72,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [ユリウス日が2,460,000日を超えた日](https://text.baldanders.info/remark/2023/02/julian-day-number-2460000/)
 - [NASA API を使って “Astronomy Picture of the Day” のデータを取得する](https://text.baldanders.info/remark/2023/02/api-for-astronomy-picture-of-the-day/)
 - [想像し，象徴し，創造する](https://text.baldanders.info/remark/2023/02/ai-hallucinations/)
 - [GoReleaser の設定のいくつかが DEPRECATED になっていた](https://zenn.dev/spiegel/articles/20230219-goreleaser-config)
 - [2023-02-18 のブックマーク](https://text.baldanders.info/bookmarks/2023/02/18-bookmarks/)
-- [加湿器に漂白剤を入れる話](https://text.baldanders.info/remark/2023/02/humidifier/)
 <!-- BLOG-POST-LIST:END -->
