@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastodon/Misskey は Twitter にはなれない](https://text.baldanders.info/remark/2023/02/mastodon-or-misskey-is-not-twitter/)
 - [お散歩カメラ 2023-02-26](https://text.baldanders.info/remark/2023/02/26-osanpo-camera/)
 - [2023-02-25 のブックマーク](https://text.baldanders.info/bookmarks/2023/02/25-bookmarks/)
 - [NASA API を使って “Astronomy Picture of the Day” のデータを取得するツールを作った](https://text.baldanders.info/release/2023/02/apod-cli-is-released/)
 - [ユリウス日が2,460,000日を超えた日](https://text.baldanders.info/remark/2023/02/julian-day-number-2460000/)
-- [NASA API を使って “Astronomy Picture of the Day” のデータを取得する](https://text.baldanders.info/remark/2023/02/api-for-astronomy-picture-of-the-day/)
 <!-- BLOG-POST-LIST:END -->
