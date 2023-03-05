@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Power Delivery 対応モバイルバッテリ買うた](https://text.baldanders.info/remark/2023/03/portable-charger/)
 - [2023-03-05 のブックマーク](https://text.baldanders.info/bookmarks/2023/03/05-bookmarks/)
 - [日本酒「村重」のクラウドファンディングのリターンが来た！](https://text.baldanders.info/remark/2023/02/murashige/)
 - [Mastodon/Misskey は Twitter にはなれない](https://text.baldanders.info/remark/2023/02/mastodon-or-misskey-is-not-twitter/)
 - [お散歩カメラ 2023-02-26](https://text.baldanders.info/remark/2023/02/26-osanpo-camera/)
-- [2023-02-25 のブックマーク](https://text.baldanders.info/bookmarks/2023/02/25-bookmarks/)
 <!-- BLOG-POST-LIST:END -->
