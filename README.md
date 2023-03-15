@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [π は間違ってる？](https://text.baldanders.info/remark/2023/03/pi-is-wrong/)
 - [お散歩カメラ 2023-03-12](https://text.baldanders.info/remark/2023/03/12-osanpo-camera/)
 - [2023-03-11 のブックマーク](https://text.baldanders.info/bookmarks/2023/03/11-bookmarks/)
 - [Go 1.20.2 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2023/03/go-1_20_2-is-released/)
 - [Power Delivery 対応モバイルバッテリ買うた](https://text.baldanders.info/remark/2023/03/portable-charger/)
-- [2023-03-05 のブックマーク](https://text.baldanders.info/bookmarks/2023/03/05-bookmarks/)
 <!-- BLOG-POST-LIST:END -->
