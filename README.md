@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [お花見 2023](https://text.baldanders.info/remark/2023/03/sakura-blossoms-2023/)
 - [Java 20 がリリースされた](https://text.baldanders.info/release/2023/03/java-20-is-released/)
 - [ChatGPT という壁打ち](https://text.baldanders.info/remark/2023/03/practice-on-the-wall/)
 - [お散歩カメラ 2023-03-19](https://text.baldanders.info/remark/2023/03/19-osanpo-camera/)
 - [2023-03-18 のブックマーク](https://text.baldanders.info/bookmarks/2023/03/18-bookmarks/)
-- [π は間違ってる？](https://text.baldanders.info/remark/2023/03/pi-is-wrong/)
 <!-- BLOG-POST-LIST:END -->
