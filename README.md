@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [久しぶり，サイクリング&amp;お散歩おカメラ](https://text.baldanders.info/remark/2023/04/09-osanpo-camera/)
 - [2023-04-08 のブックマーク](https://text.baldanders.info/bookmarks/2023/04/08-bookmarks/)
 - [“Copyleft Trolls” とたたかう 2023](https://text.baldanders.info/remark/2023/04/copyleft-trolls-2023/)
 - [復活の自転車](https://text.baldanders.info/remark/2023/04/a-revival-of-bike/)
 - [2023-04-02 のブックマーク](https://text.baldanders.info/bookmarks/2023/04/02-bookmarks/)
-- [OpenAI API を使って GPT と遊ぶ gpt-cli をリリースした。](https://text.baldanders.info/release/2023/03/released-gpt-cli/)
 <!-- BLOG-POST-LIST:END -->
