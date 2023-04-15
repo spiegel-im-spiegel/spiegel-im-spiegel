@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Bluesky に旗を立てろ！](https://text.baldanders.info/remark/2023/04/plant-your-flag-mark-your-bluesky-territory/)
 - [Go 1.20.3 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2023/04/go-1_20_3-is-released/)
 - [『はじめて学ぶ ビデオゲームの心理学』は読んどけ！](https://text.baldanders.info/remark/2023/04/the-psychology-of-video-games/)
 - [久しぶり，サイクリング&amp;お散歩おカメラ](https://text.baldanders.info/remark/2023/04/09-osanpo-camera/)
 - [2023-04-08 のブックマーク](https://text.baldanders.info/bookmarks/2023/04/08-bookmarks/)
-- [“Copyleft Trolls” とたたかう 2023](https://text.baldanders.info/remark/2023/04/copyleft-trolls-2023/)
 <!-- BLOG-POST-LIST:END -->
