@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu 23.04 へのアップグレード](https://text.baldanders.info/remark/2023/04/upgrade-ubuntu-23_04/)
 - [2023-04-23 のブックマーク](https://text.baldanders.info/bookmarks/2023/04/23-bookmarks/)
 - [お散歩カメラ 2023-04-22](https://text.baldanders.info/remark/2023/04/22-osanpo-camera/)
 - [OpenJDK のセキュリティ・アップデート（2023-04）](https://text.baldanders.info/release/2023/04/openjdks-has-been-updated/)
 - [自転車のリスク・マネジメント 2023](https://text.baldanders.info/remark/2023/04/risk-management-for-bike/)
-- [Bluesky に旗を立てろ！](https://text.baldanders.info/remark/2023/04/plant-your-flag-mark-your-bluesky-territory/)
 <!-- BLOG-POST-LIST:END -->
