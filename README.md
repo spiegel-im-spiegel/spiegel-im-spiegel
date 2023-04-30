@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [お散歩カメラ 2023-04-30](https://text.baldanders.info/remark/2023/04/30-osanpo-camera/)
 - [GnuPG 2.4.1 のリリース](https://text.baldanders.info/release/2023/04/gnupg-2_4_1-is-released/)
 - [Ubuntu 23.04 へのアップグレード](https://text.baldanders.info/remark/2023/04/upgrade-ubuntu-23_04/)
 - [2023-04-23 のブックマーク](https://text.baldanders.info/bookmarks/2023/04/23-bookmarks/)
 - [お散歩カメラ 2023-04-22](https://text.baldanders.info/remark/2023/04/22-osanpo-camera/)
-- [OpenJDK のセキュリティ・アップデート（2023-04）](https://text.baldanders.info/release/2023/04/openjdks-has-been-updated/)
 <!-- BLOG-POST-LIST:END -->
