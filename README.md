@@ -73,9 +73,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Go 1.20.4 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2023/05/go-1_20_4-is-released/)
 - [ステムバッグ買うた](https://text.baldanders.info/remark/2023/05/stem-bag-on-bike/)
 - [eBird と Merlin](https://text.baldanders.info/remark/2023/05/ebird-merlin/)
 - [お散歩カメラ 2023-04-30](https://text.baldanders.info/remark/2023/04/30-osanpo-camera/)
 - [GnuPG 2.4.1 のリリース](https://text.baldanders.info/release/2023/04/gnupg-2_4_1-is-released/)
-- [Ubuntu 23.04 へのアップグレード](https://text.baldanders.info/remark/2023/04/upgrade-ubuntu-23_04/)
 <!-- BLOG-POST-LIST:END -->
