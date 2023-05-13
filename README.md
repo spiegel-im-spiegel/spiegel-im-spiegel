@@ -40,6 +40,8 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 | [gimei-cli: 姓名・住所データ生成ツール](https://github.com/goark/gimei-cli) | [:white_check_mark:](https://github.com/goark/gimei-cli/releases) |  |
 | [ml: Make Link with Markdown Format](https://github.com/goark/ml) | [:white_check_mark:](https://github.com/goark/ml/releases) | |
 | [apod: CLI Tool for Astronomy Picture of the Day with NASA API](https://github.com/goark/apod) | [:white_check_mark:](https://github.com/goark/apod/releases) | |
+| [gpt-cli: CLI tool for GPT with OpenAI API](https://github.com/goark/gpt-cli) | [:white_check_mark:](https://github.com/goark/gpt-cli/releases) | |
+| [toolbox: A collection of miscellaneous commands](https://github.com/goark/toolbox) | [:white_check_mark:](https://github.com/goark/toolbox/releases) | |
 | [pa-api: APIs for Amazon Product Advertising API v5 by Golang](https://github.com/goark/pa-api) | | [:white_check_mark:](https://text.baldanders.info/release/pa-api-v5/) |
 | [aozora-api: APIs for Aozora-bunko RESTful Service by Golang](https://github.com/goark/aozora) | | [:white_check_mark:](https://text.baldanders.info/release/aozora-api-package-for-golang/) |
 | [openbd-api: APIs for openBD by Golang](https://github.com/goark/openbd-api) | | [:white_check_mark:](https://text.baldanders.info/release/openbd-api-package-for-golang/) |
