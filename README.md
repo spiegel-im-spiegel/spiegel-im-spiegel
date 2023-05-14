@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2023-05-14 のブックマーク](https://text.baldanders.info/bookmarks/2023/05/14-bookmarks/)
 - [田んぼの生態系](https://text.baldanders.info/remark/2023/05/ecosystem-of-rice-paddies/)
 - [2023-05-07 のブックマーク](https://text.baldanders.info/bookmarks/2023/05/07-bookmarks/)
 - [画像ファイルのサイズを縮小したい](https://zenn.dev/spiegel/articles/20230506-downsizing-images)
 - [Go 1.20.4 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2023/05/go-1_20_4-is-released/)
-- [ステムバッグ買うた](https://text.baldanders.info/remark/2023/05/stem-bag-on-bike/)
 <!-- BLOG-POST-LIST:END -->
