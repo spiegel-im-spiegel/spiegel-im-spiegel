@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Go 1.20.5 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2023/06/go-1_20_5-is-released/)
 - [お散歩カメラ 2023-06-03](https://text.baldanders.info/remark/2023/06/03-osanpo-camera/)
 - [2023-05-28 のブックマーク](https://text.baldanders.info/bookmarks/2023/05/28-bookmarks/)
 - [お散歩カメラ 2023-05-27](https://text.baldanders.info/remark/2023/05/26-osanpo-camera/)
 - [2023-05-21 のブックマーク](https://text.baldanders.info/bookmarks/2023/05/21-bookmarks/)
-- [Zap と go-log を試す](https://text.baldanders.info/golang/zap-and-golog/)
 <!-- BLOG-POST-LIST:END -->
