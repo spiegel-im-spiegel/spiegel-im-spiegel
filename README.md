@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastodon と Bluesky でボット運用はじめました](https://text.baldanders.info/remark/2023/07/crawler/)
 - [goark/errs パッケージ v1.3.2 をリリースした](https://text.baldanders.info/release/2023/06/errs-package-v1_3_2-is-released/)
 - [拙作 gorak/errs パッケージの性能評価をしてもらった](https://text.baldanders.info/remark/2023/06/benchmark-for-errs-package/)
 - [Generative AI は Copyright-Safe か？](https://text.baldanders.info/remark/2023/06/is-generative-ai-copyright-safe/)
 - [GnuPG 2.4.2 のリリースと Mastodon 公式アカウントができた話](https://text.baldanders.info/release/2023/06/gnupg-2_4_2-is-released/)
-- [Go 1.20.5 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2023/06/go-1_20_5-is-released/)
 <!-- BLOG-POST-LIST:END -->
