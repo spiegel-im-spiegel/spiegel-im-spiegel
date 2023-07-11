@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Go 1.20.6 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2023/07/go-1_20_6-is-released/)
 - [「AI の配当」](https://text.baldanders.info/remark/2023/07/the-ai-dividend/)
 - [GnuPG 2.4.3 のリリース](https://text.baldanders.info/release/2023/07/gnupg-2_4_3-is-released/)
 - [Mastodon と Bluesky でボット運用はじめました](https://text.baldanders.info/remark/2023/07/crawler/)
 - [goark/errs パッケージ v1.3.2 をリリースした](https://text.baldanders.info/release/2023/06/errs-package-v1_3_2-is-released/)
-- [拙作 gorak/errs パッケージの性能評価をしてもらった](https://text.baldanders.info/remark/2023/06/benchmark-for-errs-package/)
 <!-- BLOG-POST-LIST:END -->
