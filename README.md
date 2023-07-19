@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenJDK のセキュリティ・アップデート（2023-07）](https://text.baldanders.info/release/2023/07/openjdks-has-been-updated/)
 - [お散歩カメラ 2023-07-16](https://text.baldanders.info/remark/2023/07/16-osanpo-camera/)
 - [怒涛の3日間 —または「目一杯の祝福を君に」—](https://text.baldanders.info/remark/2023/07/requiem/)
 - [Go 1.20.6 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2023/07/go-1_20_6-is-released/)
 - [「AI の配当」](https://text.baldanders.info/remark/2023/07/the-ai-dividend/)
-- [GnuPG 2.4.3 のリリース](https://text.baldanders.info/release/2023/07/gnupg-2_4_3-is-released/)
 <!-- BLOG-POST-LIST:END -->
