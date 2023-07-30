@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [2023-07-30 のブックマーク](https://text.baldanders.info/bookmarks/2023/07/30-bookmarks/)
 - [サイクルコンピュータ買うた（お散歩カメラ 2023-07-29）](https://text.baldanders.info/remark/2023/07/cyclocomputer/)
 - [AMD Zen 2 CPU の脆弱性について](https://text.baldanders.info/remark/2023/07/zenbleed/)
 - [VTuber に満たない Bluesky](https://text.baldanders.info/remark/2023/07/audience/)
 - [OpenJDK のセキュリティ・アップデート（2023-07）](https://text.baldanders.info/release/2023/07/openjdks-has-been-updated/)
-- [お散歩カメラ 2023-07-16](https://text.baldanders.info/remark/2023/07/16-osanpo-camera/)
 <!-- BLOG-POST-LIST:END -->
