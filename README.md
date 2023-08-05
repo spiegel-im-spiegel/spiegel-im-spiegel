@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [お散歩カメラ 2023-08-05](https://text.baldanders.info/remark/2023/08/05-osanpo-camera/)
 - [Garmin vívosmart 5 を買っちまった（心臓リハビリ＠がんばらない 2）](https://text.baldanders.info/remark/2023/08/monitoring-heart-rate-2/)
 - [Go 1.20.7 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2023/08/go-1_20_7-is-released/)
 - [2023-07-30 のブックマーク](https://text.baldanders.info/bookmarks/2023/07/30-bookmarks/)
 - [サイクルコンピュータ買うた（お散歩カメラ 2023-07-29）](https://text.baldanders.info/remark/2023/07/cyclocomputer/)
-- [AMD Zen 2 CPU の脆弱性について](https://text.baldanders.info/remark/2023/07/zenbleed/)
 <!-- BLOG-POST-LIST:END -->
