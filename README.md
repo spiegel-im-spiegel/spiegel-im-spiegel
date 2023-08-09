@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Go 1.21.0 がリリースされた](https://text.baldanders.info/release/2023/08/go-1_21_0-is-released/)
 - [政治パフォーマンスとしてのクラウドファンディング](https://text.baldanders.info/remark/2023/08/crowdfunding/)
 - [心臓カテーテル治療（心臓リハビリ＠がんばらない 3）](https://text.baldanders.info/remark/2023/08/cardiac-catheterization/)
 - [お散歩カメラ 2023-08-05](https://text.baldanders.info/remark/2023/08/05-osanpo-camera/)
 - [Garmin vívosmart 5 を買っちまった（心臓リハビリ＠がんばらない 2）](https://text.baldanders.info/remark/2023/08/monitoring-heart-rate-2/)
-- [Go 1.20.7 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2023/08/go-1_20_7-is-released/)
 <!-- BLOG-POST-LIST:END -->
