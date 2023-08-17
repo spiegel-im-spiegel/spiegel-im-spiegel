@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [KeePassXC に TOTP を設定する](https://text.baldanders.info/remark/2023/08/totp-with-keepassxc/)
 - [2023-08-13 のブックマーク](https://text.baldanders.info/bookmarks/2023/08/13-bookmarks/)
 - [Ubuntu に Steam を入れてみた](https://text.baldanders.info/remark/2023/08/steam/)
 - [Go 1.21.0 がリリースされた](https://text.baldanders.info/release/2023/08/go-1_21_0-is-released/)
 - [政治パフォーマンスとしてのクラウドファンディング](https://text.baldanders.info/remark/2023/08/crowdfunding/)
-- [心臓カテーテル治療（心臓リハビリ＠がんばらない 3）](https://text.baldanders.info/remark/2023/08/cardiac-catheterization/)
 <!-- BLOG-POST-LIST:END -->
