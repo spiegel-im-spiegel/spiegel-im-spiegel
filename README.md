@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [「松江のモダニズム建築群スタンプラリー」に参加する](https://text.baldanders.info/remark/2023/09/matsue-architecture-stamp-rally/)
 - [𝕏 &lpar;旧 Twitter&rpar; の活動を休止します（期間未定）](https://text.baldanders.info/remark/2023/09/suspend-activity-on-twitter/)
 - [Galaxy S22 のカメラを試してみた](https://text.baldanders.info/remark/2023/08/camera-on-smartphone/)
 - [暑い日曜日 〜機種変とオーバーホール〜](https://text.baldanders.info/remark/2023/08/overhaul/)
 - [KeePassXC に TOTP を設定する](https://text.baldanders.info/remark/2023/08/totp-with-keepassxc/)
-- [2023-08-13 のブックマーク](https://text.baldanders.info/bookmarks/2023/08/13-bookmarks/)
 <!-- BLOG-POST-LIST:END -->
