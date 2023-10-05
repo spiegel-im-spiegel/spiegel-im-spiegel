@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [バックパックを買い替えた](https://text.baldanders.info/remark/2023/10/my-new-gear/)
 - [松江水燈路 2023](https://text.baldanders.info/remark/2023/10/suitouro/)
 - [八雲立つ風土記の丘 遺跡めぐり（1）](https://text.baldanders.info/remark/2023/09/ruins-in-ou-plain-1/)
 - [そうだ，松江フォーゲルパーク（の近く）へ行こう](https://text.baldanders.info/remark/2023/09/matsue-vogel-park/)
 - [Go 1.21.1 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2023/09/go-1_21_1-is-released/)
-- [はじめてのロードサービス](https://text.baldanders.info/remark/2023/09/fix-a-flat/)
 <!-- BLOG-POST-LIST:END -->
