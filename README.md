@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [かんべの里で蕎麦を食うつもりが...](https://text.baldanders.info/remark/2023/10/jazz-live-show-in-izumo-kanbe-no-sato/)
 - [意宇六社を巡るサイクリング（八雲立つ風土記の丘 遺跡めぐり2）](https://text.baldanders.info/remark/2023/10/ruins-in-ou-plain-2/)
 - [バックパックを買い替えた](https://text.baldanders.info/remark/2023/10/my-new-gear/)
 - [松江水燈路 2023](https://text.baldanders.info/remark/2023/10/suitouro/)
 - [八雲立つ風土記の丘 遺跡めぐり（1）](https://text.baldanders.info/remark/2023/09/ruins-in-ou-plain-1/)
-- [そうだ，松江フォーゲルパーク（の近く）へ行こう](https://text.baldanders.info/remark/2023/09/matsue-vogel-park/)
 <!-- BLOG-POST-LIST:END -->
