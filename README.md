@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [熊野大社へ詣でる（八雲立つ風土記の丘 遺跡めぐり 4）](https://text.baldanders.info/remark/2023/10/ruins-in-ou-plain-4/)
 - [健康診断キメてきたぜ（心臓リハビリ＠がんばらない 4）](https://text.baldanders.info/remark/2023/10/annual-checkup/)
 - [お散歩カメラ 2023-10-22](https://text.baldanders.info/remark/2023/10/22-osanpo-camera/)
 - [Syntax Highlighting は子供っぽい？](https://text.baldanders.info/remark/2023/10/syntax-highlighting-is-juvenile/)
 - [八重垣神社チャレンジ再び（八雲立つ風土記の丘 遺跡めぐり 3）](https://text.baldanders.info/remark/2023/10/ruins-in-ou-plain-3/)
-- [かんべの里で蕎麦を食うつもりが...](https://text.baldanders.info/remark/2023/10/jazz-live-show-in-izumo-kanbe-no-sato/)
 <!-- BLOG-POST-LIST:END -->
