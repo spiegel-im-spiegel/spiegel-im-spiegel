@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [ロングトップチューブバッグを買うた](https://text.baldanders.info/remark/2023/11/top-tube-bag/)
 - [お散歩カメラ 2023-11-05](https://text.baldanders.info/remark/2023/11/05-osanpo-camera/)
 - [Ubuntu 23.10 へのアップグレード](https://text.baldanders.info/remark/2023/10/upgrade-ubuntu-23_10/)
 - [熊野大社へ詣でる（八雲立つ風土記の丘 遺跡めぐり 4）](https://text.baldanders.info/remark/2023/10/ruins-in-ou-plain-4/)
 - [健康診断キメてきたぜ（心臓リハビリ＠がんばらない 4）](https://text.baldanders.info/remark/2023/10/annual-checkup/)
-- [お散歩カメラ 2023-10-22](https://text.baldanders.info/remark/2023/10/22-osanpo-camera/)
 <!-- BLOG-POST-LIST:END -->
