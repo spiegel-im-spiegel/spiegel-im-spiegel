@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [「消尽」原則を迂回するハック](https://text.baldanders.info/remark/2023/11/circumvent-exhaustion/)
 - [お散歩カメラ 2023-11-23](https://text.baldanders.info/remark/2023/11/23-osanpo-camera/)
 - [広告の曲がり角](https://text.baldanders.info/remark/2023/11/blocking-ad-blocker/)
 - [お散歩カメラ 2023-11-19](https://text.baldanders.info/remark/2023/11/19-osanpo-camera/)
 - [冬用インナー（Base Layer）買うた](https://text.baldanders.info/remark/2023/11/base-layer-for-winter/)
-- [ロングトップチューブバッグを買うた](https://text.baldanders.info/remark/2023/11/top-tube-bag/)
 <!-- BLOG-POST-LIST:END -->
