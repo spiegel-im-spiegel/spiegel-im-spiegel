@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [個人用 Mastodon サーバを立てた](https://text.baldanders.info/remark/2023/12/personal-mastodon-server/)
 - [2024年の主な暦象](https://text.baldanders.info/remark/2023/12/ephemeris-2024/)
 - [「消尽」原則を迂回するハック](https://text.baldanders.info/remark/2023/11/circumvent-exhaustion/)
 - [お散歩カメラ 2023-11-23](https://text.baldanders.info/remark/2023/11/23-osanpo-camera/)
 - [広告の曲がり角](https://text.baldanders.info/remark/2023/11/blocking-ad-blocker/)
-- [お散歩カメラ 2023-11-19](https://text.baldanders.info/remark/2023/11/19-osanpo-camera/)
 <!-- BLOG-POST-LIST:END -->
