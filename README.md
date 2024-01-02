@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [「令和6年能登半島地震」](https://text.baldanders.info/remark/2024/01/01-earthquake-and-tsunami/)
+- [お散歩カメラ 2024-01-02](https://text.baldanders.info/remark/2024/01/02-osanpo-camera/)
 - [【2023年】ふりかえり【おわりやね】](https://text.baldanders.info/remark/2023/12/retrospective-2023/)
 - [はじめての一泊忘年会](https://text.baldanders.info/remark/2023/12/bonenkai/)
 - [The Social Butterfly](https://text.baldanders.info/remark/2023/12/social-butterfly/)
-- [インターネットという単一知性](https://text.baldanders.info/remark/2023/12/internet-as-a-monolithic-intelligence/)
-- [お散歩カメラ 2023-12-10](https://text.baldanders.info/remark/2023/12/10-osanpo-camera/)
 <!-- BLOG-POST-LIST:END -->
