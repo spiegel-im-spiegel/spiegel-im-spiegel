@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [雪の日](https://text.baldanders.info/remark/2024/01/snowy-day/)
 - [やはり冬は温泉（お散歩カメラ 2024-01-14）](https://text.baldanders.info/remark/2024/01/14-osanpo-camera/)
 - [今年も心臓リハビリ＠がんばらない](https://text.baldanders.info/remark/2024/01/cardiac-rehabilitation-2024/)
 - [お散歩カメラ 2024-01-06](https://text.baldanders.info/remark/2024/01/06-osanpo-camera/)
 - [「令和6年能登半島地震」](https://text.baldanders.info/remark/2024/01/01-earthquake-and-tsunami/)
-- [お散歩カメラ 2024-01-02](https://text.baldanders.info/remark/2024/01/02-osanpo-camera/)
 <!-- BLOG-POST-LIST:END -->
