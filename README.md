@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [街歩きもできるサイクリングシューズ買うた](https://text.baldanders.info/remark/2024/02/cycling-and-trecking-shoes/)
 - [お散歩カメラ 2024-02-03](https://text.baldanders.info/remark/2024/02/03-osanpo-camera/)
 - [2025年の暦](https://text.baldanders.info/remark/2024/02/ephemeris-in-2025/)
 - [Hugo 0.122 で TeX/LaTeX 数式表現ができるようになった（いまさら？）](https://text.baldanders.info/remark/2024/01/tex-math-expression-in-hugo-0_122/)
 - [雪の日](https://text.baldanders.info/remark/2024/01/snowy-day/)
-- [やはり冬は温泉（お散歩カメラ 2024-01-14）](https://text.baldanders.info/remark/2024/01/14-osanpo-camera/)
 <!-- BLOG-POST-LIST:END -->
