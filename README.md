@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [『「はやぶさ2」は何を持ち帰ったのか』を読む](https://text.baldanders.info/remark/2024/02/the-return-of-hayabusa2/)
 - [新版画展を観に行く（お散歩カメラ 2024-02-18）](https://text.baldanders.info/remark/2024/02/18-osanpo-camera/)
 - [お散歩カメラ 2024-02-12](https://text.baldanders.info/remark/2024/02/12-osanpo-camera/)
 - [街歩きもできるサイクリングシューズ買うた](https://text.baldanders.info/remark/2024/02/cycling-and-trecking-shoes/)
 - [お散歩カメラ 2024-02-03](https://text.baldanders.info/remark/2024/02/03-osanpo-camera/)
-- [2025年の暦](https://text.baldanders.info/remark/2024/02/ephemeris-in-2025/)
 <!-- BLOG-POST-LIST:END -->
