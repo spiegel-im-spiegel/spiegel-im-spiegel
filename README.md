@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Go 1.22.0 にアップデートする](https://text.baldanders.info/release/2024/03/go-1_22_0-is-released/)
 - [頑張ったご褒美に BOSE の卓上スピーカー買うたった](https://text.baldanders.info/remark/2024/03/tabletop-speaker/)
 - [個人用 Mastodon サーバに活動拠点を移す](https://text.baldanders.info/remark/2024/03/moving-to-personal-mastodon-server/)
 - [お散歩カメラ 2024-02-24](https://text.baldanders.info/remark/2024/02/24-osanpo-camera/)
 - [『「はやぶさ2」は何を持ち帰ったのか』を読む](https://text.baldanders.info/remark/2024/02/the-return-of-hayabusa2/)
-- [新版画展を観に行く（お散歩カメラ 2024-02-18）](https://text.baldanders.info/remark/2024/02/18-osanpo-camera/)
 <!-- BLOG-POST-LIST:END -->
