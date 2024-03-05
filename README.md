@@ -75,7 +75,7 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [スマホで高解像度音源ファイルを鳴らしてみる](https://text.baldanders.info/remark/2024/03/high-resolution-audio/)
+- [スマホで高解像度音楽ファイルを鳴らしてみる](https://text.baldanders.info/remark/2024/03/high-resolution-audio/)
 - [もうすぐ春ですね（お散歩カメラ 2024-03-04）](https://text.baldanders.info/remark/2024/03/04-osanpo-camera/)
 - [スマホと音楽](https://text.baldanders.info/remark/2024/03/ktai-and-music/)
 - [Go 1.22.0 にアップデートする](https://text.baldanders.info/release/2024/03/go-1_22_0-is-released/)
