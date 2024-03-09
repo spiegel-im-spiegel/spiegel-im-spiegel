@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [github.com/goark/mt/v2 をリリースした](https://text.baldanders.info/release/2024/03/goark-mt-v2/)
 - [Go 1.22 の math/rand/v2 を使ってみる](https://zenn.dev/spiegel/articles/20240309-golang-math-rand-v2)
 - [Go 1.22 における疑似乱数生成器](https://text.baldanders.info/golang/pseudo-random-number-generator-v2/)
 - [スマホで高解像度音楽ファイルを鳴らしてみる](https://text.baldanders.info/remark/2024/03/high-resolution-audio/)
 - [もうすぐ春ですね（お散歩カメラ 2024-03-04）](https://text.baldanders.info/remark/2024/03/04-osanpo-camera/)
-- [スマホと音楽](https://text.baldanders.info/remark/2024/03/ktai-and-music/)
 <!-- BLOG-POST-LIST:END -->
