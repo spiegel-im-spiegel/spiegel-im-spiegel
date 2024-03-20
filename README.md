@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 22 がリリースされた（21 LTS 版についても遅まきながら）](https://text.baldanders.info/release/2024/03/java-21-22-are-released/)
 - [不自由な ICOCA](https://text.baldanders.info/remark/2024/03/icoca-for-persons-with-disabilities/)
 - [お散歩カメラ 2024-04-16](https://text.baldanders.info/remark/2024/03/16-osanpo-camera/)
 - [渡し守 hyuki さんによる『群論への第一歩』](https://text.baldanders.info/remark/2024/03/first-step-into-group-theory/)
 - [github.com/goark/mt/v2 をリリースした](https://text.baldanders.info/release/2024/03/goark-mt-v2/)
-- [Go 1.22 の math/rand/v2 を使ってみる](https://zenn.dev/spiegel/articles/20240309-golang-math-rand-v2)
 <!-- BLOG-POST-LIST:END -->
