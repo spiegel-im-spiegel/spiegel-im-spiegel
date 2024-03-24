@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenPGP 公開鍵の期限を延長した](https://text.baldanders.info/remark/2024/03/update-expiration-2024/)
 - [Spiegelさん＠がんばらない](https://text.baldanders.info/remark/2024/03/tekipaki-working/)
 - [GnuPG 2.4.4 / 2.4.5 のリリース【セキュリティ・アップデートを含む】](https://text.baldanders.info/release/2024/03/gnupg-2_4_5-is-released/)
 - [Java 22 がリリースされた（21 LTS 版についても遅まきながら）](https://text.baldanders.info/release/2024/03/java-21-22-are-released/)
 - [不自由な ICOCA](https://text.baldanders.info/remark/2024/03/icoca-for-persons-with-disabilities/)
-- [お散歩カメラ 2024-04-16](https://text.baldanders.info/remark/2024/03/16-osanpo-camera/)
 <!-- BLOG-POST-LIST:END -->
