@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [桜巡り（お散歩カメラ 2024-03-31）](https://text.baldanders.info/remark/2024/03/31-osanpo-camera/)
 - [オンラインメモ帳 Thredot がよさげ](https://text.baldanders.info/remark/2024/03/thredot/)
 - [Chromebook を導入する](https://text.baldanders.info/remark/2024/03/chromebook-1/)
 - [OpenPGP 公開鍵の期限を延長した](https://text.baldanders.info/remark/2024/03/update-expiration-2024/)
 - [Spiegelさん＠がんばらない](https://text.baldanders.info/remark/2024/03/tekipaki-working/)
-- [GnuPG 2.4.4 / 2.4.5 のリリース【セキュリティ・アップデートを含む】](https://text.baldanders.info/release/2024/03/gnupg-2_4_5-is-released/)
 <!-- BLOG-POST-LIST:END -->
