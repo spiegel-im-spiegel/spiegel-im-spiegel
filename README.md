@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [温泉と桜（お散歩カメラ 2024-04-07）](https://text.baldanders.info/remark/2024/04/07-osanpo-camera/)
 - [Chromebook を導入する（3）](https://text.baldanders.info/remark/2024/04/chromebook-3/)
 - [Go 1.22.2 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2024/04/go-1_22_2-is-released/)
 - [月の標準時を決めよう](https://text.baldanders.info/remark/2024/04/coordinated-lunar-time/)
 - [Chromebook を導入する（2）](https://text.baldanders.info/remark/2024/04/chromebook-2/)
-- [XZ Utils に仕組まれたバックドアに関する覚え書き](https://text.baldanders.info/remark/2024/04/xz-utils-backdoor/)
 <!-- BLOG-POST-LIST:END -->
