@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Chromebook を導入する 4 — Flatpak で Firefox を導入する](https://text.baldanders.info/remark/2024/04/chromebook-4/)
 - [光回線を導入する](https://text.baldanders.info/remark/2024/04/fiber-optic-network/)
 - [温泉と桜（お散歩カメラ 2024-04-07）](https://text.baldanders.info/remark/2024/04/07-osanpo-camera/)
-- [Chromebook を導入する（3）](https://text.baldanders.info/remark/2024/04/chromebook-3/)
+- [Chromebook を導入する 3 — GnuPG &amp; OpenSSH](https://text.baldanders.info/remark/2024/04/chromebook-3/)
 - [Go 1.22.2 のリリース【セキュリティ・アップデート】](https://text.baldanders.info/release/2024/04/go-1_22_2-is-released/)
-- [月の標準時を決めよう](https://text.baldanders.info/remark/2024/04/coordinated-lunar-time/)
 <!-- BLOG-POST-LIST:END -->
