@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [お散歩カメラ おかわり](https://text.baldanders.info/remark/2024/04/14-osanpo-camera/)
 - [お散歩カメラ 2024-04-13](https://text.baldanders.info/remark/2024/04/13-osanpo-camera/)
 - [Chromebook を導入する 4 — Flatpak で Firefox を導入する](https://text.baldanders.info/remark/2024/04/chromebook-4/)
 - [光回線を導入する](https://text.baldanders.info/remark/2024/04/fiber-optic-network/)
 - [温泉と桜（お散歩カメラ 2024-04-07）](https://text.baldanders.info/remark/2024/04/07-osanpo-camera/)
-- [Chromebook を導入する 3 — GnuPG &amp; OpenSSH](https://text.baldanders.info/remark/2024/04/chromebook-3/)
 <!-- BLOG-POST-LIST:END -->
