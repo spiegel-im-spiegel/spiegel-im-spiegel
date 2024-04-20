@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [オープンソース・プロジェクトの乗っ取りを試みる](https://text.baldanders.info/remark/2024/04/take-over-opensource-project/)
 - [PuTTY 0.81 がリリースされた【セキュリティ・アップデート】](https://text.baldanders.info/release/2024/04/putty-0.81-is-released/)
 - [自家中毒を起こす AI](https://text.baldanders.info/remark/2024/04/model-collapse/)
 - [プラットフォームかプロトコルか](https://text.baldanders.info/remark/2024/04/platform-or-protocol/)
 - [お散歩カメラ おかわり](https://text.baldanders.info/remark/2024/04/14-osanpo-camera/)
-- [お散歩カメラ 2024-04-13](https://text.baldanders.info/remark/2024/04/13-osanpo-camera/)
 <!-- BLOG-POST-LIST:END -->
