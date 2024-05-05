@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [お散歩カメラ 2024-05-05 （八雲立つ風土記の丘 遺跡めぐり 5）](https://text.baldanders.info/remark/2024/05/05-osanpo-camera/)
 - [Android タブレットは8インチでちょうどいい](https://text.baldanders.info/remark/2024/04/new-android-tablet/)
 - [お散歩カメラ 2024-04-28](https://text.baldanders.info/remark/2024/04/28-osanpo-camera/)
 - [Chromebook を導入する 5 — APT で Firefox を導入する](https://text.baldanders.info/remark/2024/04/chromebook-5/)
 - [性能とはなにか](https://text.baldanders.info/remark/2024/04/efficient-go-1/)
-- [オープンソース・プロジェクトの乗っ取りを試みる](https://text.baldanders.info/remark/2024/04/take-over-opensource-project/)
 <!-- BLOG-POST-LIST:END -->
