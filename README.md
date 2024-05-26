@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [私の Mastodon 遍歴](https://text.baldanders.info/remark/2024/05/a-string-of-mastodons/)
 - [お散歩カメラ 2024-05-25](https://text.baldanders.info/remark/2024/05/25-osanpo-camera/)
 - [『効率的な Go』読書会 2回目](https://text.baldanders.info/remark/2024/05/efficient-go-2/)
 - [勤務先からの払い下げ PC](https://text.baldanders.info/remark/2024/05/get-a-used-pc-from-workplace/)
 - [Chromebook を導入する 7 — VS Code の導入](https://text.baldanders.info/remark/2024/05/chromebook-7/)
-- [X5.8 太陽フレアとオーロラ](https://text.baldanders.info/remark/2024/05/x5_8-class-solar-flare-and-auroras/)
 <!-- BLOG-POST-LIST:END -->
