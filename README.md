@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu 24.04 LTS へのアップグレード](https://text.baldanders.info/remark/2024/06/upgrade-ubuntu-24_04-lts/)
 - [Kagi Search を試してみる 〜 検索サービスも有料の時代？](https://text.baldanders.info/remark/2024/06/kagi-search/)
 - [プライバシーの乱獲](https://text.baldanders.info/remark/2024/06/shifting-baseline-syndrome-of-privacy/)
 - [意宇六社を巡るサイクリング再び（八雲立つ風土記の丘 遺跡めぐり 6）](https://text.baldanders.info/remark/2024/06/6-shrines-in-ou-plain/)
 - [私の Mastodon 遍歴](https://text.baldanders.info/remark/2024/05/a-string-of-mastodons/)
-- [お散歩カメラ 2024-05-25](https://text.baldanders.info/remark/2024/05/25-osanpo-camera/)
 <!-- BLOG-POST-LIST:END -->
