@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [ClamTk を導入する](https://text.baldanders.info/remark/2024/06/install-clamtk/)
 - [お散歩カメラ 2024-06-29](https://text.baldanders.info/remark/2024/06/29-osanpo-camera/)
 - [25周年 〜四半世紀もだらだら続けちゃったョ 記念〜](https://text.baldanders.info/remark/2024/06/25th-years-anniversary/)
 - [仕事中の BGM](https://text.baldanders.info/remark/2024/06/bgm-on-duty/)
 - [まだ梅雨入り前](https://text.baldanders.info/remark/2024/06/summer-rainy-season/)
-- [Ubuntu 24.04 LTS へのアップグレード（追記あり）](https://text.baldanders.info/remark/2024/06/upgrade-ubuntu-24_04-lts/)
 <!-- BLOG-POST-LIST:END -->
