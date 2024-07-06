@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [スマホ用関数電卓を物色する — 『関数電卓がすごい』を読んだ](https://text.baldanders.info/remark/2024/07/scientific-calculator-for-smartphone/)
 - [サイクルコンピュータを買い換えた](https://text.baldanders.info/remark/2024/06/cyclocomputer-by-garmin/)
 - [ClamTk を導入する](https://text.baldanders.info/remark/2024/06/install-clamtk/)
 - [お散歩カメラ 2024-06-29](https://text.baldanders.info/remark/2024/06/29-osanpo-camera/)
 - [25周年 〜四半世紀もだらだら続けちゃったョ 記念〜](https://text.baldanders.info/remark/2024/06/25th-years-anniversary/)
-- [仕事中の BGM](https://text.baldanders.info/remark/2024/06/bgm-on-duty/)
 <!-- BLOG-POST-LIST:END -->
