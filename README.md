@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [公開テスト用の Gnupg v2.5 が登場](https://text.baldanders.info/remark/2024/07/gnupg-v2_5-for-public-testing/)
 - [お散歩カメラ 2024-07-13](https://text.baldanders.info/remark/2024/07/13-osanpo-camera/)
 - [お散歩カメラ 2024-07-06](https://text.baldanders.info/remark/2024/07/06-osanpo-camera/)
 - [スマホ用関数電卓を物色する — 『関数電卓がすごい』を読んだ](https://text.baldanders.info/remark/2024/07/scientific-calculator-for-smartphone/)
 - [サイクルコンピュータを買い換えた](https://text.baldanders.info/remark/2024/06/cyclocomputer-by-garmin/)
-- [ClamTk を導入する](https://text.baldanders.info/remark/2024/06/install-clamtk/)
 <!-- BLOG-POST-LIST:END -->
