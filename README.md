@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [鳥さんと遊ぼう（お散歩カメラ 2024-07-27）](https://text.baldanders.info/remark/2024/07/matsue-vogel-park-2/)
 - [お散歩カメラ 2024-07-20](https://text.baldanders.info/remark/2024/07/20-osanpo-camera/)
 - [血圧計と体重計の計測値を自動入力したい](https://text.baldanders.info/remark/2024/07/blood-pressure-monitor-and-body-scale/)
 - [テキストエディタ Zed を試してみる](https://text.baldanders.info/remark/2024/07/text-editor-zed/)
 - [公開テスト用の GnuPG v2.5 が登場](https://text.baldanders.info/remark/2024/07/gnupg-v2_5-for-public-testing/)
-- [お散歩カメラ 2024-07-13](https://text.baldanders.info/remark/2024/07/13-osanpo-camera/)
 <!-- BLOG-POST-LIST:END -->
