@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [World Photography Day に参加してみた](https://text.baldanders.info/remark/2024/08/world-photography-day/)
 - [松江市内遊覧 — Long Steady Distance](https://text.baldanders.info/remark/2024/08/sightseeing-matsue-in-summer-vacation/)
 - [Go 1.23 のリリース](https://text.baldanders.info/release/2024/08/go-1_23_0-is-released/)
 - [Garmin Edge Explore 2 でルート探索](https://text.baldanders.info/remark/2024/08/garmin-edge-explore-2/)
 - [七辻ゆゆさんの作品群が自己出版される](https://text.baldanders.info/remark/2024/08/nanatsuji-yuyu/)
-- [お散歩カメラ 2024-08-10](https://text.baldanders.info/remark/2024/08/10-osanpo-camera/)
 <!-- BLOG-POST-LIST:END -->
