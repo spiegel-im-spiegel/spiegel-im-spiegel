@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [骨伝導ヘッドセットを買い換えた](https://text.baldanders.info/remark/2024/09/new-bone-conduction-headset/)
 - [お散歩カメラ 2024-08-31](https://text.baldanders.info/remark/2024/08/31-osanpo-camera/)
 - [『効率的な Go』読書会 4回目](https://text.baldanders.info/remark/2024/08/efficient-go-4/)
 - [World Photography Day に参加してみた](https://text.baldanders.info/remark/2024/08/world-photography-day/)
 - [松江市内遊覧 — Long Steady Distance](https://text.baldanders.info/remark/2024/08/sightseeing-matsue-in-summer-vacation/)
-- [Go 1.23 のリリース](https://text.baldanders.info/release/2024/08/go-1_23_0-is-released/)
 <!-- BLOG-POST-LIST:END -->
