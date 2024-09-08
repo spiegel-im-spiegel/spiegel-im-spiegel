@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [スリングバッグ買うた](https://text.baldanders.info/remark/2024/09/chrome-kadet-max/)
 - [お散歩カメラ 2024-09-07](https://text.baldanders.info/remark/2024/09/07-osanpo-camera/)
 - [（マス）メディアの未来](https://text.baldanders.info/remark/2024/09/vice-and-404-media/)
 - [骨伝導ヘッドセットを買い換えた](https://text.baldanders.info/remark/2024/09/new-bone-conduction-headset/)
 - [お散歩カメラ 2024-08-31](https://text.baldanders.info/remark/2024/08/31-osanpo-camera/)
-- [『効率的な Go』読書会 4回目](https://text.baldanders.info/remark/2024/08/efficient-go-4/)
 <!-- BLOG-POST-LIST:END -->
