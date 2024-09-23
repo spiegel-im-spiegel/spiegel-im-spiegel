@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [広島で呑んだくれただけ](https://text.baldanders.info/remark/2024/09/drinking-in-hiroshima/)
 - [佐太神社に行こう（お散歩カメラ 2024-09-14）](https://text.baldanders.info/remark/2024/09/sada-shrine/)
 - [「松江のモダニズム建築群スタンプラリー」2周目](https://text.baldanders.info/remark/2024/09/matsue-architecture-stamp-rally-2nd/)
 - [スリングバッグ買うた](https://text.baldanders.info/remark/2024/09/chrome-kadet-max/)
 - [お散歩カメラ 2024-09-07](https://text.baldanders.info/remark/2024/09/07-osanpo-camera/)
-- [（マス）メディアの未来](https://text.baldanders.info/remark/2024/09/vice-and-404-media/)
 <!-- BLOG-POST-LIST:END -->
