@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [サイクリング日和でした（お散歩カメラ 2024-10-12）](https://text.baldanders.info/remark/2024/10/12-osanpo-camera/)
 - [「空」としての VTuber（まだ『VTuber学』を読んでる途中）](https://text.baldanders.info/remark/2024/10/vtuber-as-sunya/)
 - [Fediverse と Bluesky を相互接続する](https://text.baldanders.info/remark/2024/10/bridgy-fed-for-bluesky/)
 - [Baldanders.info 開設20周年記念](https://text.baldanders.info/remark/2024/10/20th-anniversary-of-baldandersinfo/)
 - [「東西出雲の王」を聴講する](https://text.baldanders.info/remark/2024/09/izumo-kingdum/)
-- [補集合としての VTuber（『VTuber学』を読み始める）](https://text.baldanders.info/remark/2024/09/a-study-in-vtuber/)
 <!-- BLOG-POST-LIST:END -->
