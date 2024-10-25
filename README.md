@@ -75,9 +75,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [今日の戯れ言 2024-10-25](https://text.baldanders.info/remark/2024/10/social-engineering/)
 - [アルゴリズムの時代](https://text.baldanders.info/remark/2024/10/the-age-of-algorithms/)
 - [2^136279841-1 is Prime!](https://text.baldanders.info/remark/2024/10/new-largest-mersenne-prime-number/)
 - [お散歩カメラ 2024-10-20](https://text.baldanders.info/remark/2024/10/20-osanpo-camera/)
 - [Ubuntu 24.10 へのアップグレード](https://text.baldanders.info/remark/2024/10/upgrade-ubuntu-24_10/)
-- [「王と前方後方墳 — 王道か、異端か。」](https://text.baldanders.info/remark/2024/10/king-and-zenpo-kohofun/)
 <!-- BLOG-POST-LIST:END -->
