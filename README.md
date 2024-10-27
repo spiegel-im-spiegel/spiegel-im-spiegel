@@ -74,9 +74,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [健康保険証と個人番号カード](https://text.baldanders.info/remark/2024/10/health-insurance-card/)
 - [お散歩カメラ 2024-10-26](https://text.baldanders.info/remark/2024/10/26-osanpo-camera/)
 - [今日の戯れ言 2024-10-25](https://text.baldanders.info/remark/2024/10/social-engineering/)
 - [アルゴリズムの時代](https://text.baldanders.info/remark/2024/10/the-age-of-algorithms/)
 - [2^136279841-1 is Prime!](https://text.baldanders.info/remark/2024/10/new-largest-mersenne-prime-number/)
-- [お散歩カメラ 2024-10-20](https://text.baldanders.info/remark/2024/10/20-osanpo-camera/)
 <!-- BLOG-POST-LIST:END -->
