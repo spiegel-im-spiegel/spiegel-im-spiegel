@@ -75,7 +75,7 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 
 <!-- BLOG-POST-LIST:START -->
 - [「城と城下町—出雲の戦国時代—」を聴講する](https://text.baldanders.info/remark/2024/10/castle-town-in-the-sengoku-period/)
-- [健康保険証と個人番号カード](https://text.baldanders.info/remark/2024/10/health-insurance-card/)
+- [健康保険証と個人番号カード（2024-10-30 追記あり）](https://text.baldanders.info/remark/2024/10/health-insurance-card/)
 - [お散歩カメラ 2024-10-26](https://text.baldanders.info/remark/2024/10/26-osanpo-camera/)
 - [今日の戯れ言 2024-10-25](https://text.baldanders.info/remark/2024/10/social-engineering/)
 - [アルゴリズムの時代](https://text.baldanders.info/remark/2024/10/the-age-of-algorithms/)
