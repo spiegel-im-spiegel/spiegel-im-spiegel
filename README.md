@@ -74,9 +74,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [お散歩カメラ 2024-11-03](https://text.baldanders.info/remark/2024/11/03-osanpo-camera/)
 - [Android 版 Thunderbird を導入する](https://text.baldanders.info/remark/2024/11/thunderbird-for-android/)
 - [「城と城下町—出雲の戦国時代—」を聴講する](https://text.baldanders.info/remark/2024/10/castle-town-in-the-sengoku-period/)
 - [健康保険証と個人番号カード（2024-10-30 追記あり）](https://text.baldanders.info/remark/2024/10/health-insurance-card/)
 - [お散歩カメラ 2024-10-26](https://text.baldanders.info/remark/2024/10/26-osanpo-camera/)
-- [今日の戯れ言 2024-10-25](https://text.baldanders.info/remark/2024/10/social-engineering/)
 <!-- BLOG-POST-LIST:END -->
