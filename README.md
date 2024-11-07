@@ -74,9 +74,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [何故クロスバイクなのか，または自転車に関する散財履歴](https://text.baldanders.info/remark/2024/11/why-x-bike/)
 - [はじめてのメカニカルキーボード](https://text.baldanders.info/remark/2024/11/mechanical-keyboard/)
 - [宍道湖の夕日と三日月](https://text.baldanders.info/remark/2024/11/sunset-and-crescent-moon-on-lake-shinji-ko/)
 - [お散歩カメラ 2024-11-03](https://text.baldanders.info/remark/2024/11/03-osanpo-camera/)
 - [Android 版 Thunderbird を導入する](https://text.baldanders.info/remark/2024/11/thunderbird-for-android/)
-- [「城と城下町—出雲の戦国時代—」を聴講する](https://text.baldanders.info/remark/2024/10/castle-town-in-the-sengoku-period/)
 <!-- BLOG-POST-LIST:END -->
