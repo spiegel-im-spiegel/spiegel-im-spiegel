@@ -74,9 +74,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anker Smart Pouch と USB Cable Checker 2 買うた](https://text.baldanders.info/remark/2024/11/new-gear/)
 - [そうだ，日本海へ行こう（お散歩カメラ 2024-11-09）](https://text.baldanders.info/remark/2024/11/09-osanpo-camera/)
 - [何故クロスバイクなのか，または自転車に関する散財履歴](https://text.baldanders.info/remark/2024/11/why-x-bike/)
 - [はじめてのメカニカルキーボード](https://text.baldanders.info/remark/2024/11/mechanical-keyboard/)
 - [宍道湖の夕日と三日月](https://text.baldanders.info/remark/2024/11/sunset-and-crescent-moon-on-lake-shinji-ko/)
-- [お散歩カメラ 2024-11-03](https://text.baldanders.info/remark/2024/11/03-osanpo-camera/)
 <!-- BLOG-POST-LIST:END -->
