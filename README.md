@@ -74,9 +74,9 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Anker Smart Pouch と USB Cable Checker 2 買うた](https://text.baldanders.info/remark/2024/11/new-gear/)
-- [そうだ，日本海へ行こう（お散歩カメラ 2024-11-09）](https://text.baldanders.info/remark/2024/11/09-osanpo-camera/)
-- [何故クロスバイクなのか，または自転車に関する散財履歴](https://text.baldanders.info/remark/2024/11/why-x-bike/)
-- [はじめてのメカニカルキーボード](https://text.baldanders.info/remark/2024/11/mechanical-keyboard/)
-- [宍道湖の夕日と三日月](https://text.baldanders.info/remark/2024/11/sunset-and-crescent-moon-on-lake-shinji-ko/)
+- [Go 1.22 の math/rand/v2 を使ってみる](https://zenn.dev/spiegel/articles/20240309-golang-math-rand-v2)
+- [画像ファイルのサイズを縮小したい](https://zenn.dev/spiegel/articles/20230506-downsizing-images)
+- [GoReleaser の設定のいくつかが DEPRECATED になっていた](https://zenn.dev/spiegel/articles/20230219-goreleaser-config)
+- [曖昧なブレス](https://zenn.dev/spiegel/articles/20221225-ambiguous-braces)
+- [Decorator Pattern で BOM を除去する](https://zenn.dev/spiegel/articles/20221029-remove-bom)
 <!-- BLOG-POST-LIST:END -->
