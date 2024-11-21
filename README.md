@@ -72,11 +72,3 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 <a href="https://zenn.dev/spiegel">Zenn</a>
 (<a href="https://github.com/spiegel-im-spiegel/github-pages-env/projects/1">Kanban</a>)
 </p>
-
-<!-- BLOG-POST-LIST:START -->
-- [Go 1.22 の math/rand/v2 を使ってみる](https://zenn.dev/spiegel/articles/20240309-golang-math-rand-v2)
-- [画像ファイルのサイズを縮小したい](https://zenn.dev/spiegel/articles/20230506-downsizing-images)
-- [GoReleaser の設定のいくつかが DEPRECATED になっていた](https://zenn.dev/spiegel/articles/20230219-goreleaser-config)
-- [曖昧なブレス](https://zenn.dev/spiegel/articles/20221225-ambiguous-braces)
-- [Decorator Pattern で BOM を除去する](https://zenn.dev/spiegel/articles/20221029-remove-bom)
-<!-- BLOG-POST-LIST:END -->
