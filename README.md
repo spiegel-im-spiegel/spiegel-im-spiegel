@@ -57,6 +57,7 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 | [koyomi: 日本のこよみ](https://github.com/goark/koyomi) | | |
 | [utf8bom: Strip leading UTF-8 BOM](https://github.com/goark/utf8bom) | | |
 | [struct2pflag: automatically registers struct fields as flags](https://github.com/goark/struct2pflag) | | |
+| [webinfo: Extract metadata and structured information from web pages](https://github.com/goark/webinfo) | | |
 
 ### Stats in GitHub
 
