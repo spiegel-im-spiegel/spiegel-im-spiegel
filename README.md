@@ -23,7 +23,7 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 | [apod: CLI Tool for Astronomy Picture of the Day with NASA API](https://github.com/goark/apod) | [:white_check_mark:](https://github.com/goark/apod/releases) | |
 | [gpt-cli: CLI tool for GPT with OpenAI API](https://github.com/goark/gpt-cli) | [:white_check_mark:](https://github.com/goark/gpt-cli/releases) | |
 | [toolbox: A collection of miscellaneous commands](https://github.com/goark/toolbox) | [:white_check_mark:](https://github.com/goark/toolbox/releases) | |
-| [pa-api: APIs for Amazon Product Advertising API v5 by Golang](https://github.com/goark/pa-api) | | [:white_check_mark:](https://text.baldanders.info/release/pa-api-v5/) |
+| [pa-api: Go client for the Amazon Creators API](https://github.com/goark/pa-api) | | [:white_check_mark:](https://text.baldanders.info/release/pa-api-v5/) |
 | [aozora-api: APIs for Aozora-bunko RESTful Service by Golang](https://github.com/goark/aozora) | | [:white_check_mark:](https://text.baldanders.info/release/aozora-api-package-for-golang/) |
 | [openbd-api: APIs for openBD by Golang](https://github.com/goark/openbd-api) | | [:white_check_mark:](https://text.baldanders.info/release/openbd-api-package-for-golang/) |
 | [errs: Error handling for Golang](https://github.com/goark/errs) | | [:white_check_mark:](https://text.baldanders.info/release/errs-package-for-golang/) |
