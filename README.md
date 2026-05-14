@@ -33,7 +33,7 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 | [krconv: Convert kana-character to roman-alphabet](https://github.com/goark/krconv) | |  |
 | [kkconv: Hiragana-Katakana Conversion](https://github.com/goark/kkconv) | |  |
 | [go-cvss: Common Vulnerability Scoring System (CVSS)](https://github.com/goark/go-cvss) | |  |
-| [cov19data: Importing WHO COVID-2019 Cases Global Data](https://github.com/goark/cov19data) | |  |
+| [cov19data: Importing WHO COVID-2019 Cases Global Data](https://github.com/goark/cov19data) (Archived) | |  |
 | [csvdata: Reading CSV Data](https://github.com/goark/csvdata) | |  |
 | [fetch: Fetch Data from URL](https://github.com/goark/fetch) | |  |
 | [koyomi: 日本のこよみ](https://github.com/goark/koyomi) | | |
