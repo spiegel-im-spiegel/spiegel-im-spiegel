@@ -16,7 +16,7 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 | ------- | :---: | :---: |
 | [gpgpdump: OpenPGP packet visualizer](https://github.com/goark/gpgpdump) | [:white_check_mark:](https://github.com/goark/gpgpdump/releases) | [:white_check_mark:](https://text.baldanders.info/release/gpgpdump/) |
 | [depm: Visualize depndency packages and modules](https://github.com/goark/depm) | [:white_check_mark:](https://github.com/goark/depm/releases) | [:white_check_mark:](https://text.baldanders.info/release/dependency-graph-for-golang-modules/) |
-| [books-data: Search for Books Data](https://github.com/goark/books-data) | [:white_check_mark:](https://github.com/goark/books-data/releases) | [:white_check_mark:](https://text.baldanders.info/release/books-data/) |
+| [books-data: Search for Books Data](https://github.com/goark/books-data) (Archived) | [:white_check_mark:](https://github.com/goark/books-data/releases) | [:white_check_mark:](https://text.baldanders.info/release/books-data/) |
 | [gnkf: Network Kanji Filter by Golang](https://github.com/goark/gnkf) | [:white_check_mark:](https://github.com/goark/gnkf/releases) | [:white_check_mark:](https://text.baldanders.info/release/gnkf/) |
 | [gimei-cli: 姓名・住所データ生成ツール](https://github.com/goark/gimei-cli) | [:white_check_mark:](https://github.com/goark/gimei-cli/releases) |  |
 | [ml: Make Link with Markdown Format](https://github.com/goark/ml) | [:white_check_mark:](https://github.com/goark/ml/releases) | |
