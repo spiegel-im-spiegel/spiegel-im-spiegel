@@ -20,7 +20,7 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 | [gnkf: Network Kanji Filter by Golang](https://github.com/goark/gnkf) | [:white_check_mark:](https://github.com/goark/gnkf/releases) | [:white_check_mark:](https://text.baldanders.info/release/gnkf/) |
 | [gimei-cli: 姓名・住所データ生成ツール](https://github.com/goark/gimei-cli) | [:white_check_mark:](https://github.com/goark/gimei-cli/releases) |  |
 | [ml: Make Link with Markdown Format](https://github.com/goark/ml) | [:white_check_mark:](https://github.com/goark/ml/releases) | |
-| [apod: CLI Tool for Astronomy Picture of the Day with NASA API](https://github.com/goark/apod) | [:white_check_mark:](https://github.com/goark/apod/releases) | |
+| [apod: CLI Tool for Astronomy Picture of the Day with NASA API](https://github.com/goark/apod) (Archived) | [:white_check_mark:](https://github.com/goark/apod/releases) | |
 | [gpt-cli: CLI tool for GPT with OpenAI API](https://github.com/goark/gpt-cli) | [:white_check_mark:](https://github.com/goark/gpt-cli/releases) | |
 | [toolbox: A collection of miscellaneous commands](https://github.com/goark/toolbox) | [:white_check_mark:](https://github.com/goark/toolbox/releases) | |
 | [pa-api: Go client for the Amazon Creators API](https://github.com/goark/pa-api) | | [:white_check_mark:](https://text.baldanders.info/release/pa-api-v5/) |
