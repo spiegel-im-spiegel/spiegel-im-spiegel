@@ -42,10 +42,6 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 | [struct2pflag: automatically registers struct fields as flags](https://github.com/goark/struct2pflag) | | |
 | [webinfo: Extract metadata and structured information from web pages](https://github.com/goark/webinfo) | | |
 
-### Stats in GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiegel-im-spiegel&hide=html)
-
 ### Contents
 
 <p>
