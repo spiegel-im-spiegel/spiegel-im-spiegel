@@ -41,6 +41,7 @@ These active Go packages have migrated to [goark](https://github.com/goark) repo
 | [utf8bom: Strip leading UTF-8 BOM](https://github.com/goark/utf8bom) | | |
 | [struct2pflag: automatically registers struct fields as flags](https://github.com/goark/struct2pflag) | | |
 | [webinfo: Extract metadata and structured information from web pages](https://github.com/goark/webinfo) | | |
+| [goark/concal: Concurrent iCalendar parser wrapper for Go](https://github.com/goark/concal) | | |
 
 ### Contents
 
